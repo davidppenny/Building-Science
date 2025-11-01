@@ -20,6 +20,7 @@ const els = {
   submitFillin: document.getElementById('submit-fillin'),
   feedback: document.getElementById('feedback'),
   nextBtn: document.getElementById('next-btn'),
+  quitBtn: document.getElementById('quit-btn'),
   finalScore: document.getElementById('final-score'),
   wrongList: document.getElementById('wrong-list'),
   restartBtn: document.getElementById('restart-btn'),
@@ -57,8 +58,10 @@ function setFeedback(ok, msg){
 }
 
 function setProgress(){
-  els.progress.textContent = `Question ${Math.min(currentIndex + 1, questions.length)} of ${questions.length}`;
-  els.score.textContent = `Score: ${score}`;
+  const totalQuestions = questions.length;
+  const asked = totalQuestions === 0 ? 0 : Math.min(currentIndex + 1, totalQuestions);
+  els.progress.textContent = `Question ${asked} of ${totalQuestions}`;
+  els.score.textContent = `Score: ${score}/${asked}`;
 }
 
 function show(el){ el.classList.remove('hidden'); }
@@ -104,12 +107,33 @@ async function startQuiz(){
     if(!Array.isArray(data)){
       throw new Error('Quiz data must be an array of questions.');
     }
-    questions = shuffle([...data]);
+        if(!Array.isArray(data)){
+      throw new Error('Quiz data must be an array of questions.');
+    }
+    if(data.length === 0){
+      alert('No questions are available for this topic yet.');
+      return;
+    }
+
+    let desiredCount = data.length;
+    while(true){
+      const defaultVal = Math.min(10, data.length);
+      const input = prompt(`How many questions would you like? (1-${data.length})`, String(defaultVal));
+      if(input === null){
+        return; // user cancelled
+      }
+      const parsed = Number.parseInt(input, 10);
+      if(Number.isInteger(parsed) && parsed >= 1 && parsed <= data.length){
+        desiredCount = parsed;
+        break;
+      }
+      alert(`Please enter a whole number between 1 and ${data.length}.`);
+    }
+
+    const pool = shuffle([...data]);
+    questions = pool.slice(0, desiredCount);
   }catch(err){
-      console.error(err);
-    const msg = err && err.message ? `Could not load quiz data. ${err.message}` : 'Could not load quiz data.';
-    setSetupError(msg);
-    els.startBtn.disabled = false;
+    alert(`Could not load quiz data. Make sure the JSON files are present. ${err.message}`);
     return;
   }
 
@@ -149,6 +173,7 @@ function showMultipleChoice(q){
   hide(els.fillin);
 
   const correct = q.answer;
+  const normalizedCorrect = correct != null ? String(correct) : '';
   const options = Array.isArray(q.options) ? q.options.slice() : [];
   // Ensure options exist; if not, fallback
   if(options.length === 0 && typeof correct === 'string'){
@@ -157,15 +182,26 @@ function showMultipleChoice(q){
   // Shuffle options for fairness
   shuffle(options);
 
-  options.forEach(opt => {
+  options.forEach((opt, idx) => {
     const btn = document.createElement('button');
     btn.className = 'option-btn';
-    btn.textContent = opt;
+        btn.dataset.choiceValue = String(opt);
+
+    const letterSpan = document.createElement('span');
+    letterSpan.className = 'option-letter';
+    letterSpan.textContent = `${String.fromCharCode(65 + idx)}.`;
+
+    const textSpan = document.createElement('span');
+    textSpan.className = 'option-text';
+    textSpan.textContent = opt;
+
+    btn.append(letterSpan, textSpan);
     btn.addEventListener('click', () => {
       if(answered) return;
       answered = true;
 
-      const isCorrect = opt === correct;
+      const selectedValue = String(opt);
+      const isCorrect = selectedValue === normalizedCorrect;
       if(isCorrect){
         btn.classList.add('correct');
         score += 1;
@@ -180,7 +216,7 @@ function showMultipleChoice(q){
         });
         // Also highlight the correct one
         [...els.options.querySelectorAll('button')].forEach(b => {
-          if(b.textContent === correct) b.classList.add('correct');
+        if(String(b.dataset.choiceValue) === normalizedCorrect) b.classList.add('correct');
         });
       }
       lockUI();
@@ -278,6 +314,7 @@ function restart(){
   currentIndex = 0;
   score = 0;
   wrongAnswers = [];
+  questions = [];
   els.feedback.textContent = '';
   els.options.innerHTML = '';
   els.fillinInput.value = '';
@@ -288,6 +325,7 @@ function restart(){
 els.startBtn.addEventListener('click', startQuiz);
 els.nextBtn.addEventListener('click', nextQuestion);
 els.restartBtn.addEventListener('click', restart);
+els.quitBtn.addEventListener('click', restart);
 
 // Footer year
 document.getElementById('year').textContent = new Date().getFullYear();
