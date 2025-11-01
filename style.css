@@ -74,6 +74,11 @@ button.secondary:hover{ background:#e3edf6; }
 button:disabled{ opacity:.6; cursor:not-allowed; }
 
 .hint{ color:var(--muted); margin-top:.5rem; }
+.setup-error{
+  margin-top:.75rem;
+  color: var(--incorrect);
+  font-weight: 600;
+}
 
 .quiz-head{
   display:flex;
