@@ -11,6 +11,7 @@ const els = {
   topic: document.getElementById('topic'),
   startBtn: document.getElementById('start-btn'),
   progress: document.getElementById('progress'),
+  setupError: document.getElementById('setup-error'),
   score: document.getElementById('score'),
   qText: document.getElementById('question-text'),
   options: document.getElementById('options'),
@@ -81,17 +82,38 @@ function resetUI(){
   hide(els.nextBtn);
 }
 
+function setSetupError(msg){
+  if(!els.setupError) return;
+  if(msg){
+    els.setupError.textContent = msg;
+    show(els.setupError);
+  }else{
+    els.setupError.textContent = '';
+    hide(els.setupError);
+  }
+}
+
 async function startQuiz(){
   const file = els.topic.value;
+  setSetupError('');
+  els.startBtn.disabled = true;
   try{
     const res = await fetch(file);
     if(!res.ok) throw new Error(`Failed to load ${file}`);
     const data = await res.json();
+    if(!Array.isArray(data)){
+      throw new Error('Quiz data must be an array of questions.');
+    }
     questions = shuffle([...data]);
   }catch(err){
-    alert('Could not load quiz data. Make sure the JSON files are present. ' + err.message);
+      console.error(err);
+    const msg = err && err.message ? `Could not load quiz data. ${err.message}` : 'Could not load quiz data.';
+    setSetupError(msg);
+    els.startBtn.disabled = false;
     return;
   }
+
+  els.startBtn.disabled = false;
 
   currentIndex = 0;
   score = 0;
