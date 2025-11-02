@@ -1,0 +1,1083 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which country is the fourth-largest producer of primary aluminum?",
+    "options": [
+      "Canada",
+      "China",
+      "India",
+      "Russia",
+      "Australia"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which province produces the majority of Canada's aluminum?",
+    "options": [
+      "Quebec",
+      "British Columbia",
+      "Ontario",
+      "Alberta",
+      "Newfoundland and Labrador"
+    ],
+    "answer": "Quebec"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Canada produced approximately how many million tonnes of primary aluminum in 2022?",
+    "options": [
+      "3.0",
+      "1.5",
+      "5.0",
+      "2.0",
+      "4.5"
+    ],
+    "answer": "3.0"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Secondary aluminum production requires about how much less energy than primary aluminum production?",
+    "options": [
+      "95%",
+      "50%",
+      "65%",
+      "75%",
+      "90%"
+    ],
+    "answer": "95%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What percentage of aluminum used in the automotive and construction industries is recycled?",
+    "options": [
+      "90%",
+      "50%",
+      "70%",
+      "80%",
+      "100%"
+    ],
+    "answer": "90%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The major raw material used to produce aluminum is:",
+    "options": [
+      "Bauxite",
+      "Hematite",
+      "Galena",
+      "Magnetite",
+      "Sphalerite"
+    ],
+    "answer": "Bauxite"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes aluminum particularly useful for extrusion?",
+    "options": [
+      "Ease of forming complex shapes",
+      "High melting point",
+      "High density",
+      "Magnetic properties",
+      "Low electrical conductivity"
+    ],
+    "answer": "Ease of forming complex shapes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s Young’s Modulus is roughly:",
+    "options": [
+      "70 GPa",
+      "200 GPa",
+      "100 GPa",
+      "150 GPa",
+      "50 GPa"
+    ],
+    "answer": "70 GPa"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The melting point of pure aluminum is closest to:",
+    "options": [
+      "660°C",
+      "530°C",
+      "720°C",
+      "400°C",
+      "580°C"
+    ],
+    "answer": "660°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s density is approximately:",
+    "options": [
+      "2.68 g/cm³",
+      "1.5 g/cm³",
+      "7.85 g/cm³",
+      "4.5 g/cm³",
+      "3.2 g/cm³"
+    ],
+    "answer": "2.68 g/cm³"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The raw material for aluminum production is the ore _______.",
+    "answer": "bauxite"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum has a Young’s modulus about _______ times lower than steel.",
+    "answer": "three"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The code T6 means solution heat-treated and _______ aged.",
+    "answer": "artificially"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy is the principal structural aluminum alloy in North America?",
+    "options": [
+      "6061",
+      "6063",
+      "7020",
+      "1080A",
+      "7075"
+    ],
+    "answer": "6061"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy is known for excellent surface finish in architectural applications?",
+    "options": [
+      "6063",
+      "6061",
+      "7020",
+      "1080A",
+      "5052"
+    ],
+    "answer": "6063"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the temper code 'T6' indicate?",
+    "options": [
+      "Solution heat-treated and artificially aged",
+      "Annealed",
+      "Strain hardened",
+      "Cold rolled",
+      "Naturally aged"
+    ],
+    "answer": "Solution heat-treated and artificially aged"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloying elements primarily make aluminum heat-treatable?",
+    "options": [
+      "Copper, magnesium, zinc, silicon",
+      "Chromium and nickel",
+      "Manganese and iron",
+      "Tin and lead",
+      "Carbon and sulfur"
+    ],
+    "answer": "Copper, magnesium, zinc, silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Over-aging in aluminum heat treatment primarily causes:",
+    "options": [
+      "Decreased mechanical strength",
+      "Increased hardness",
+      "Improved corrosion resistance",
+      "Higher melting point",
+      "Enhanced ductility"
+    ],
+    "answer": "Decreased mechanical strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Artificial aging of aluminum typically occurs at:",
+    "options": [
+      "200°C",
+      "100°C",
+      "300°C",
+      "150°C",
+      "250°C"
+    ],
+    "answer": "200°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s coefficient of thermal expansion is approximately:",
+    "options": [
+      "20–25 ×10⁻⁶ /°C",
+      "10–12 ×10⁻⁶ /°C",
+      "5–8 ×10⁻⁶ /°C",
+      "30–35 ×10⁻⁶ /°C",
+      "1–2 ×10⁻⁶ /°C"
+    ],
+    "answer": "20–25 ×10⁻⁶ /°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy has a yield strength around 450 MPa and is used in aerospace?",
+    "options": [
+      "2014A",
+      "6061",
+      "1080A",
+      "7020",
+      "5052"
+    ],
+    "answer": "2014A"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The major alloying element in 6xxx series aluminum is:",
+    "options": [
+      "Magnesium and Silicon",
+      "Copper",
+      "Manganese",
+      "Zinc",
+      "Iron"
+    ],
+    "answer": "Magnesium and Silicon"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Pure aluminum has the _______ strength and highest elongation among aluminum types.",
+    "answer": "lowest"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum’s primary ore, bauxite, contains oxides of _______ and _______.",
+    "answer": "iron and silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hydroelectric power is important to aluminum production because it:",
+    "options": [
+      "Provides low-carbon electricity for smelters",
+      "Increases ore quality",
+      "Improves extrusion",
+      "Lowers melting temperature",
+      "Reduces corrosion"
+    ],
+    "answer": "Provides low-carbon electricity for smelters"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What process forms aluminum billets into complex profiles?",
+    "options": [
+      "Extrusion",
+      "Rolling",
+      "Forging",
+      "Casting",
+      "Drawing"
+    ],
+    "answer": "Extrusion"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In aluminum extrusion, billet temperature is approximately:",
+    "options": [
+      "550°C",
+      "250°C",
+      "350°C",
+      "700°C",
+      "900°C"
+    ],
+    "answer": "550°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the aluminum temper system, the code 'O' indicates:",
+    "options": [
+      "Annealed – lowest strength",
+      "Strain hardened",
+      "Solution treated",
+      "Cold worked",
+      "As fabricated"
+    ],
+    "answer": "Annealed – lowest strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The most common use of aluminum in construction is in:",
+    "options": [
+      "Extruded profiles and curtain wall frames",
+      "Roof insulation",
+      "Rebar reinforcement",
+      "Concrete additives",
+      "Thermal cladding"
+    ],
+    "answer": "Extruded profiles and curtain wall frames"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s typical thermal conductivity (pure) is about:",
+    "options": [
+      "244 W/m·K",
+      "100 W/m·K",
+      "400 W/m·K",
+      "150 W/m·K",
+      "50 W/m·K"
+    ],
+    "answer": "244 W/m·K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which metal is most used for electrical wiring due to high conductivity?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Silver",
+      "Nickel",
+      "Zinc"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Bronze is an alloy of copper and:",
+    "options": [
+      "Tin",
+      "Zinc",
+      "Nickel",
+      "Lead",
+      "Iron"
+    ],
+    "answer": "Tin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Brass is an alloy of copper and:",
+    "options": [
+      "Zinc",
+      "Tin",
+      "Nickel",
+      "Magnesium",
+      "Manganese"
+    ],
+    "answer": "Zinc"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes copper useful for roofing?",
+    "options": [
+      "Corrosion resistance and formability",
+      "High stiffness",
+      "Low conductivity",
+      "Light weight",
+      "Low density"
+    ],
+    "answer": "Corrosion resistance and formability"
+  },
+  {
+    "type": "fill_blank",
+    "question": "An alloy of copper and zinc is called _______.",
+    "answer": "brass"
+  },
+  {
+    "type": "fill_blank",
+    "question": "An alloy of copper and tin is called _______.",
+    "answer": "bronze"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Copper’s main environmental issue is:",
+    "options": [
+      "High energy use during production",
+      "Toxicity",
+      "Poor recyclability",
+      "High density",
+      "Low corrosion resistance"
+    ],
+    "answer": "High energy use during production"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The most important use of zinc in construction is:",
+    "options": [
+      "Galvanizing steel",
+      "Making bronze",
+      "Battery production",
+      "Electrical wiring",
+      "Tool steel alloying"
+    ],
+    "answer": "Galvanizing steel"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Zinc coatings on steel are often referred to as _______.",
+    "answer": "galvanized"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Zinc alloys are best described as:",
+    "options": [
+      "Low density, low melting point, corrosion resistant",
+      "High strength, high density",
+      "Magnetic",
+      "Difficult to cast",
+      "High stiffness"
+    ],
+    "answer": "Low density, low melting point, corrosion resistant"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Zinc dissolves in both acids and bases, meaning it is:",
+    "options": [
+      "Amphoteric",
+      "Cathodic",
+      "Inert",
+      "Paramagnetic",
+      "Anodic only"
+    ],
+    "answer": "Amphoteric"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Lead is primarily used in construction for:",
+    "options": [
+      "Roofing and flashing",
+      "Reinforcing bars",
+      "Electrical wiring",
+      "Casting",
+      "Insulation"
+    ],
+    "answer": "Roofing and flashing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Lead’s main advantages include:",
+    "options": [
+      "High density and corrosion resistance",
+      "High strength",
+      "Magnetic properties",
+      "High stiffness",
+      "Low weight"
+    ],
+    "answer": "High density and corrosion resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tin is most commonly used to:",
+    "options": [
+      "Coat steel to prevent corrosion",
+      "Harden copper",
+      "Produce alloys with aluminum",
+      "Increase steel strength",
+      "Improve conductivity"
+    ],
+    "answer": "Coat steel to prevent corrosion"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nickel is a key component of:",
+    "options": [
+      "Stainless steel",
+      "Brass",
+      "Bronze",
+      "Lead alloys",
+      "Zinc alloys"
+    ],
+    "answer": "Stainless steel"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Chromium’s main function in steel alloys is to:",
+    "options": [
+      "Provide corrosion resistance and hardness",
+      "Increase ductility",
+      "Reduce density",
+      "Increase melting point",
+      "Improve thermal expansion"
+    ],
+    "answer": "Provide corrosion resistance and hardness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cadmium is often used for:",
+    "options": [
+      "Electroplating and bearing alloys",
+      "Welding",
+      "Galvanizing",
+      "Structural reinforcement",
+      "Casting molds"
+    ],
+    "answer": "Electroplating and bearing alloys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Silver has the highest:",
+    "options": [
+      "Electrical and thermal conductivity",
+      "Density",
+      "Corrosion resistance",
+      "Elastic modulus",
+      "Melting point"
+    ],
+    "answer": "Electrical and thermal conductivity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Gold is valued in electronics because it:",
+    "options": [
+      "Does not oxidize and conducts electricity well",
+      "Is cheap",
+      "Is magnetic",
+      "Has high strength",
+      "Improves cooling"
+    ],
+    "answer": "Does not oxidize and conducts electricity well"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The corrosion-protective layer on stainless steel is due to _______.",
+    "answer": "chromium"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The precious metal used for non-oxidizing electrical contacts is _______.",
+    "answer": "gold"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Exam Question: The electrode potential difference between dissimilar metals should not exceed:",
+    "options": [
+      "0.25 V",
+      "0.1 V",
+      "0.5 V",
+      "1.0 V",
+      "2.0 V"
+    ],
+    "answer": "0.25 V"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s density is approximately:",
+    "options": [
+      "2.68 g/cm³",
+      "1.5 g/cm³",
+      "7.85 g/cm³",
+      "4.5 g/cm³",
+      "3.2 g/cm³"
+    ],
+    "answer": "2.68 g/cm³"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The melting point of pure aluminum is closest to:",
+    "options": [
+      "660°C",
+      "530°C",
+      "720°C",
+      "400°C",
+      "580°C"
+    ],
+    "answer": "660°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which country is the fourth-largest producer of primary aluminum?",
+    "options": [
+      "Canada",
+      "China",
+      "India",
+      "Russia",
+      "Australia"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which country is the fourth-largest producer of primary aluminum?",
+    "options": [
+      "Canada",
+      "China",
+      "India",
+      "Russia",
+      "Australia"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Artificial aging of aluminum typically occurs at:",
+    "options": [
+      "200°C",
+      "100°C",
+      "300°C",
+      "150°C",
+      "250°C"
+    ],
+    "answer": "200°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Artificial aging of aluminum typically occurs at:",
+    "options": [
+      "200°C",
+      "100°C",
+      "300°C",
+      "150°C",
+      "250°C"
+    ],
+    "answer": "200°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes aluminum particularly useful for extrusion?",
+    "options": [
+      "Ease of forming complex shapes",
+      "High melting point",
+      "High density",
+      "Magnetic properties",
+      "Low electrical conductivity"
+    ],
+    "answer": "Ease of forming complex shapes"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum’s primary ore, bauxite, contains oxides of _______ and _______.",
+    "answer": "iron and silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The melting point of pure aluminum is closest to:",
+    "options": [
+      "660°C",
+      "530°C",
+      "720°C",
+      "400°C",
+      "580°C"
+    ],
+    "answer": "660°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the temper code 'T6' indicate?",
+    "options": [
+      "Solution heat-treated and artificially aged",
+      "Annealed",
+      "Strain hardened",
+      "Cold rolled",
+      "Naturally aged"
+    ],
+    "answer": "Solution heat-treated and artificially aged"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s Young’s Modulus is roughly:",
+    "options": [
+      "70 GPa",
+      "200 GPa",
+      "100 GPa",
+      "150 GPa",
+      "50 GPa"
+    ],
+    "answer": "70 GPa"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy is known for excellent surface finish in architectural applications?",
+    "options": [
+      "6063",
+      "6061",
+      "7020",
+      "1080A",
+      "5052"
+    ],
+    "answer": "6063"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloying elements primarily make aluminum heat-treatable?",
+    "options": [
+      "Copper, magnesium, zinc, silicon",
+      "Chromium and nickel",
+      "Manganese and iron",
+      "Tin and lead",
+      "Carbon and sulfur"
+    ],
+    "answer": "Copper, magnesium, zinc, silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy has a yield strength around 450 MPa and is used in aerospace?",
+    "options": [
+      "2014A",
+      "6061",
+      "1080A",
+      "7020",
+      "5052"
+    ],
+    "answer": "2014A"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s coefficient of thermal expansion is approximately:",
+    "options": [
+      "20–25 ×10⁻⁶ /°C",
+      "10–12 ×10⁻⁶ /°C",
+      "5–8 ×10⁻⁶ /°C",
+      "30–35 ×10⁻⁶ /°C",
+      "1–2 ×10⁻⁶ /°C"
+    ],
+    "answer": "20–25 ×10⁻⁶ /°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In aluminum extrusion, billet temperature is approximately:",
+    "options": [
+      "550°C",
+      "250°C",
+      "350°C",
+      "700°C",
+      "900°C"
+    ],
+    "answer": "550°C"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum’s primary ore, bauxite, contains oxides of _______ and _______.",
+    "answer": "iron and silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hydroelectric power is important to aluminum production because it:",
+    "options": [
+      "Provides low-carbon electricity for smelters",
+      "Increases ore quality",
+      "Improves extrusion",
+      "Lowers melting temperature",
+      "Reduces corrosion"
+    ],
+    "answer": "Provides low-carbon electricity for smelters"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s typical thermal conductivity (pure) is about:",
+    "options": [
+      "244 W/m·K",
+      "100 W/m·K",
+      "400 W/m·K",
+      "150 W/m·K",
+      "50 W/m·K"
+    ],
+    "answer": "244 W/m·K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s typical thermal conductivity (pure) is about:",
+    "options": [
+      "244 W/m·K",
+      "100 W/m·K",
+      "400 W/m·K",
+      "150 W/m·K",
+      "50 W/m·K"
+    ],
+    "answer": "244 W/m·K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the temper code 'T6' indicate?",
+    "options": [
+      "Solution heat-treated and artificially aged",
+      "Annealed",
+      "Strain hardened",
+      "Cold rolled",
+      "Naturally aged"
+    ],
+    "answer": "Solution heat-treated and artificially aged"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s Young’s Modulus is roughly:",
+    "options": [
+      "70 GPa",
+      "200 GPa",
+      "100 GPa",
+      "150 GPa",
+      "50 GPa"
+    ],
+    "answer": "70 GPa"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hydroelectric power is important to aluminum production because it:",
+    "options": [
+      "Provides low-carbon electricity for smelters",
+      "Increases ore quality",
+      "Improves extrusion",
+      "Lowers melting temperature",
+      "Reduces corrosion"
+    ],
+    "answer": "Provides low-carbon electricity for smelters"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy has a yield strength around 450 MPa and is used in aerospace?",
+    "options": [
+      "2014A",
+      "6061",
+      "1080A",
+      "7020",
+      "5052"
+    ],
+    "answer": "2014A"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the temper code 'T6' indicate?",
+    "options": [
+      "Solution heat-treated and artificially aged",
+      "Annealed",
+      "Strain hardened",
+      "Cold rolled",
+      "Naturally aged"
+    ],
+    "answer": "Solution heat-treated and artificially aged"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum’s primary ore, bauxite, contains oxides of _______ and _______.",
+    "answer": "iron and silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloying elements primarily make aluminum heat-treatable?",
+    "options": [
+      "Copper, magnesium, zinc, silicon",
+      "Chromium and nickel",
+      "Manganese and iron",
+      "Tin and lead",
+      "Carbon and sulfur"
+    ],
+    "answer": "Copper, magnesium, zinc, silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy has a yield strength around 450 MPa and is used in aerospace?",
+    "options": [
+      "2014A",
+      "6061",
+      "1080A",
+      "7020",
+      "5052"
+    ],
+    "answer": "2014A"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum’s primary ore, bauxite, contains oxides of _______ and _______.",
+    "answer": "iron and silicon"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Pure aluminum has the _______ strength and highest elongation among aluminum types.",
+    "answer": "lowest"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The most common use of aluminum in construction is in:",
+    "options": [
+      "Extruded profiles and curtain wall frames",
+      "Roof insulation",
+      "Rebar reinforcement",
+      "Concrete additives",
+      "Thermal cladding"
+    ],
+    "answer": "Extruded profiles and curtain wall frames"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The melting point of pure aluminum is closest to:",
+    "options": [
+      "660°C",
+      "530°C",
+      "720°C",
+      "400°C",
+      "580°C"
+    ],
+    "answer": "660°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum’s typical thermal conductivity (pure) is about:",
+    "options": [
+      "244 W/m·K",
+      "100 W/m·K",
+      "400 W/m·K",
+      "150 W/m·K",
+      "50 W/m·K"
+    ],
+    "answer": "244 W/m·K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes aluminum particularly useful for extrusion?",
+    "options": [
+      "Ease of forming complex shapes",
+      "High melting point",
+      "High density",
+      "Magnetic properties",
+      "Low electrical conductivity"
+    ],
+    "answer": "Ease of forming complex shapes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which country is the fourth-largest producer of primary aluminum?",
+    "options": [
+      "Canada",
+      "China",
+      "India",
+      "Russia",
+      "Australia"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Artificial aging of aluminum typically occurs at:",
+    "options": [
+      "200°C",
+      "100°C",
+      "300°C",
+      "150°C",
+      "250°C"
+    ],
+    "answer": "200°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The major alloying element in 6xxx series aluminum is:",
+    "options": [
+      "Magnesium and Silicon",
+      "Copper",
+      "Manganese",
+      "Zinc",
+      "Iron"
+    ],
+    "answer": "Magnesium and Silicon"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aluminum’s primary ore, bauxite, contains oxides of _______ and _______.",
+    "answer": "iron and silicon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Canada produced approximately how many million tonnes of primary aluminum in 2022?",
+    "options": [
+      "3.0",
+      "1.5",
+      "5.0",
+      "2.0",
+      "4.5"
+    ],
+    "answer": "3.0"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Artificial aging of aluminum typically occurs at:",
+    "options": [
+      "200°C",
+      "100°C",
+      "300°C",
+      "150°C",
+      "250°C"
+    ],
+    "answer": "200°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In aluminum extrusion, billet temperature is approximately:",
+    "options": [
+      "550°C",
+      "250°C",
+      "350°C",
+      "700°C",
+      "900°C"
+    ],
+    "answer": "550°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Canada produced approximately how many million tonnes of primary aluminum in 2022?",
+    "options": [
+      "3.0",
+      "1.5",
+      "5.0",
+      "2.0",
+      "4.5"
+    ],
+    "answer": "3.0"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes aluminum particularly useful for extrusion?",
+    "options": [
+      "Ease of forming complex shapes",
+      "High melting point",
+      "High density",
+      "Magnetic properties",
+      "Low electrical conductivity"
+    ],
+    "answer": "Ease of forming complex shapes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes aluminum particularly useful for extrusion?",
+    "options": [
+      "Ease of forming complex shapes",
+      "High melting point",
+      "High density",
+      "Magnetic properties",
+      "Low electrical conductivity"
+    ],
+    "answer": "Ease of forming complex shapes"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The raw material for aluminum production is the ore _______.",
+    "answer": "bauxite"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property makes aluminum particularly useful for extrusion?",
+    "options": [
+      "Ease of forming complex shapes",
+      "High melting point",
+      "High density",
+      "Magnetic properties",
+      "Low electrical conductivity"
+    ],
+    "answer": "Ease of forming complex shapes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which alloy has a yield strength around 450 MPa and is used in aerospace?",
+    "options": [
+      "2014A",
+      "6061",
+      "1080A",
+      "7020",
+      "5052"
+    ],
+    "answer": "2014A"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which country is the fourth-largest producer of primary aluminum?",
+    "options": [
+      "Canada",
+      "China",
+      "India",
+      "Russia",
+      "Australia"
+    ],
+    "answer": "Canada"
+  }
+]
