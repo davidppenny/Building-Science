@@ -3,11 +3,11 @@
     "type": "multiple_choice",
     "question": "In Canada, which region provides the largest share of iron ore for steelmaking?",
     "options": [
-      "Quebec (~61%)",
-      "Nunavut (~9%)",
-      "Newfoundland and Labrador (~30%)",
-      "Ontario (~45%)",
-      "British Columbia (~25%)"
+      "Quebec",
+      "Nunavut",
+      "Newfoundland and Labrador",
+      "Ontario",
+      "British Columbia"
     ],
     "answer": "Quebec (~61%)"
   },
@@ -381,7 +381,7 @@
   },
   {
     "type": "multiple_choice",
-    "question": "50W is commonly used for:",
+    "question": "50W steel is commonly used for:",
     "options": [
       "Square hollow structural sections",
       "Only rebar",
