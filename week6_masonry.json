@@ -1,0 +1,1217 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Load-bearing masonry was common from:",
+    "options": [
+      "1945–1975",
+      "1900–1950s",
+      "1700–1930s",
+      "1800–2000",
+      "1600–1800s"
+    ],
+    "answer": "1700–1930s"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Massive masonry buildings were typically built:",
+    "options": [
+      "With post-tensioning",
+      "With reinforced concrete",
+      "Without reinforcement",
+      "Using steel frames",
+      "Using timber trusses"
+    ],
+    "answer": "Without reinforcement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical height for load-bearing masonry buildings in Western Canada:",
+    "options": [
+      "3 storeys",
+      "1 storey",
+      "6 storeys",
+      "8 storeys",
+      "10 storeys"
+    ],
+    "answer": "3 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Spans for openings in massive masonry were often supported by:",
+    "options": [
+      "Cast stone",
+      "Steel or timber",
+      "Reinforced concrete",
+      "Brick arches",
+      "Concrete lintels"
+    ],
+    "answer": "Steel or timber"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition buildings marked the rise of:",
+    "options": [
+      "Post-modern architecture",
+      "Skyscrapers in structural engineering",
+      "Light-frame steel design",
+      "Industrial sheds",
+      "Timber-framed houses"
+    ],
+    "answer": "Skyscrapers in structural engineering"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition era timeframe:",
+    "options": [
+      "1905–1945",
+      "1880–1920",
+      "1800–1900",
+      "1920–1960",
+      "1940–1980"
+    ],
+    "answer": "1905–1945"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition buildings featured:",
+    "options": [
+      "Aluminum curtain walls",
+      "Steel frames encased in masonry",
+      "Glass facades",
+      "Unreinforced brick walls",
+      "Wood joist systems"
+    ],
+    "answer": "Steel frames encased in masonry"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Architectural terracotta was commonly used for:",
+    "options": [
+      "Floor slabs",
+      "Load-bearing walls",
+      "Roof trusses",
+      "Insulation",
+      "Decorative facades"
+    ],
+    "answer": "Decorative facades"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern veneer masonry emerged after:",
+    "options": [
+      "The 1960s",
+      "The Industrial Revolution",
+      "World War I",
+      "World War II",
+      "The Great Depression"
+    ],
+    "answer": "World War II"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern veneer masonry uses:",
+    "options": [
+      "Unreinforced concrete",
+      "Steel or reinforced concrete frames with single wythe veneers",
+      "Timber framing",
+      "Stone blocks",
+      "Load-bearing brick"
+    ],
+    "answer": "Steel or reinforced concrete frames with single wythe veneers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Veneer support evolved from:",
+    "options": [
+      "At grade → shelf angles → shelf angles with movement joints",
+      "At grade only",
+      "Timber supports",
+      "Steel lintels",
+      "Bond beams"
+    ],
+    "answer": "At grade → shelf angles → shelf angles with movement joints"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical building heights for modern veneer masonry in Western Canada:",
+    "options": [
+      "50 storeys",
+      "12 storeys",
+      "8 storeys",
+      "Up to 35 storeys",
+      "3 storeys"
+    ],
+    "answer": "Up to 35 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern structural masonry is usually made of:",
+    "options": [
+      "Unreinforced clay brick",
+      "Steel panels",
+      "Timber frames",
+      "Poured concrete walls",
+      "Concrete block with grouted cells and steel reinforcement"
+    ],
+    "answer": "Concrete block with grouted cells and steel reinforcement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical height of modern structural masonry buildings:",
+    "options": [
+      "15 storeys",
+      "20 storeys",
+      "8 storeys",
+      "3 storeys",
+      "10 storeys"
+    ],
+    "answer": "8 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern structural masonry connects:",
+    "options": [
+      "Windows to lintels",
+      "Roof and floor elements directly to masonry walls",
+      "Beams to columns",
+      "Foundations to steel",
+      "Columns to slabs"
+    ],
+    "answer": "Roof and floor elements directly to masonry walls"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Oldest masonry material:",
+    "options": [
+      "Brick",
+      "Terracotta",
+      "Steel",
+      "Concrete",
+      "Stone"
+    ],
+    "answer": "Stone"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is typically:",
+    "options": [
+      "Cast-in-place",
+      "Reinforced",
+      "Fired clay",
+      "Prestressed",
+      "Unreinforced or used as veneer"
+    ],
+    "answer": "Unreinforced or used as veneer"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Common BC stones include:",
+    "options": [
+      "Pumice, Basalt, Travertine",
+      "Sandstone, Granite, and Andesite",
+      "Quartzite, Schist, Shale",
+      "Slate, Dolomite, Basalt",
+      "Limestone, Gneiss, Marble"
+    ],
+    "answer": "Sandstone, Granite, and Andesite"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Historical bricks (1850–1910) were:",
+    "options": [
+      "Made of limestone",
+      "High-fired and dense",
+      "Lightweight",
+      "Reinforced",
+      "Low-fired and low strength"
+    ],
+    "answer": "Low-fired and low strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern bricks are:",
+    "options": [
+      "Hand-molded",
+      "Lime pressed",
+      "Sun-dried",
+      "Plastic formed",
+      "Machine-extruded and gas-kiln fired"
+    ],
+    "answer": "Machine-extruded and gas-kiln fired"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Dry pressed bricks are ______ and well-fired.",
+    "answer": "high density"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Terracotta tile was used primarily between:",
+    "options": [
+      "1950–1970",
+      "2000–present",
+      "1800–1850",
+      "1890–1910",
+      "1910–1940s"
+    ],
+    "answer": "1910–1940s"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Architectural terracotta was used for:",
+    "options": [
+      "Structural columns",
+      "Lintel beams",
+      "Foundation walls",
+      "Roof supports",
+      "Ornamental facades and cornices"
+    ],
+    "answer": "Ornamental facades and cornices"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cast concrete masonry was introduced around:",
+    "options": [
+      "1920s",
+      "1940s",
+      "1970s",
+      "1850s",
+      "1960s"
+    ],
+    "answer": "1920s"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In brick veneer walls, the veneer serves as:",
+    "options": [
+      "The primary structural wall",
+      "Insulation layer",
+      "Air barrier",
+      "Load-bearing core",
+      "A non-structural facing"
+    ],
+    "answer": "A non-structural facing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Brick veneer walls require:",
+    "options": [
+      "Sealed head joints",
+      "Air space and proper flashing",
+      "Tight mortar joints",
+      "No movement joints",
+      "Continuous insulation only"
+    ],
+    "answer": "Air space and proper flashing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Relief angles are used to:",
+    "options": [
+      "Attach flashing",
+      "Support veneer weight above 30 ft",
+      "Vent air cavities",
+      "Anchor insulation",
+      "Seal weep holes"
+    ],
+    "answer": "Support veneer weight above 30 ft"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Masonry deterioration is driven mainly by:",
+    "options": [
+      "Vibration only",
+      "Moisture, contaminants, and movement",
+      "Solar radiation",
+      "Drying shrinkage",
+      "Thermal expansion"
+    ],
+    "answer": "Moisture, contaminants, and movement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Frost damage occurs when:",
+    "options": [
+      "Critical saturation (Scrit) is exceeded",
+      "Temperature exceeds 40°C",
+      "Moisture content is zero",
+      "Salt content is low",
+      "Below freezing always"
+    ],
+    "answer": "Critical saturation (Scrit) is exceeded"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Subflorescence causes:",
+    "options": [
+      "Efflorescence on surface",
+      "No visible damage",
+      "Cracking in mortar only",
+      "Color fading",
+      "Spalling and flaking"
+    ],
+    "answer": "Spalling and flaking"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Acidic rain can dissolve:",
+    "options": [
+      "Basalt",
+      "Sandstone",
+      "Granite",
+      "Schist",
+      "Calcareous stones and concrete"
+    ],
+    "answer": "Calcareous stones and concrete"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Steel in masonry corrodes faster than in concrete because:",
+    "options": [
+      "Steel is thicker",
+      "Mortar is more permeable and less alkaline",
+      "Mortar has high pH",
+      "It’s uncoated",
+      "Steel grade is lower"
+    ],
+    "answer": "Mortar is more permeable and less alkaline"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Corrosion of embedded steel can expand up to:",
+    "options": [
+      "5×",
+      "7× its original volume",
+      "2×",
+      "10×",
+      "3×"
+    ],
+    "answer": "7× its original volume"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
+    "answer": "moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood decay can occur due to:",
+    "options": [
+      "Thermal expansion",
+      "Moisture migration from masonry to timber",
+      "UV degradation",
+      "Salt crystallization",
+      "Carbonation"
+    ],
+    "answer": "Moisture migration from masonry to timber"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stress-related damage is often caused by:",
+    "options": [
+      "Load concentration or building movement",
+      "Efflorescence",
+      "Frost heave",
+      "Acid rain",
+      "Thermal radiation"
+    ],
+    "answer": "Load concentration or building movement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Organic growth such as moss and algae:",
+    "options": [
+      "Reduce salt formation",
+      "Increase color uniformity",
+      "Draw minerals and weaken surfaces",
+      "Prevent decay",
+      "Add insulation"
+    ],
+    "answer": "Draw minerals and weaken surfaces"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "First step in masonry remediation is to:",
+    "options": [
+      "Add insulation",
+      "Replace materials",
+      "Determine cause through testing and drawings",
+      "Apply sealer immediately",
+      "Repoint all joints"
+    ],
+    "answer": "Determine cause through testing and drawings"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Embedded steel can be located using:",
+    "options": [
+      "Core sampling",
+      "Detectors or dismantling",
+      "Moisture sensors",
+      "Infrared imaging",
+      "Thermal cameras"
+    ],
+    "answer": "Detectors or dismantling"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mortar joints should be repointed using:",
+    "options": [
+      "Concave tooling for watertightness",
+      "Wide open joints",
+      "Flat joints",
+      "Deep rakes",
+      "Sharp edges"
+    ],
+    "answer": "Concave tooling for watertightness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mortar is composed of:",
+    "options": [
+      "Gypsum and sand",
+      "Silica and water",
+      "Clay and resin",
+      "Bitumen and gravel",
+      "Sand and binder (cement + lime)"
+    ],
+    "answer": "Sand and binder (cement + lime)"
+  },
+  {
+    "type": "fill_blank",
+    "question": "ASTM C270 defines mortar types based on ______ and durability.",
+    "answer": "exposure"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For soft brick, the preferred mortar types are:",
+    "options": [
+      "M only",
+      "S or N",
+      "K only",
+      "N or O",
+      "L, K, or O"
+    ],
+    "answer": "L, K, or O"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parks Canada (2003) standards emphasize:",
+    "options": [
+      "Preserving heritage masonry and proper drainage",
+      "Using synthetic caulks",
+      "Overpainting surfaces",
+      "Sandblasting cleaning",
+      "Applying hard mortars"
+    ],
+    "answer": "Preserving heritage masonry and proper drainage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cleaning historic masonry should be done using:",
+    "options": [
+      "High-pressure steam",
+      "Acid wash",
+      "Low-pressure water and soft brushes",
+      "Abrasive blasting",
+      "Power grinding"
+    ],
+    "answer": "Low-pressure water and soft brushes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mortar for heritage repairs must be:",
+    "options": [
+      "Equal in strength",
+      "Harder than stone",
+      "Softer than the masonry",
+      "Synthetic",
+      "Hydraulic"
+    ],
+    "answer": "Softer than the masonry"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Repoint only ______ joints in heritage masonry.",
+    "answer": "deteriorated"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If a brick facade shows salt crystals and flaking, the issue is likely:",
+    "options": [
+      "Subflorescence from trapped moisture",
+      "Alkaline leaching",
+      "Efflorescence only",
+      "Surface staining",
+      "Thermal cracking"
+    ],
+    "answer": "Subflorescence from trapped moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A masonry wall cracking along window heads suggests:",
+    "options": [
+      "Poor flashing",
+      "Freeze-thaw damage",
+      "Efflorescence",
+      "Corroding steel lintels expanding",
+      "Settling foundation"
+    ],
+    "answer": "Corroding steel lintels expanding"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In masonry restoration, the best long-term prevention strategy is:",
+    "options": [
+      "High-strength mortar",
+      "Adding paint coating",
+      "Surface hardeners",
+      "Dense sealants",
+      "Eliminating water entry"
+    ],
+    "answer": "Eliminating water entry"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Veneer support evolved from:",
+    "options": [
+      "At grade → shelf angles → shelf angles with movement joints",
+      "At grade only",
+      "Timber supports",
+      "Steel lintels",
+      "Bond beams"
+    ],
+    "answer": "At grade → shelf angles → shelf angles with movement joints"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Masonry deterioration is driven mainly by:",
+    "options": [
+      "Vibration only",
+      "Moisture, contaminants, and movement",
+      "Solar radiation",
+      "Drying shrinkage",
+      "Thermal expansion"
+    ],
+    "answer": "Moisture, contaminants, and movement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If a brick facade shows salt crystals and flaking, the issue is likely:",
+    "options": [
+      "Subflorescence from trapped moisture",
+      "Alkaline leaching",
+      "Efflorescence only",
+      "Surface staining",
+      "Thermal cracking"
+    ],
+    "answer": "Subflorescence from trapped moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition era timeframe:",
+    "options": [
+      "1905–1945",
+      "1880–1920",
+      "1800–1900",
+      "1920–1960",
+      "1940–1980"
+    ],
+    "answer": "1905–1945"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mortar joints should be repointed using:",
+    "options": [
+      "Concave tooling for watertightness",
+      "Wide open joints",
+      "Flat joints",
+      "Deep rakes",
+      "Sharp edges"
+    ],
+    "answer": "Concave tooling for watertightness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Corrosion of embedded steel can expand up to:",
+    "options": [
+      "5×",
+      "7× its original volume",
+      "2×",
+      "10×",
+      "3×"
+    ],
+    "answer": "7× its original volume"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mortar joints should be repointed using:",
+    "options": [
+      "Concave tooling for watertightness",
+      "Wide open joints",
+      "Flat joints",
+      "Deep rakes",
+      "Sharp edges"
+    ],
+    "answer": "Concave tooling for watertightness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Embedded steel can be located using:",
+    "options": [
+      "Core sampling",
+      "Detectors or dismantling",
+      "Moisture sensors",
+      "Infrared imaging",
+      "Thermal cameras"
+    ],
+    "answer": "Detectors or dismantling"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In brick veneer walls, the veneer serves as:",
+    "options": [
+      "The primary structural wall",
+      "Insulation layer",
+      "Air barrier",
+      "Load-bearing core",
+      "A non-structural facing"
+    ],
+    "answer": "A non-structural facing"
+  },
+  {
+    "type": "fill_blank",
+    "question": "ASTM C270 defines mortar types based on ______ and durability.",
+    "answer": "exposure"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Massive masonry buildings were typically built:",
+    "options": [
+      "With post-tensioning",
+      "With reinforced concrete",
+      "Without reinforcement",
+      "Using steel frames",
+      "Using timber trusses"
+    ],
+    "answer": "Without reinforcement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Spans for openings in massive masonry were often supported by:",
+    "options": [
+      "Cast stone",
+      "Steel or timber",
+      "Reinforced concrete",
+      "Brick arches",
+      "Concrete lintels"
+    ],
+    "answer": "Steel or timber"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition era timeframe:",
+    "options": [
+      "1905–1945",
+      "1880–1920",
+      "1800–1900",
+      "1920–1960",
+      "1940–1980"
+    ],
+    "answer": "1905–1945"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical height of modern structural masonry buildings:",
+    "options": [
+      "15 storeys",
+      "20 storeys",
+      "8 storeys",
+      "3 storeys",
+      "10 storeys"
+    ],
+    "answer": "8 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Relief angles are used to:",
+    "options": [
+      "Attach flashing",
+      "Support veneer weight above 30 ft",
+      "Vent air cavities",
+      "Anchor insulation",
+      "Seal weep holes"
+    ],
+    "answer": "Support veneer weight above 30 ft"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern veneer masonry emerged after:",
+    "options": [
+      "The 1960s",
+      "The Industrial Revolution",
+      "World War I",
+      "World War II",
+      "The Great Depression"
+    ],
+    "answer": "World War II"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Relief angles are used to:",
+    "options": [
+      "Attach flashing",
+      "Support veneer weight above 30 ft",
+      "Vent air cavities",
+      "Anchor insulation",
+      "Seal weep holes"
+    ],
+    "answer": "Support veneer weight above 30 ft"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Corrosion of embedded steel can expand up to:",
+    "options": [
+      "5×",
+      "7× its original volume",
+      "2×",
+      "10×",
+      "3×"
+    ],
+    "answer": "7× its original volume"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Common BC stones include:",
+    "options": [
+      "Pumice, Basalt, Travertine",
+      "Sandstone, Granite, and Andesite",
+      "Quartzite, Schist, Shale",
+      "Slate, Dolomite, Basalt",
+      "Limestone, Gneiss, Marble"
+    ],
+    "answer": "Sandstone, Granite, and Andesite"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
+    "answer": "moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Subflorescence causes:",
+    "options": [
+      "Efflorescence on surface",
+      "No visible damage",
+      "Cracking in mortar only",
+      "Color fading",
+      "Spalling and flaking"
+    ],
+    "answer": "Spalling and flaking"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition era timeframe:",
+    "options": [
+      "1905–1945",
+      "1880–1920",
+      "1800–1900",
+      "1920–1960",
+      "1940–1980"
+    ],
+    "answer": "1905–1945"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical building heights for modern veneer masonry in Western Canada:",
+    "options": [
+      "50 storeys",
+      "12 storeys",
+      "8 storeys",
+      "Up to 35 storeys",
+      "3 storeys"
+    ],
+    "answer": "Up to 35 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Relief angles are used to:",
+    "options": [
+      "Attach flashing",
+      "Support veneer weight above 30 ft",
+      "Vent air cavities",
+      "Anchor insulation",
+      "Seal weep holes"
+    ],
+    "answer": "Support veneer weight above 30 ft"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Relief angles are used to:",
+    "options": [
+      "Attach flashing",
+      "Support veneer weight above 30 ft",
+      "Vent air cavities",
+      "Anchor insulation",
+      "Seal weep holes"
+    ],
+    "answer": "Support veneer weight above 30 ft"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition buildings marked the rise of:",
+    "options": [
+      "Post-modern architecture",
+      "Skyscrapers in structural engineering",
+      "Light-frame steel design",
+      "Industrial sheds",
+      "Timber-framed houses"
+    ],
+    "answer": "Skyscrapers in structural engineering"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition buildings marked the rise of:",
+    "options": [
+      "Post-modern architecture",
+      "Skyscrapers in structural engineering",
+      "Light-frame steel design",
+      "Industrial sheds",
+      "Timber-framed houses"
+    ],
+    "answer": "Skyscrapers in structural engineering"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical height for load-bearing masonry buildings in Western Canada:",
+    "options": [
+      "3 storeys",
+      "1 storey",
+      "6 storeys",
+      "8 storeys",
+      "10 storeys"
+    ],
+    "answer": "3 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Historical bricks (1850–1910) were:",
+    "options": [
+      "Made of limestone",
+      "High-fired and dense",
+      "Lightweight",
+      "Reinforced",
+      "Low-fired and low strength"
+    ],
+    "answer": "Low-fired and low strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
+    "answer": "moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern veneer masonry emerged after:",
+    "options": [
+      "The 1960s",
+      "The Industrial Revolution",
+      "World War I",
+      "World War II",
+      "The Great Depression"
+    ],
+    "answer": "World War II"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical height of modern structural masonry buildings:",
+    "options": [
+      "15 storeys",
+      "20 storeys",
+      "8 storeys",
+      "3 storeys",
+      "10 storeys"
+    ],
+    "answer": "8 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Corrosion of embedded steel can expand up to:",
+    "options": [
+      "5×",
+      "7× its original volume",
+      "2×",
+      "10×",
+      "3×"
+    ],
+    "answer": "7× its original volume"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Subflorescence causes:",
+    "options": [
+      "Efflorescence on surface",
+      "No visible damage",
+      "Cracking in mortar only",
+      "Color fading",
+      "Spalling and flaking"
+    ],
+    "answer": "Spalling and flaking"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical building heights for modern veneer masonry in Western Canada:",
+    "options": [
+      "50 storeys",
+      "12 storeys",
+      "8 storeys",
+      "Up to 35 storeys",
+      "3 storeys"
+    ],
+    "answer": "Up to 35 storeys"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Transition buildings marked the rise of:",
+    "options": [
+      "Post-modern architecture",
+      "Skyscrapers in structural engineering",
+      "Light-frame steel design",
+      "Industrial sheds",
+      "Timber-framed houses"
+    ],
+    "answer": "Skyscrapers in structural engineering"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mortar is composed of:",
+    "options": [
+      "Gypsum and sand",
+      "Silica and water",
+      "Clay and resin",
+      "Bitumen and gravel",
+      "Sand and binder (cement + lime)"
+    ],
+    "answer": "Sand and binder (cement + lime)"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
+    "answer": "moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Architectural terracotta was used for:",
+    "options": [
+      "Structural columns",
+      "Lintel beams",
+      "Foundation walls",
+      "Roof supports",
+      "Ornamental facades and cornices"
+    ],
+    "answer": "Ornamental facades and cornices"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Embedded steel can be located using:",
+    "options": [
+      "Core sampling",
+      "Detectors or dismantling",
+      "Moisture sensors",
+      "Infrared imaging",
+      "Thermal cameras"
+    ],
+    "answer": "Detectors or dismantling"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern veneer masonry emerged after:",
+    "options": [
+      "The 1960s",
+      "The Industrial Revolution",
+      "World War I",
+      "World War II",
+      "The Great Depression"
+    ],
+    "answer": "World War II"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Relief angles are used to:",
+    "options": [
+      "Attach flashing",
+      "Support veneer weight above 30 ft",
+      "Vent air cavities",
+      "Anchor insulation",
+      "Seal weep holes"
+    ],
+    "answer": "Support veneer weight above 30 ft"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stone masonry is valued for:",
+    "options": [
+      "Transparency",
+      "Flexibility",
+      "Elastic behavior",
+      "Durability and compressive strength",
+      "Tensile capacity"
+    ],
+    "answer": "Durability and compressive strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
+    "answer": "white powdery"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Modern veneer masonry emerged after:",
+    "options": [
+      "The 1960s",
+      "The Industrial Revolution",
+      "World War I",
+      "World War II",
+      "The Great Depression"
+    ],
+    "answer": "World War II"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Massive masonry buildings were typically built:",
+    "options": [
+      "With post-tensioning",
+      "With reinforced concrete",
+      "Without reinforcement",
+      "Using steel frames",
+      "Using timber trusses"
+    ],
+    "answer": "Without reinforcement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "First step in masonry remediation is to:",
+    "options": [
+      "Add insulation",
+      "Replace materials",
+      "Determine cause through testing and drawings",
+      "Apply sealer immediately",
+      "Repoint all joints"
+    ],
+    "answer": "Determine cause through testing and drawings"
+  }
+]
