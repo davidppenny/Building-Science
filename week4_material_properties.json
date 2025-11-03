@@ -49,6 +49,18 @@
   },
   {
     "type": "multiple_choice",
+    "question": "What type of bonding is described by 'dipolar attraction between uncharged atoms'?",
+    "options": [
+      "Van der Waals",
+      "Ionic",
+      "Covalent",
+      "Metallic",
+      "Mixed bonds"
+    ],
+    "answer": "Van der Waals"
+  },
+  {
+    "type": "multiple_choice",
     "question": "Which bond type is characterized by a 'sea' of free electrons?",
     "options": [
       "Metallic bonding",
@@ -61,15 +73,15 @@
   },
   {
     "type": "multiple_choice",
-    "question": "Hydrogen bonding is important because it...",
+    "question": "Hydrogen bonding...",
     "options": [
-      "helps keep water liquid at room temperature and binds polymer chains",
+      "is when hydrogen gives up it's electron for oxygen to acquire it",
       "creates metallic conductivity",
       "is the strongest bond type",
       "is a type of ionic bond",
       "only occurs in metals"
     ],
-    "answer": "helps keep water liquid at room temperature and binds polymer chains"
+    "answer": "is when hydrogen gives up it's electron for oxygen to acquire it"
   },
   {
     "type": "multiple_choice",
