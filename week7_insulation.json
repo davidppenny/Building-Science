@@ -1,86 +1,1861 @@
 [
   {
     "type": "multiple_choice",
-    "question": "Which inorganic insulation would be most appropriate for a high-temperature furnace lining due to its 1000\u00b0C resistance?",
+    "question": "Vacuum insulated glass reduces heat transfer mainly by:",
     "options": [
-      "Cellulose",
-      "Rock wool",
-      "Polyurethane",
-      "Cork",
-      "Fiberglass"
+      "Eliminating gas conduction between panes",
+      "Increasing emissivity",
+      "Using reactive coatings only",
+      "Adding water vapor",
+      "Increasing pane thickness only"
     ],
-    "answer": "Rock wool"
+    "answer": "Eliminating gas conduction between panes"
   },
   {
     "type": "multiple_choice",
-    "question": "Which mechanism of heat transfer is least affected by increasing insulation thickness?",
+    "question": "Among EPS, XPS, and mineral wool, which typically has the highest embodied carbon per R·m²?",
     "options": [
+      "Mineral wool",
+      "Cork board",
+      "Cellulose",
+      "XPS (historically)",
+      "EPS"
+    ],
+    "answer": "XPS (historically)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dense-packed cellulose in walls is preferred over loose-fill to:",
+    "options": [
+      "Increase moisture content",
+      "Decrease hygrothermal buffering",
+      "Increase emissivity",
+      "Reduce voids and air movement",
+      "Increase pore size"
+    ],
+    "answer": "Reduce voids and air movement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Thermal conductance (U-value) refers primarily to a(n):",
+    "options": [
+      "Air-void fraction",
+      "Surface emissivity",
+      "Assembly property (W/m²·K)",
+      "Material property (W/m·K)",
+      "Mass-specific heat"
+    ],
+    "answer": "Assembly property (W/m²·K)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cellular glass is manufactured by:",
+    "options": [
+      "Casting polyurethane",
+      "Extruding EPS beads",
+      "Fusing glass with carbon to create sealed bubbles",
+      "Pressing cork granules",
+      "Sintering cellulose fibers"
+    ],
+    "answer": "Fusing glass with carbon to create sealed bubbles"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Embodied energy includes energy for:",
+    "options": [
+      "Only transport",
+      "Only recycling",
+      "Only on-site installation",
+      "Only operational energy",
+      "Extraction, processing, transport, and manufacturing"
+    ],
+    "answer": "Extraction, processing, transport, and manufacturing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If the density of an insulation matrix is too low, what governs the primary heat loss mechanism?",
+    "options": [
+      "Conduction through the matrix",
+      "Air convection",
+      "Knudsen effect",
+      "Moisture diffusion",
+      "Radiation absorption"
+    ],
+    "answer": "Air convection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "An HFO-blown foam is selected primarily to:",
+    "options": [
+      "Increase water absorption",
+      "Reduce climate impact while keeping high initial R",
+      "Reduce compressive strength",
+      "Maximize vapor permeance",
+      "Eliminate LTTR needs"
+    ],
+    "answer": "Reduce climate impact while keeping high initial R"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What acts as a preservative, a flame retardant, and a deterrent against decay organisms and insects in biobased materials like cellulose and cotton?",
+    "options": [
+      "Gaseous blowing agents",
+      "Asphaltic facings",
+      "Borate-based treatments",
+      "Formaldehyde binders",
+      "Siloxane coatings"
+    ],
+    "answer": "Borate-based treatments"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which form of Fiberglass insulation is recommended for attics with many wires, pipes, and irregular spaces to ensure a complete and effective layer?",
+    "options": [
+      "EPS beads",
+      "Fiberglass board",
+      "Fiberglass batts",
+      "Loose-fill fiberglass",
+      "Drainage boards"
+    ],
+    "answer": "Loose-fill fiberglass"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why can very low-density foams underperform despite thick layers?",
+    "options": [
+      "They are too hydrophilic",
+      "Large pore sizes permit convection within cells",
+      "They delaminate under UV",
+      "They reflect more IR",
+      "They absorb more CO₂"
+    ],
+    "answer": "Large pore sizes permit convection within cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Spray polyurethane foam (closed-cell) provides:",
+    "options": [
+      "Zero shrinkage risk",
+      "Noncombustibility",
+      "No air sealing",
+      "Air sealing + high R/in + structural adhesion",
+      "Low compressive strength vs. EPS"
+    ],
+    "answer": "Air sealing + high R/in + structural adhesion"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Thermal conductivity is typically denoted by the Greek letter ______.",
+    "answer": "lambda"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A reflective surface is most effective when facing:",
+    "options": [
+      "Saturated mineral wool",
+      "Solid wood",
+      "An air space",
+      "Another foil tightly bonded",
+      "Concrete"
+    ],
+    "answer": "An air space"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In an exterior insulation retrofit, pre-compression of batts should be avoided because it:",
+    "options": [
+      "Blocks radiation",
+      "Raises solid conduction and reduces R",
+      "Eliminates convection completely",
+      "Increases emissivity",
+      "Improves vapor control"
+    ],
+    "answer": "Raises solid conduction and reduces R"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For applications like rigid foam under a floor slab, which property is typically prioritized over pure insulating performance?",
+    "options": [
+      "Vapor permeability",
+      "Solar reflectance",
+      "Hygroscopic ability",
+      "Low embodied energy",
+      "Compressive strength"
+    ],
+    "answer": "Compressive strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A rigid foam chosen primarily for zero vapor permeance is:",
+    "options": [
+      "EPS",
+      "Open-cell SPF",
+      "XPS",
+      "Cellular glass",
+      "Polyiso"
+    ],
+    "answer": "Cellular glass"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "R-value drift is promoted by:",
+    "options": [
+      "Black pigmentation",
+      "Loss of low-λ gases through facers/edges over time",
+      "Dust on foils only",
+      "Lower vapor pressure outside",
+      "Higher density mineral wool"
+    ],
+    "answer": "Loss of low-λ gases through facers/edges over time"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sauna envelope choice:",
+    "options": [
+      "Mineral wool + aluminum foil vapor retarder",
+      "Open-cell SPF only",
+      "EPS beads",
+      "Cellulose batts",
+      "Wood fiber board without foil"
+    ],
+    "answer": "Mineral wool + aluminum foil vapor retarder"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Above-grade wall in wildfire zone:",
+    "options": [
+      "Mineral wool exterior insulation behind noncombustible cladding",
+      "Open-cell SPF exterior",
+      "EPS exterior only",
+      "Polyiso exposed",
+      "Cellulose exterior only"
+    ],
+    "answer": "Mineral wool exterior insulation behind noncombustible cladding"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What allows brand-new closed-cell foams, such as polyiso, to achieve higher initial R-values than insulation that uses air?",
+    "options": [
+      "They rely on larger air pockets",
+      "They use higher-density polymers",
+      "They use special blowing agents with lower conductivity than air",
+      "They utilize the Knudsen effect",
+      "They have embedded metal facers only"
+    ],
+    "answer": "They use special blowing agents with lower conductivity than air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a cathedral roof, where is a radiant barrier most effective?",
+    "options": [
+      "Behind vapor retarder paint",
+      "Bonded to concrete",
+      "Facing the ventilated air space below the roof deck",
+      "Under asphalt felt without gap",
+      "Buried within dense-pack"
+    ],
+    "answer": "Facing the ventilated air space below the roof deck"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The purpose of a blowing agent in closed-cell foams is to lower the effective ______ of the trapped gas.",
+    "answer": "conductivity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A caution with cotton insulation is:",
+    "options": [
+      "Corrosion of metals",
+      "Excess chloride content",
+      "Potential moisture/mould issues if wetted",
+      "High ODP",
+      "High GWP blowing agents"
+    ],
+    "answer": "Potential moisture/mould issues if wetted"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For cold storage panels, gas retention is enhanced by:",
+    "options": [
+      "Metal/foil facers and high-quality seals",
+      "Black facers for solar gain",
+      "Lower density foam",
+      "Higher pore size",
+      "Perforated skins"
+    ],
+    "answer": "Metal/foil facers and high-quality seals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A slumped batt indicates loss in:",
+    "options": [
+      "Thickness and effective R-value",
+      "Vapor permeability only",
+      "Fire rating only",
+      "LTTR only",
+      "Emissivity only"
+    ],
+    "answer": "Thickness and effective R-value"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Exterior balcony thermal bridge mitigation:",
+    "options": [
+      "Continuous rigid insulation and structural thermal break",
+      "Increase slab thickness",
+      "Add foil paint",
+      "Add cellulose inside",
+      "Use darker color"
+    ],
+    "answer": "Continuous rigid insulation and structural thermal break"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Expanded PVC foam is:",
+    "options": [
+      "Partially open-cell, self-extinguishing, low water uptake",
+      "Closed-cell with HFOs",
+      "High ODP CFC-based",
+      "Mineral foam",
+      "Open-cell cellulose"
+    ],
+    "answer": "Partially open-cell, self-extinguishing, low water uptake"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Switching from HFC to HFO blowing agents tends to:",
+    "options": [
+      "Lower compressive strength inherently",
+      "Raise ODP significantly",
+      "Lower climate impact while keeping high R",
+      "Increase capillarity",
+      "Eliminate aging of R"
+    ],
+    "answer": "Lower climate impact while keeping high R"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Optimizing density targets the balance between:",
+    "options": [
+      "Acoustics and color",
+      "Capillarity and diffusion",
+      "Surface roughness and glare",
+      "Convection suppression and matrix conduction",
+      "Radiation and UV stability"
+    ],
+    "answer": "Convection suppression and matrix conduction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Passive House wall in rainy coastal climate: best exterior insulation?",
+    "options": [
+      "Mineral wool boards with rainscreen drainage",
+      "No exterior insulation",
+      "XPS without drainage plane",
+      "Open-cell SPF as WRB",
+      "Cellulose batts exposed to cavity airflow"
+    ],
+    "answer": "Mineral wool boards with rainscreen drainage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In cold roofs, condensation risk rises when:",
+    "options": [
+      "Exterior insulation is continuous",
+      "Low-e surfaces are used",
+      "Screws are stainless",
+      "Warm-side air barrier is discontinuous",
+      "Ventilation is adequate"
+    ],
+    "answer": "Warm-side air barrier is discontinuous"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A super-insulator with λ as low as 0.010 W/m·K is ______ panel.",
+    "answer": "nanopore"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the engineering advice for homeowners who have old vermiculite attic insulation (Zonolite)?",
+    "options": [
+      "Remove it with a shop vacuum",
+      "Assume it contains asbestos and leave it undisturbed",
+      "Test it for boric acid",
+      "Cover with spray foam immediately",
+      "Mix it with cellulose"
+    ],
+    "answer": "Assume it contains asbestos and leave it undisturbed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why do mineral wool boards specify minimum density for façade use?",
+    "options": [
+      "To resist wind loads and retain dimensional stability",
+      "To reduce emissivity",
+      "To absorb sound only",
+      "To improve capillary suction",
+      "To increase radiation losses"
+    ],
+    "answer": "To resist wind loads and retain dimensional stability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a wet basement retrofit, organic fiber insulation should be:",
+    "options": [
+      "Fully submerged",
+      "Used as drainage plane",
+      "Avoided or isolated from bulk water",
+      "Installed without drainage",
+      "Left exposed to ground"
+    ],
+    "answer": "Avoided or isolated from bulk water"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood-fiber boards are sometimes faced with:",
+    "options": [
+      "Polyester felt only",
+      "Zinc plating",
+      "Copper mesh",
+      "Foil or bitumen for surface protection",
+      "PVC film only"
+    ],
+    "answer": "Foil or bitumen for surface protection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In façade fire-stops, a common choice is:",
+    "options": [
+      "Cork board",
+      "High-density mineral wool",
+      "Open-cell foam",
+      "Hemp batt",
+      "Cellulose"
+    ],
+    "answer": "High-density mineral wool"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cellulose is typically treated with:",
+    "options": [
+      "Mercury salts",
+      "Chromates",
+      "Borates for fire/bug resistance",
+      "PCBs",
+      "Lead acetate"
+    ],
+    "answer": "Borates for fire/bug resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Capillary absorption is most relevant to:",
+    "options": [
+      "Foil-faced polyiso",
+      "Aerogel in vacuum",
+      "Fibrous and porous organic insulations",
+      "VIG",
+      "Cellular glass"
+    ],
+    "answer": "Fibrous and porous organic insulations"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "EPS is typically:",
+    "options": [
+      "Extruded with closed cells",
+      "Open-cell polyurethane",
+      "Mineral foam",
+      "Bead-expanded polystyrene with moderate moisture resistance",
+      "PVC foam"
+    ],
+    "answer": "Bead-expanded polystyrene with moderate moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hemp/flax fiber batts must be:",
+    "options": [
+      "Embedded in concrete",
+      "Saturated for performance",
+      "Installed without air barrier",
+      "Kept dry and protected from liquid water",
+      "Painted black"
+    ],
+    "answer": "Kept dry and protected from liquid water"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which layer is least effective at stopping radiant heat?",
+    "options": [
+      "Dark, high-emissivity paint",
+      "Specular aluminum skin",
+      "Low-e laminate",
+      "Polished aluminum foil",
+      "Multi-layer foil"
+    ],
+    "answer": "Dark, high-emissivity paint"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat flow mechanism involves the movement of fluid (liquid or gas) due to density changes?",
+    "options": [
+      "Thermal conductance",
       "Conduction",
-      "Convection",
       "Radiation",
       "Evaporation",
-      "Diffusion"
+      "Convection"
     ],
-    "answer": "Radiation"
+    "answer": "Convection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "At equal thickness, which has the highest initial R among common foams?",
+    "options": [
+      "XPS (legacy HFC)",
+      "HFO-blown closed-cell SPF",
+      "Open-cell SPF",
+      "PVC foam",
+      "EPS"
+    ],
+    "answer": "HFO-blown closed-cell SPF"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A common below-slab choice for cost and performance is:",
+    "options": [
+      "Open-cell SPF",
+      "EPS of suitable density with capillary break",
+      "Aerogel mat",
+      "Foil-faced polyiso only",
+      "Cellulose batts"
+    ],
+    "answer": "EPS of suitable density with capillary break"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In cold-room floors, continuous insulation primarily reduces:",
+    "options": [
+      "Sound transmission",
+      "Air leakage into room",
+      "Solar gains",
+      "Vapor pressure",
+      "Thermal bridging to ground"
+    ],
+    "answer": "Thermal bridging to ground"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "HFO-blown foams aim primarily to:",
+    "options": [
+      "Increase ODP",
+      "Reduce GWP relative to HFCs",
+      "Eliminate LTTR reporting",
+      "Lower compressive strength",
+      "Increase water absorption"
+    ],
+    "answer": "Reduce GWP relative to HFCs"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared to U-value, R-value is:",
+    "options": [
+      "A surface-only metric",
+      "Only for metals",
+      "Not related",
+      "Used only in acoustics",
+      "The inverse metric (higher is better)"
+    ],
+    "answer": "The inverse metric (higher is better)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary cause of R-value drift in polyiso and other advanced closed-cell foams?",
+    "options": [
+      "Loss of structural strength",
+      "UV exposure only",
+      "Leakage of low-conductivity blowing gases and diffusion of air into cells",
+      "Settling over time",
+      "Biological decay"
+    ],
+    "answer": "Leakage of low-conductivity blowing gases and diffusion of air into cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Borate treatment in cellulose primarily provides:",
+    "options": [
+      "Lower hygroscopicity",
+      "Fire resistance and resistance to decay/insects",
+      "Higher emissivity",
+      "Lower density",
+      "Higher compressive strength"
+    ],
+    "answer": "Fire resistance and resistance to decay/insects"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Parking deck soffit over conditioned space:",
+    "options": [
+      "No insulation",
+      "Mineral wool without attachment",
+      "Cellulose exposed",
+      "Rigid foam with fire protection layer",
+      "Open-cell SPF exposed"
+    ],
+    "answer": "Rigid foam with fire protection layer"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which measure partially accounts for R-value aging in polyiso?",
+    "options": [
+      "VOC rating",
+      "HPD",
+      "EPD",
+      "LTTR (Long-Term Thermal Resistance)",
+      "ASTM C177 only"
+    ],
+    "answer": "LTTR (Long-Term Thermal Resistance)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared to mineral wool, cellular glass is:",
+    "options": [
+      "Impermeable and rigid but heavier and pricier",
+      "Combustible without additives",
+      "More vapor open and lighter",
+      "Lower fire resistance",
+      "Less dimensionally stable"
+    ],
+    "answer": "Impermeable and rigid but heavier and pricier"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If an insulation’s pore size becomes too large, performance is reduced primarily by:",
+    "options": [
+      "Radiation absorption",
+      "Albedo change",
+      "Convection loops",
+      "Condensation",
+      "Polymer conduction"
+    ],
+    "answer": "Convection loops"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Rock wool is typically made from:",
+    "options": [
+      "Phenolic resin",
+      "Cellulose and lime",
+      "PVC and limestone",
+      "Glass cullet only",
+      "Basalt/diabase and slag"
+    ],
+    "answer": "Basalt/diabase and slag"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which polystyrene foam is known for its closed-cell structure and superior moisture resistance in ground-contact applications?",
+    "options": [
+      "Expanded polystyrene (EPS)",
+      "Extruded polystyrene (XPS)",
+      "Urea formaldehyde foam",
+      "Wood fibre board",
+      "Polyisocyanurate (Polyiso)"
+    ],
+    "answer": "Extruded polystyrene (XPS)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which report discloses ingredient hazards and health-related info?",
+    "options": [
+      "EPD",
+      "UL fire listing only",
+      "HPD",
+      "FM approval",
+      "VOC certificate"
+    ],
+    "answer": "HPD"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Basement interior retrofit with moisture risk:",
+    "options": [
+      "Rigid foam (EPS/XPS) against concrete + service cavity",
+      "Fiberglass batts with poly vapor barrier only",
+      "Cork only",
+      "Open-cell SPF without air barrier",
+      "Cellulose directly against concrete"
+    ],
+    "answer": "Rigid foam (EPS/XPS) against concrete + service cavity"
   },
   {
     "type": "multiple_choice",
     "question": "If designing a NASA space shuttle to withstand the extreme heat of re-entry, which material class would be chosen due to its incredible fire resistance and high-temperature limits?",
     "options": [
       "Inorganic",
-      "Organic",
+      "Thermoset foam",
       "Cellulose",
       "Thermoplastic",
-      "Aerogel"
+      "Organic"
     ],
     "answer": "Inorganic"
   },
   {
     "type": "multiple_choice",
-    "question": "Which heat flow mechanism involves the movement of fluid (liquid or gas) due to density changes?",
+    "question": "CO₂ as a blowing agent generally leads to:",
     "options": [
-      "Conduction",
+      "Same R as pentane",
+      "No diffusion over time",
+      "Higher initial R than HFOs and higher GWP",
+      "Metallic conduction",
+      "Lower initial R than HFOs but lower GWP"
+    ],
+    "answer": "Lower initial R than HFOs but lower GWP"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared to mineral wool, aerogel blankets:",
+    "options": [
+      "Have better compressive strength",
+      "Are always combustible",
+      "Are hydrophilic by nature",
+      "Provide higher R per thickness but at far higher cost",
+      "Provide lower R per thickness"
+    ],
+    "answer": "Provide higher R per thickness but at far higher cost"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vermiculite/perlite spray fireproofing is often specified for:",
+    "options": [
+      "Below-grade waterproofing",
+      "Sill gaskets",
+      "Window spacers",
+      "Steel framing fire protection",
+      "Cavity drainage"
+    ],
+    "answer": "Steel framing fire protection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Glass wool service temperature is roughly:",
+    "options": [
+      "≈ 250°C",
+      "≈ 150°C",
+      "≈ 450°C",
+      "≈ 670°C",
+      "≈ 1000°C"
+    ],
+    "answer": "≈ 670°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vermiculite historically may contain:",
+    "options": [
+      "Chromium VI",
+      "Formaldehyde",
+      "PCBs",
+      "Asbestos (Zonolite)",
+      "Lead"
+    ],
+    "answer": "Asbestos (Zonolite)"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Global Warming Potential is often benchmarked against ______ with a value of 1.",
+    "answer": "CO2"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which assembly detail most strongly suppresses convective looping in cavities?",
+    "options": [
+      "Air sealing and baffling at inlets/outlets",
+      "Painting the cavity",
+      "Adding more foil layers only",
+      "Adding heavier fasteners",
+      "Using larger cavities"
+    ],
+    "answer": "Air sealing and baffling at inlets/outlets"
+  },
+  {
+    "type": "fill_blank",
+    "question": "At the optimal density, the two competing modes minimized are convection and ______ through solids.",
+    "answer": "conduction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "EPS is preferred under slabs over saturated soils because it:",
+    "options": [
+      "Maintains R-value reasonably and is economical",
+      "Relies on aerogel",
+      "Is hygroscopic like cellulose",
+      "Is metallic faced",
+      "Has zero water absorption"
+    ],
+    "answer": "Maintains R-value reasonably and is economical"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "XPS is typically:",
+    "options": [
+      "Extruded polystyrene with closed cells and higher rigidity",
+      "Cellulose board",
+      "Phenolic foam",
+      "Open-cell SPR",
+      "Bead-expanded with high permeability"
+    ],
+    "answer": "Extruded polystyrene with closed cells and higher rigidity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Embodied carbon (CO₂e) measures total greenhouse gas emissions across a material's lifecycle, converting the impact of various gases based on their:",
+    "options": [
+      "Thermal conductivity",
+      "Global Warming Potential (GWP)",
+      "Specific heat capacity",
+      "Compressive strength",
+      "Ozone Depletion Potential (ODP)"
+    ],
+    "answer": "Global Warming Potential (GWP)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat-transfer mode remains even in vacuum and is key in attic radiant gains?",
+    "options": [
+      "Evaporation",
+      "Consolidation",
       "Radiation",
       "Convection",
-      "Thermal Conductance",
-      "Diffusion"
+      "Conduction"
+    ],
+    "answer": "Radiation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A LEED strategy to reduce envelope embodied carbon is to:",
+    "options": [
+      "Avoid continuous insulation",
+      "Use only metallic facers",
+      "Eliminate thermal breaks",
+      "Increase R by any means",
+      "Specify products with EPDs and lower-GWP blowing agents"
+    ],
+    "answer": "Specify products with EPDs and lower-GWP blowing agents"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Spray polyurethane foam (SPF) has high initial R because:",
+    "options": [
+      "It is metallic",
+      "It is open-cell by default",
+      "It uses borate minerals",
+      "Cells contain low-λ blowing gases",
+      "It is aerogel-based"
+    ],
+    "answer": "Cells contain low-λ blowing gases"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a wall cavity with large unsealed voids, which heat-transfer mechanism increases most?",
+    "options": [
+      "Advection of vapor",
+      "Convection",
+      "Radiation",
+      "Conduction",
+      "Phase change"
     ],
     "answer": "Convection"
   },
   {
     "type": "multiple_choice",
-    "question": "If the density of an insulation matrix is 'too low,' what governs the primary heat loss mechanism?",
+    "question": "Polyiso boards commonly have:",
     "options": [
-      "Air convection",
-      "Conduction through the matrix",
-      "Knudsen effect",
-      "Radiation absorption",
-      "Moisture transfer"
+      "Open cells and high perm",
+      "Foil facers and high initial R per inch",
+      "Zero R-value drift",
+      "No facers",
+      "Very high compressive strength vs. XPS"
     ],
-    "answer": "Air convection"
+    "answer": "Foil facers and high initial R per inch"
   },
   {
     "type": "multiple_choice",
     "question": "Why might an engineer choose an insulation material that is denser than the calculated optimal density (i.e., accept higher conductivity)?",
     "options": [
+      "To increase vapor permeability",
       "To minimize thermal conductivity",
-      "To allow large convective loops to form",
-      "To use air as a conductor",
       "To provide necessary structural support and load-carrying capacity",
-      "To improve vapor permeability"
+      "To use air as a conductor",
+      "To allow large convective loops"
     ],
     "answer": "To provide necessary structural support and load-carrying capacity"
   },
   {
     "type": "multiple_choice",
-    "question": "What allows brand-new closed-cell foams, such as polyiso, to achieve higher initial R-values than insulation that uses air?",
+    "question": "Cellular glass is chosen over polymer foams for:",
     "options": [
-      "They use special 'blowing agents' with lower conductivity than air",
-      "They utilize the Knudsen effect",
-      "They use higher density materials",
-      "They have larger air pockets",
-      "They are reinforced with metallic facers"
+      "Capillary transport capability",
+      "Zero vapor permeability and fire/chemical resistance",
+      "Higher R per inch than aerogel",
+      "Greater flexibility",
+      "Bio-based content"
     ],
-    "answer": "They use special 'blowing agents' with lower conductivity than air"
+    "answer": "Zero vapor permeability and fire/chemical resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Closed-cell SPF can perform poorly if:",
+    "options": [
+      "It is adhered to OSB",
+      "It is painted",
+      "It is trimmed flush",
+      "It is below grade",
+      "Mix ratio or temperature during application is wrong"
+    ],
+    "answer": "Mix ratio or temperature during application is wrong"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "An SPF failure mode that reduces R is:",
+    "options": [
+      "Too much density",
+      "Too many screws",
+      "Improper mixing/temperature causing poor cell structure",
+      "Foil oxidation",
+      "Too many facers"
+    ],
+    "answer": "Improper mixing/temperature causing poor cell structure"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aged R-value is most sensitive to:",
+    "options": [
+      "Cell gas composition and diffusion rates",
+      "Vapor pressure outside",
+      "Edge chamfers",
+      "Screw spacing",
+      "Foil color only"
+    ],
+    "answer": "Cell gas composition and diffusion rates"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Closed-cell foams outperform air-filled insulation initially because:",
+    "options": [
+      "They have higher emissivity",
+      "They contain metal fibers",
+      "Blowing gases have lower thermal conductivity than air",
+      "They are more hygroscopic",
+      "They weigh more"
+    ],
+    "answer": "Blowing gases have lower thermal conductivity than air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A fire-safe, noncombustible insulation for high-rise façades is:",
+    "options": [
+      "Phenolic foam",
+      "EPS beads",
+      "Polyiso without facers",
+      "Open-cell SPF",
+      "Mineral wool"
+    ],
+    "answer": "Mineral wool"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Organic fibers provide good:",
+    "options": [
+      "Inertness to fungi",
+      "High fire rating without treatment",
+      "High compressive strength",
+      "Acoustic absorption and low embodied energy",
+      "Zero moisture uptake"
+    ],
+    "answer": "Acoustic absorption and low embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which test metric captures the combined conduction, convection, and radiation through an insulation sample?",
+    "options": [
+      "R-value",
+      "C_p",
+      "λ-value",
+      "Solar reflectance",
+      "Specific heat"
+    ],
+    "answer": "R-value"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What materials are commonly melted down and spun into fine threads to produce Mineral Wool?",
+    "options": [
+      "Glass and recycled paper",
+      "Basalt rock and slag",
+      "Silica gel and carbon powder",
+      "PVC and limestone",
+      "Polystyrene and pentane"
+    ],
+    "answer": "Basalt rock and slag"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Bio-based insulation can still have elevated GWP due to:",
+    "options": [
+      "Pure vacuum panels",
+      "Infinite service life",
+      "Binder chemistry and transport emissions",
+      "Zero moisture uptake",
+      "No additives used"
+    ],
+    "answer": "Binder chemistry and transport emissions"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Inorganic insulation with best fire performance includes mineral wool and ______ glass.",
+    "answer": "cellular"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Environmental product claims should be validated via:",
+    "options": [
+      "Anecdotal reports",
+      "Only proprietary data",
+      "Marketing brochures",
+      "Paint datasheets",
+      "Third-party verified EPDs/HPDs"
+    ],
+    "answer": "Third-party verified EPDs/HPDs"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which report provides a verified summary of a product's cradle-to-gate environmental impact (e.g., embodied carbon, energy)?",
+    "options": [
+      "Manufacturer’s datasheet",
+      "LTTR report",
+      "Environmental Product Declaration (EPD)",
+      "Safety Data Sheet (SDS)",
+      "Health Product Declaration (HPD)"
+    ],
+    "answer": "Environmental Product Declaration (EPD)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "EPS/XPS can lose performance in:",
+    "options": [
+      "Dry attics",
+      "Conditioned basements",
+      "Prolonged submersion and freeze-thaw cycling without drainage",
+      "Interior partitions",
+      "Ventilated façades"
+    ],
+    "answer": "Prolonged submersion and freeze-thaw cycling without drainage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In sandwich panels, a denser core improves:",
+    "options": [
+      "Fastener pull-out resistance and span capability",
+      "Capillary rise",
+      "Bleed air removal",
+      "Water vapor diffusion only",
+      "IR reflectance"
+    ],
+    "answer": "Fastener pull-out resistance and span capability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sound + thermal retrofit for party wall:",
+    "options": [
+      "Radiant foil only",
+      "Cellulose loose with no seal",
+      "Mineral wool batt in cavity + air sealing",
+      "Open-cell SPF without air seal",
+      "EPS only"
+    ],
+    "answer": "Mineral wool batt in cavity + air sealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In cryogenic lines, which insulation is chosen to reduce conduction and radiation simultaneously?",
+    "options": [
+      "Open-cell foam",
+      "Multi-layer reflective with vacuum",
+      "Cork board only",
+      "Cellulose",
+      "Mineral wool only"
+    ],
+    "answer": "Multi-layer reflective with vacuum"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The Knudsen effect becomes relevant when pore sizes approach:",
+    "options": [
+      "Thickness of insulation",
+      "Panel width",
+      "Fastener diameter",
+      "Mean free path of gas molecules",
+      "Fiber length"
+    ],
+    "answer": "Mean free path of gas molecules"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ozone Depletion Potential (ODP) is most associated with:",
+    "options": [
+      "Air-entrainment",
+      "Cement hydration",
+      "Legacy blowing agents (CFCs/HCFCs)",
+      "Mineral wool binders",
+      "Wood fiber resins"
+    ],
+    "answer": "Legacy blowing agents (CFCs/HCFCs)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Polyiso at very low temperatures can:",
+    "options": [
+      "Melt",
+      "Become hydrophilic",
+      "Turn noncombustible",
+      "Gain R indefinitely",
+      "Exhibit reduced effective R"
+    ],
+    "answer": "Exhibit reduced effective R"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Radiant barriers work best when they have:",
+    "options": [
+      "High conductivity coatings",
+      "Black matte paint",
+      "High emissivity bonded to OSB",
+      "Perforations every 50 mm",
+      "Low emissivity facing an air gap"
+    ],
+    "answer": "Low emissivity facing an air gap"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Phoenix roof retrofit to cut cooling load:",
+    "options": [
+      "Mineral wool only",
+      "Add radiant barrier facing air space under deck + continuous polyiso",
+      "No air gap with foil face-down",
+      "Dense-pack cellulose only",
+      "Open-cell SPF only"
+    ],
+    "answer": "Add radiant barrier facing air space under deck + continuous polyiso"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Refrigerated warehouse floor slab over wet soil: choose:",
+    "options": [
+      "Cellulose board",
+      "High-density EPS/XPS with capillary break and vapor barrier",
+      "Cork board exposed",
+      "Aerogel blanket only",
+      "Open-cell SPF"
+    ],
+    "answer": "High-density EPS/XPS with capillary break and vapor barrier"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Steam room wall assembly insulation:",
+    "options": [
+      "Wood fiber board",
+      "Mineral wool behind robust vapor retarder",
+      "Unfaced polyiso with gaps",
+      "Open-cell SPF only",
+      "Cellulose batts"
+    ],
+    "answer": "Mineral wool behind robust vapor retarder"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Under-slab radiant heating over ground:",
+    "options": [
+      "Cork granules",
+      "Mineral wool batts",
+      "EPS of appropriate density + reflective break under tubing",
+      "Cellulose batts",
+      "Open-cell SPF"
+    ],
+    "answer": "EPS of appropriate density + reflective break under tubing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "EPDs commonly report:",
+    "options": [
+      "Only LTTR",
+      "Only VOCs",
+      "Only tensile strength",
+      "GWP, primary energy, water use, and end-of-life scenarios",
+      "Only flame spread"
+    ],
+    "answer": "GWP, primary energy, water use, and end-of-life scenarios"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which document is third-party verified and communicates environmental impacts like GWP?",
+    "options": [
+      "MSDS/SDS",
+      "HPD",
+      "Shop drawings",
+      "LTTR",
+      "EPD"
+    ],
+    "answer": "EPD"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Condensation at roof fasteners indicates:",
+    "options": [
+      "Solar radiation mismatch",
+      "Sound bridging",
+      "Air leakage only",
+      "Vapor diffusion error only",
+      "Thermal bridging; add thermal breaks/caps or cover board"
+    ],
+    "answer": "Thermal bridging; add thermal breaks/caps or cover board"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "High-rise façade fire stop behind spandrel:",
+    "options": [
+      "Cellulose",
+      "High-density mineral wool",
+      "Open-cell SPF",
+      "EPS beads",
+      "Polyiso without facer"
+    ],
+    "answer": "High-density mineral wool"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Foamed concrete can provide:",
+    "options": [
+      "Zero embodied energy",
+      "Perfect vapor barrier",
+      "Fire/frost resistance under roof screeds and floors",
+      "Highest R per inch",
+      "Capillary suction"
+    ],
+    "answer": "Fire/frost resistance under roof screeds and floors"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Freezer facility wall panels:",
+    "options": [
+      "Metal-skinned closed-cell foam panels with sealed joints",
+      "Open-cell SPF",
+      "Mineral wool only",
+      "Cellulose",
+      "Wood fiber board"
+    ],
+    "answer": "Metal-skinned closed-cell foam panels with sealed joints"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "An engineer upsizes mineral wool density for parapet fire stops primarily to:",
+    "options": [
+      "Improve mechanical integrity under fire",
+      "Increase emissivity",
+      "Increase acoustic damping only",
+      "Reduce embodied carbon",
+      "Reduce chloride content"
+    ],
+    "answer": "Improve mechanical integrity under fire"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Edge-sealed foam panels aim to:",
+    "options": [
+      "Lower compressive strength",
+      "Add capillary rise",
+      "Increase permeability",
+      "Reduce gas diffusion and moisture ingress",
+      "Increase emissivity"
+    ],
+    "answer": "Reduce gas diffusion and moisture ingress"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a low-carbon wall, a sensible choice is:",
+    "options": [
+      "Open-cell foam as WRB",
+      "HFC-blown SPF as primary WRB",
+      "Dense-packed cellulose with mineral wool exterior",
+      "XPS everywhere",
+      "PVC foam below-grade"
+    ],
+    "answer": "Dense-packed cellulose with mineral wool exterior"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Urea-formaldehyde foam fell out of favor due to:",
+    "options": [
+      "Difficult cutting",
+      "Shrinkage and formaldehyde emissions",
+      "Combustibility alone",
+      "High cost only",
+      "Low R-value"
+    ],
+    "answer": "Shrinkage and formaldehyde emissions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood wool slabs are:",
+    "options": [
+      "Phenolic resin boards",
+      "Hempcrete blocks",
+      "Wood fiber bound with cement (good acoustics)",
+      "PVC foam",
+      "Pure cellulose"
+    ],
+    "answer": "Wood fiber bound with cement (good acoustics)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For an unvented cathedral ceiling, which layer most influences radiative exchange?",
+    "options": [
+      "Sheathing",
+      "Air barrier",
+      "Vapor retarder",
+      "Low-emissivity surface",
+      "Fasteners"
+    ],
+    "answer": "Low-emissivity surface"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cellulose is derived primarily from:",
+    "options": [
+      "Polystyrene",
+      "Recycled paper",
+      "Basalt rock",
+      "Phenolic resin",
+      "PVC"
+    ],
+    "answer": "Recycled paper"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In hot-dry climates, roof radiant barriers primarily reduce:",
+    "options": [
+      "Attic peak temperatures and cooling load",
+      "Vapor diffusion",
+      "Heating degree days",
+      "Moisture buffering",
+      "Sound transmission"
+    ],
+    "answer": "Attic peak temperatures and cooling load"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Phenolic foam benefits include:",
+    "options": [
+      "Low λ and heat stability but acidic leachate risk when wet",
+      "Non-hygroscopic behavior always",
+      "Bio-based feedstock",
+      "Highest compressive strength",
+      "High vapor permeability"
+    ],
+    "answer": "Low λ and heat stability but acidic leachate risk when wet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "VIG units rely on:",
+    "options": [
+      "Metal honeycomb",
+      "Thick inert gas layers only",
+      "Aerogel pellets only",
+      "Open-cell foam inserts",
+      "Vacuum cavity with micro-spacers between panes"
+    ],
+    "answer": "Vacuum cavity with micro-spacers between panes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A robust below-grade detail combines:",
+    "options": [
+      "Open-cell SPF",
+      "Drainboard, filter fabric, and free-draining backfill with foam",
+      "Foil only",
+      "Dense-pack cellulose",
+      "Paper-faced fiberglass"
+    ],
+    "answer": "Drainboard, filter fabric, and free-draining backfill with foam"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared to air, which gas has significantly lower conductivity for use in foams?",
+    "options": [
+      "Oxygen",
+      "Water vapor",
+      "HFO",
+      "Nitrogen",
+      "CO₂ (always lower than HFO)"
+    ],
+    "answer": "HFO"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Open-cell spray foam differs from closed-cell by:",
+    "options": [
+      "Lower moisture uptake",
+      "Lower sound absorption",
+      "Higher compressive strength",
+      "Lower air permeability",
+      "Higher vapor permeability and lower R per inch"
+    ],
+    "answer": "Higher vapor permeability and lower R per inch"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fibre insulation board should avoid:",
+    "options": [
+      "Use behind cladding",
+      "Use over cork",
+      "Use in attics",
+      "Use with air gap",
+      "Direct contact with moisture"
+    ],
+    "answer": "Direct contact with moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which inorganic insulation offers the best acoustic absorption?",
+    "options": [
+      "Aerogel panel",
+      "Cellular glass",
+      "Mineral wool",
+      "EPS",
+      "Polyiso"
+    ],
+    "answer": "Mineral wool"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When cellular foams are punctured repeatedly, performance can drop due to:",
+    "options": [
+      "Lower density only",
+      "Higher emissivity only",
+      "Greater albedo",
+      "Gas exchange increasing λ inside cells",
+      "Higher modulus only"
+    ],
+    "answer": "Gas exchange increasing λ inside cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Green roof over occupied space:",
+    "options": [
+      "High-density XPS with drainage and root barrier",
+      "Open-cell SPF",
+      "Cellulose",
+      "Cork only",
+      "Mineral wool loose fill"
+    ],
+    "answer": "High-density XPS with drainage and root barrier"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Polyurethane and polyiso in fires tend to:",
+    "options": [
+      "Behave as noncombustibles",
+      "Release oxygen",
+      "Self-extinguish without additives",
+      "Melt into non-fuel residues",
+      "Contribute fuel and produce toxic smoke"
+    ],
+    "answer": "Contribute fuel and produce toxic smoke"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Natural convection arises when fluid density changes due to:",
+    "options": [
+      "Chemical admixtures",
+      "Temperature gradients",
+      "Sound waves",
+      "Pressure equalization",
+      "Electrostatic charge"
+    ],
+    "answer": "Temperature gradients"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cork boards are produced by:",
+    "options": [
+      "Extruding with PVC",
+      "Heating/expanding granules to self-bind with natural resins",
+      "Gluing sheets with epoxy",
+      "Impregnating with asphalt",
+      "Casting with gypsum"
+    ],
+    "answer": "Heating/expanding granules to self-bind with natural resins"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared to XPS, EPS often has:",
+    "options": [
+      "Lower GWP and lower cost per R",
+      "Metallic additives",
+      "Foil facers by default",
+      "Higher compressive strength always",
+      "Higher moisture resistance always"
+    ],
+    "answer": "Lower GWP and lower cost per R"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which material has the lowest thermal conductivity?",
+    "options": [
+      "Cellulose",
+      "Aerogel panel",
+      "Polyiso",
+      "Mineral wool",
+      "Wood fiberboard"
+    ],
+    "answer": "Aerogel panel"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The primary raw material historically used to manufacture cellulose insulation is:",
+    "options": [
+      "Flax fibers",
+      "Shredded recycled paper",
+      "Polystyrene crystals",
+      "Silica gel",
+      "Basalt rock"
+    ],
+    "answer": "Shredded recycled paper"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A product with low ODP and low GWP blowing agent is more likely to use:",
+    "options": [
+      "HCFC-141b",
+      "CFC-11",
+      "HFC-134a",
+      "HFO chemistry",
+      "Halons"
+    ],
+    "answer": "HFO chemistry"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Thermal conductivity is measured in W/m·____.",
+    "answer": "K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A higher-density board is selected for a roof overlay primarily for:",
+    "options": [
+      "Lower emissivity",
+      "Lower acoustic absorption",
+      "Higher permeability",
+      "Higher moisture absorption",
+      "Load distribution and point-load resistance"
+    ],
+    "answer": "Load distribution and point-load resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which selection best balances low GWP and moisture resistance below-grade?",
+    "options": [
+      "XPS with legacy HFCs",
+      "Aerogel blanket only",
+      "EPS with proper drainage and detailing",
+      "Cellulose loose-fill",
+      "Open-cell SPF"
+    ],
+    "answer": "EPS with proper drainage and detailing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cellular glass is favored for:",
+    "options": [
+      "Open-cell acoustics",
+      "Zero vapor permeability and fire resistance at roofs/industrial plants",
+      "Biodegradability",
+      "Highest R per inch",
+      "Flexibility"
+    ],
+    "answer": "Zero vapor permeability and fire resistance at roofs/industrial plants"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Over time, closed-cell foam R-value drops primarily due to:",
+    "options": [
+      "Compression set increasing",
+      "Surface oxidation only",
+      "Gas diffusion out and air diffusion in",
+      "Color fading",
+      "Polymer crystallization"
+    ],
+    "answer": "Gas diffusion out and air diffusion in"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For inverted roofs (PMR), a frequent insulation is:",
+    "options": [
+      "PVC foam",
+      "XPS due to moisture resistance",
+      "Mineral wool only",
+      "Open-cell SPF",
+      "Cellulose"
+    ],
+    "answer": "XPS due to moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hempcrete is:",
+    "options": [
+      "Plant aggregate bound in lime/cement matrix (non-structural insulation)",
+      "Cellular glass composite",
+      "Pure hemp batts",
+      "Steel fiber concrete",
+      "Cement-free EPS"
+    ],
+    "answer": "Plant aggregate bound in lime/cement matrix (non-structural insulation)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Historic brick wall interior insulation:",
+    "options": [
+      "Non-breathable XPS tight to brick in all cases",
+      "Open-cell SPF as primary WRB",
+      "Foil-only radiant barrier",
+      "Vapor-variable membrane + mineral wool panel",
+      "Cellulose directly against brick"
+    ],
+    "answer": "Vapor-variable membrane + mineral wool panel"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Crawlspace encapsulation in humid climate:",
+    "options": [
+      "Cellulose on walls",
+      "Rigid foam on walls + sealed vapor barrier on ground",
+      "Open-cell SPF on ground",
+      "Open vents year-round",
+      "No vapor barrier"
+    ],
+    "answer": "Rigid foam on walls + sealed vapor barrier on ground"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When specifying blown-in insulation in a windy site, critical detailing includes:",
+    "options": [
+      "Extra vapor retarders only",
+      "Baffles and air barriers at the soffit",
+      "Lighter truss spacing",
+      "Dark shingle color",
+      "Foil facers everywhere"
+    ],
+    "answer": "Baffles and air barriers at the soffit"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If density is increased beyond optimal, heat transfer rises due to:",
+    "options": [
+      "Solid conduction through the matrix",
+      "Magnetic induction",
+      "Latent heat",
+      "Electrostatic coupling",
+      "Radiation only"
+    ],
+    "answer": "Solid conduction through the matrix"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Perlite and vermiculite are used as:",
+    "options": [
+      "Rigid plastic boards",
+      "HFO blowing agents",
+      "Loose-fill or spray fireproofing minerals",
+      "Reflective foils",
+      "Vacuum panels"
+    ],
+    "answer": "Loose-fill or spray fireproofing minerals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cold storage door detail to avoid condensation:",
+    "options": [
+      "Eliminate weatherstripping",
+      "Vent warm air inside",
+      "Thermal break around frame and continuous gasket seal",
+      "Paint door black",
+      "Increase metal thickness"
+    ],
+    "answer": "Thermal break around frame and continuous gasket seal"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a ventilated attic, wind washing at eaves primarily degrades:",
+    "options": [
+      "Loose, low-density insulation near the perimeter",
+      "Roof sheathing stiffness",
+      "Foam LTTR",
+      "Facade reflectance",
+      "Concrete thermal mass"
+    ],
+    "answer": "Loose, low-density insulation near the perimeter"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When specifying foil-faced polyiso beneath a metal roof in a hot climate, the foil mainly reduces:",
+    "options": [
+      "Conduction through polymer",
+      "Latent heat storage",
+      "Radiative heat transfer",
+      "Hygroscopic absorption",
+      "Convection in cells"
+    ],
+    "answer": "Radiative heat transfer"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Data center roof where condensation risk exists:",
+    "options": [
+      "Polyiso with vapor retarder on warm side, sealed penetrations",
+      "Cellulose",
+      "Open-cell SPF, no retarder",
+      "EPS loose fill",
+      "Mineral wool only"
+    ],
+    "answer": "Polyiso with vapor retarder on warm side, sealed penetrations"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Installing batts too loosely in stud bays primarily increases:",
+    "options": [
+      "Convective heat loss",
+      "Longwave radiation",
+      "Conductive heat loss only",
+      "Solar gains",
+      "Thermal bridging through studs"
+    ],
+    "answer": "Convective heat loss"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a ventilated rainscreen, which insulation resists sustained wetting best?",
+    "options": [
+      "Open-cell SPF",
+      "Mineral wool (rock wool)",
+      "Cork",
+      "Cotton batts",
+      "Cellulose"
+    ],
+    "answer": "Mineral wool (rock wool)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In below-grade slabs, selecting higher-density foam is often to improve:",
+    "options": [
+      "Vapor permeability",
+      "UV stability",
+      "R-value drift stability only",
+      "Albedo",
+      "Compressive strength and creep resistance"
+    ],
+    "answer": "Compressive strength and creep resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A low-e foil surface can lose performance when:",
+    "options": [
+      "It is used in a vacuum panel",
+      "It is clean and shiny",
+      "Dust accumulates and raises emissivity",
+      "It faces an air space",
+      "It is sealed from air"
+    ],
+    "answer": "Dust accumulates and raises emissivity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A rainscreen cavity without baffles can increase heat loss via:",
+    "options": [
+      "Solid conduction only",
+      "Radiation elimination",
+      "Air convection loops",
+      "Capillary transport only",
+      "Moisture sorption"
+    ],
+    "answer": "Air convection loops"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared with EPS, XPS tends to have:",
+    "options": [
+      "Lower water absorption and higher rigidity",
+      "Higher recycled content",
+      "Higher ODP",
+      "Higher vapor permeability",
+      "Higher emissivity"
+    ],
+    "answer": "Lower water absorption and higher rigidity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Polyiso roof boards use foil facers primarily to:",
+    "options": [
+      "Increase water absorption",
+      "Improve dimensional stability and reduce gas diffusion",
+      "Increase emissivity",
+      "Reduce compressive strength",
+      "Increase alkalinity"
+    ],
+    "answer": "Improve dimensional stability and reduce gas diffusion"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Rock wool service temperature is roughly:",
+    "options": [
+      "≈ 400°C",
+      "≈ 1200°C",
+      "≈ 1000°C",
+      "≈ 600°C",
+      "≈ 200°C"
+    ],
+    "answer": "≈ 1000°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "UV exposure primarily degrades which insulation type?",
+    "options": [
+      "Foamed plastics (surface chalking/cracking)",
+      "Cellular glass",
+      "Aerogel",
+      "VIG",
+      "Mineral wool"
+    ],
+    "answer": "Foamed plastics (surface chalking/cracking)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aerogel blankets provide:",
+    "options": [
+      "Very low λ and flexibility for retrofit",
+      "High density and compressive strength",
+      "The lowest cost per R",
+      "High vapor permeability always",
+      "Zero dusting"
+    ],
+    "answer": "Very low λ and flexibility for retrofit"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cellulose insulation loses R-value rapidly when:",
+    "options": [
+      "It is sealed behind foil",
+      "It is dense-packed",
+      "It is perfectly dry",
+      "It becomes saturated and compacts",
+      "It is borate-treated"
+    ],
+    "answer": "It becomes saturated and compacts"
   }
 ]
