@@ -8,6 +8,7 @@ const els = {
   setupCard: document.getElementById('setup-card'),
   quizCard: document.getElementById('quiz-card'),
   summaryCard: document.getElementById('summary-card'),
+  mode: document.getElementById('mode'),
   topic: document.getElementById('topic'),
   startBtn: document.getElementById('start-btn'),
   progress: document.getElementById('progress'),
@@ -22,6 +23,15 @@ const els = {
   answerReveal: document.getElementById('answer-reveal'),
   nextBtn: document.getElementById('next-btn'),
   quitBtn: document.getElementById('quit-btn'),
+  quizModePanel: document.getElementById('quiz-mode-panel'),
+  flashcardPanel: document.getElementById('flashcard-mode-panel'),
+  flashcardStatus: document.getElementById('flashcard-status'),
+  flashcardCard: document.getElementById('flashcard-card'),
+  flashcardContent: document.getElementById('flashcard-content'),
+  flashcardPrev: document.getElementById('flashcard-prev'),
+  flashcardFlip: document.getElementById('flashcard-flip'),
+  flashcardNext: document.getElementById('flashcard-next'),
+  flashcardQuit: document.getElementById('flashcard-quit'),
   finalScore: document.getElementById('final-score'),
   wrongList: document.getElementById('wrong-list'),
   restartBtn: document.getElementById('restart-btn'),
@@ -33,6 +43,8 @@ let currentIndex = 0;
 let score = 0;
 let wrongAnswers = [];
 let answered = false;
+let currentMode = 'quiz';
+let flashcardFlipped = false;
 
 // Helpers
 function shuffle(arr){
@@ -98,56 +110,126 @@ function setSetupError(msg){
   }
 }
 
-async function startQuiz(){
+function requestQuestionCount(total){
+  while(true){
+    const defaultVal = Math.min(10, total);
+    const input = prompt(`How many questions would you like? (1-${total})`, String(defaultVal));
+    if(input === null){
+      return null;
+    }
+    const parsed = Number.parseInt(input, 10);
+    if(Number.isInteger(parsed) && parsed >= 1 && parsed <= total){
+      return parsed;
+    }
+    alert(`Please enter a whole number between 1 and ${total}.`);
+  }
+}
+
+async function startSession(){
   const file = els.topic.value;
+  currentMode = els.mode ? els.mode.value : 'quiz';
   setSetupError('');
   els.startBtn.disabled = true;
+
+  let data = null;
   try{
     const res = await fetch(file);
     if(!res.ok) throw new Error(`Failed to load ${file}`);
-    const data = await res.json();
-    if(!Array.isArray(data)){
+    const json = await res.json();
+    if(!Array.isArray(json)){
       throw new Error('Quiz data must be an array of questions.');
     }
-    if(data.length === 0){
+    if(json.length === 0){
       alert('No questions are available for this topic yet.');
-      return;
+    }else{
+      data = json;
     }
-
-    let desiredCount = data.length;
-    while(true){
-      const defaultVal = Math.min(10, data.length);
-      const input = prompt(`How many questions would you like? (1-${data.length})`, String(defaultVal));
-      if(input === null){
-        return; // user cancelled
-      }
-      const parsed = Number.parseInt(input, 10);
-      if(Number.isInteger(parsed) && parsed >= 1 && parsed <= data.length){
-        desiredCount = parsed;
-        break;
-      }
-      alert(`Please enter a whole number between 1 and ${data.length}.`);
-    }
-
-    const pool = shuffle([...data]);
-    questionQueue = pool.slice(0, desiredCount).map(q => ({ ...q }));
   }catch(err){
     alert(`Could not load quiz data. Make sure the JSON files are present. ${err.message}`);
-    return;
   } finally {
     els.startBtn.disabled = false;
   }
+
+  if(!data) return;
+
+  if(currentMode === 'flashcard'){
+    startFlashcardSession(data);
+  }else{
+    startQuizSession(data);
+  }
+}
+
+function startQuizSession(data){
+  const desiredCount = requestQuestionCount(data.length);
+  if(desiredCount === null) return;
+
+  const pool = shuffle([...data]);
+  questionQueue = pool.slice(0, desiredCount).map(q => ({ ...q }));
 
   currentIndex = 0;
   score = 0;
   wrongAnswers = [];
   answered = false;
+  flashcardFlipped = false;
+  if(els.flashcardContent) els.flashcardContent.textContent = '';
+  if(els.flashcardStatus) els.flashcardStatus.textContent = 'Card 0 of 0';
 
   hide(els.setupCard);
   hide(els.summaryCard);
   show(els.quizCard);
+  show(els.quizModePanel);
+  hide(els.flashcardPanel);
 
   renderCurrent();
+}
+
+function startFlashcardSession(data){
+  questionQueue = data.map(q => ({ ...q }));
+  currentIndex = 0;
+  score = 0;
+  wrongAnswers = [];
+  answered = false;
+  flashcardFlipped = false;
+  els.feedback.textContent = '';
+  els.feedback.className = 'feedback';
+  els.answerReveal.textContent = '';
+  hide(els.answerReveal);
+
+  hide(els.setupCard);
+  hide(els.summaryCard);
+  show(els.quizCard);
+  hide(els.quizModePanel);
+  show(els.flashcardPanel);
+
+  updateFlashcardView();
+}
+
+function updateFlashcardView(){
+  const total = questionQueue.length;
+  if(total === 0) return;
+
+  const q = questionQueue[currentIndex] ?? {};
+  const isAnswer = flashcardFlipped;
+  const content = isAnswer ? (q.answer ?? 'No answer provided.') : (q.question ?? '');
+
+  if(els.flashcardStatus){
+    els.flashcardStatus.textContent = `Card ${currentIndex + 1} of ${total}`;
+  }
+  if(els.flashcardContent){
+    els.flashcardContent.textContent = content || (isAnswer ? 'No answer provided.' : 'Question unavailable.');
+  }
+  if(els.flashcardCard){
+    els.flashcardCard.classList.toggle('show-answer', isAnswer);
+  }
+  if(els.flashcardFlip){
+    els.flashcardFlip.textContent = isAnswer ? 'Show Question' : 'Show Answer';
+  }
+  if(els.flashcardPrev){
+    els.flashcardPrev.disabled = currentIndex === 0;
+  }
+  if(els.flashcardNext){
+    els.flashcardNext.disabled = currentIndex >= total - 1;
+  }
 }
 
 function renderCurrent(){
@@ -253,7 +335,7 @@ function showFillBlank(q){
       setFeedback(false, 'Incorrect ❌');
       recordWrongAnswer(q, userRaw);
       els.answerReveal.textContent = `Correct answer: ${q.answer}`;
-      show(els.answerReveal);
+      show(els.answer-reveal);
       scheduleRetry(q);
     }
     lockUI();
@@ -269,6 +351,7 @@ function showFillBlank(q){
 }
 
 function nextQuestion(){
+  if(currentMode === 'flashcard') return;
   answered = false;
   currentIndex += 1;
   if(currentIndex >= questionQueue.length){
@@ -312,6 +395,8 @@ function showSummary(){
 function restart(){
   hide(els.quizCard);
   hide(els.summaryCard);
+  hide(els.flashcardPanel);
+  show(els.quizModePanel);
   show(els.setupCard);
   answered = false;
   currentIndex = 0;
@@ -323,14 +408,42 @@ function restart(){
   els.fillinInput.value = '';
   els.answerReveal.textContent = '';
   hide(els.answerReveal);
+  if(els.flashcardContent) els.flashcardContent.textContent = '';
+  if(els.flashcardStatus) els.flashcardStatus.textContent = 'Card 0 of 0';
+  flashcardFlipped = false;
   setProgress();
 }
 
 // Wire up
-els.startBtn.addEventListener('click', startQuiz);
+els.startBtn.addEventListener('click', startSession);
 els.nextBtn.addEventListener('click', nextQuestion);
 els.restartBtn.addEventListener('click', restart);
 els.quitBtn.addEventListener('click', restart);
+if(els.flashcardPrev){
+  els.flashcardPrev.addEventListener('click', () => {
+    if(currentIndex === 0) return;
+    currentIndex -= 1;
+    flashcardFlipped = false;
+    updateFlashcardView();
+  });
+}
+if(els.flashcardNext){
+  els.flashcardNext.addEventListener('click', () => {
+    if(currentIndex >= questionQueue.length - 1) return;
+    currentIndex += 1;
+    flashcardFlipped = false;
+    updateFlashcardView();
+  });
+}
+if(els.flashcardFlip){
+  els.flashcardFlip.addEventListener('click', () => {
+    flashcardFlipped = !flashcardFlipped;
+    updateFlashcardView();
+  });
+}
+if(els.flashcardQuit){
+  els.flashcardQuit.addEventListener('click', restart);
+}
 
 // Footer year
 document.getElementById('year').textContent = new Date().getFullYear();
