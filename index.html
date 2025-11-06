@@ -18,6 +18,13 @@
     <section class="card" id="setup-card">
       <h2>Choose a Topic</h2>
       <div class="row">
+        <label for="mode">Mode</label>
+        <select id="mode">
+          <option value="quiz" selected>Quiz</option>
+          <option value="flashcard">Flashcard</option>
+        </select>
+      </div>
+      <div class="row">
         <label for="topic">Topic</label>
         <select id="topic">
           <option value="week2_wood.json">Week 2 - Wood 1</option>
@@ -25,11 +32,10 @@
           <option value="week4_material_properties.json">Week 4 – Material Properties</option>
           <option value="week5_ferrous_metals.json">Week 5 – Ferrous Metals</option>
           <option value="week5.5_non_ferrous_metals.json">Week 5.5 - Non-Ferrous Metals</option>
-          <option value="week6_masonry.json">Week 6 - Masonry</option>
           <option value="week7_insulation.json">Week 7 - Insulation</option>
           <option value="week8_concrete.json">Week 8 - Concrete</option>
           <option value="midterm_review_questions.json">Midterm Review Questions</option>
-          
+
         </select>
       </div>
       <section class="updates" aria-labelledby="updates-title">
@@ -39,6 +45,7 @@
           <li>Fill in the blank questions now show correct answer if guessed incorrectly.</li>
           <li>Refined question sets 6,7,8 to remove duplicates. Need to rework sets 2-5.</li>
           <li>Added new "Midterm Review Questions" set.</li>
+          <li>Added new Flashcard mode.</li>
         </ul>
       </section>
       <button id="start-btn" class="primary">Start Quiz</button>
@@ -47,26 +54,41 @@
     </section>
 
     <section class="card hidden" id="quiz-card">
-      <div class="quiz-meta">
-        <div id="progress">Question 0 of 0</div>
-        <div id="score">Score: 0/0</div>
+      <div id="quiz-mode-panel">
+        <div class="quiz-meta">
+          <div id="progress">Question 0 of 0</div>
+          <div id="score">Score: 0/0</div>
+        </div>
+
+        <div id="question-text" class="question-text"></div>
+
+        <div id="options" class="options"></div>
+
+        <div id="fillin" class="fillin hidden">
+          <input id="fillin-input" type="text" placeholder="Type your answer…" autocomplete="off" />
+          <button id="submit-fillin" class="primary">Submit</button>
+        </div>
+
+        <div id="feedback" class="feedback" role="status"></div>
+        <div id="answer-reveal" class="answer-reveal hidden"></div>
+
+        <div class="actions">
+          <button id="quit-btn" class="secondary">Quit?</button>
+          <button id="next-btn" class="secondary hidden">Next</button>
+        </div>
       </div>
 
-      <div id="question-text" class="question-text"></div>
-
-      <div id="options" class="options"></div>
-
-      <div id="fillin" class="fillin hidden">
-        <input id="fillin-input" type="text" placeholder="Type your answer…" autocomplete="off" />
-        <button id="submit-fillin" class="primary">Submit</button>
-      </div>
-
-      <div id="feedback" class="feedback" role="status"></div>
-      <div id="answer-reveal" class="answer-reveal hidden"></div>
-
-      <div class="actions">
-        <button id="quit-btn" class="secondary">Quit?</button>
-        <button id="next-btn" class="secondary hidden">Next</button>
+      <div id="flashcard-mode-panel" class="flashcard hidden">
+        <div id="flashcard-status" class="flashcard-status">Card 0 of 0</div>
+        <div id="flashcard-card" class="flashcard-card" aria-live="polite">
+          <div id="flashcard-content" class="flashcard-content"></div>
+        </div>
+        <div class="flashcard-controls">
+          <button id="flashcard-prev" class="secondary">Previous</button>
+          <button id="flashcard-flip" class="primary">Show Answer</button>
+          <button id="flashcard-next" class="secondary">Next</button>
+        </div>
+        <button id="flashcard-quit" class="link-btn">Quit</button>
       </div>
     </section>
 
@@ -82,7 +104,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <small><span id="year"></span> Materials Science Review • V1.8</small>
+      <small><span id="year"></span> Materials Science Review • V2.0</small>
     </div>
   </footer>
 
