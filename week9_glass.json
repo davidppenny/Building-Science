@@ -1,0 +1,509 @@
+[
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a primary architectural motivation for using glass in facades and atriums?",
+      "options": [
+        "Reducing acoustic reverberation",
+        "Maximizing daylight and openness",
+        "Increasing structural mass",
+        "Eliminating air infiltration",
+        "Enhancing fire resistance"
+      ],
+      "answer": "Maximizing daylight and openness"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Float glass is manufactured by pouring molten glass onto a bath of:",
+      "options": ["Mercury", "Lead", "Tin", "Silver", "Zinc"],
+      "answer": "Tin"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Annealing glass involves reheating it to approximately:",
+      "options": [
+        "150–200°C",
+        "300–350°C",
+        "454–482°C",
+        "620–675°C",
+        "900–1100°C"
+      ],
+      "answer": "454–482°C"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Tempered glass is typically how much stronger than annealed glass?",
+      "options": [
+        "1.5–2× stronger",
+        "Up to 3× stronger",
+        "4–5× stronger",
+        "8–10× stronger",
+        "20× stronger"
+      ],
+      "answer": "4–5× stronger"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which cutting technique uses a controlled crack to separate glass?",
+      "options": [
+        "Laser ablation",
+        "Score-and-snap",
+        "Electrothermal cutting",
+        "Diamond drilling",
+        "Cryogenic cracking"
+      ],
+      "answer": "Score-and-snap"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Sandblasting glass generally has what effect on its strength?",
+      "options": [
+        "Increases strength by ~20%",
+        "No measurable effect",
+        "Reduces strength by ~50%",
+        "Makes it ductile",
+        "Eliminates surface flaws"
+      ],
+      "answer": "Reduces strength by ~50%"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which coating is used to reduce emissivity in high-performance glazing?",
+      "options": [
+        "Ceramic frit",
+        "Sandblasted silica",
+        "Low-E coating",
+        "Titanium nitride mirror coat",
+        "UV-absorbent resin"
+      ],
+      "answer": "Low-E coating"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Borosilicate glass is primarily known for its:",
+      "options": [
+        "High refractive index",
+        "Extreme impact strength",
+        "Thermal shock resistance",
+        "Ability to block UV radiation",
+        "Electrical conductivity"
+      ],
+      "answer": "Thermal shock resistance"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which type of glass contains embedded wire mesh for fire resistance?",
+      "options": [
+        "Tempered glass",
+        "Laminated glass",
+        "Wired glass",
+        "Switchable glass",
+        "Low-iron glass"
+      ],
+      "answer": "Wired glass"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The interlayer in laminated glass that provides superior structural performance under load is:",
+      "options": ["PVB", "EVA", "TPU", "SGP", "PVC"],
+      "answer": "SGP"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In an insulating glass unit (IGU), the primary purpose of the first seal is to:",
+      "options": [
+        "Increase structural stiffness",
+        "Prevent cavity moisture ingress",
+        "Control sound transmission",
+        "Act as a fire barrier",
+        "Anchor the unit to the frame"
+      ],
+      "answer": "Prevent cavity moisture ingress"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which gas is most commonly used in IGUs to reduce convective and conductive heat loss?",
+      "options": ["Oxygen", "Nitrogen", "Argon", "Helium", "Neon"],
+      "answer": "Argon"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A window component that forms the bottom horizontal member and enables drainage is the:",
+      "options": ["Head", "Jamb", "Sill", "Mullion", "Transom"],
+      "answer": "Sill"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Curtain walls differ from window walls because they:",
+      "options": [
+        "Are always operable",
+        "Are installed inside the structural slab",
+        "Hang outside the slab edge and span multiple floors",
+        "Use wood frames exclusively",
+        "Cannot accommodate thermal breaks"
+      ],
+      "answer": "Hang outside the slab edge and span multiple floors"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which curtain wall fabrication method involves onsite assembly of individual mullions and transoms?",
+      "options": [
+        "Unitized systems",
+        "Stick systems",
+        "Hybrid systems",
+        "Cassette systems",
+        "Post-tensioned systems"
+      ],
+      "answer": "Stick systems"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Structural silicone glazing is primarily regulated by which ASTM standards?",
+      "options": [
+        "ASTM E119 and C926",
+        "ASTM C1401 and C1249",
+        "ASTM A36 and A500",
+        "ASTM E283 and E330",
+        "ASTM C920 and E330"
+      ],
+      "answer": "ASTM C1401 and C1249"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Glass is described as an amorphous solid because it:",
+      "options": [
+        "Forms crystalline microstructures",
+        "Flows slowly at room temperature",
+        "Lacks long-range atomic order",
+        "Is composed entirely of polymers",
+        "Is porous at the microscopic level"
+      ],
+      "answer": "Lacks long-range atomic order"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Nickel-sulfide inclusions are a concern because they:",
+      "options": [
+        "Increase thermal conductivity",
+        "Cause optical distortion",
+        "Can trigger spontaneous breakage in tempered glass",
+        "Reduce UV transmission",
+        "Act as fire accelerants"
+      ],
+      "answer": "Can trigger spontaneous breakage in tempered glass"
+    },
+
+    /* -------- NEW QUESTIONS BEGIN HERE -------- */
+
+    {
+      "type": "multiple_choice",
+      "question": "Which historical glass-making method involved blowing molten glass into cylinders?",
+      "options": [
+        "Rolled plate process",
+        "Drawn sheet process",
+        "Cylinder blowing",
+        "Float glass process",
+        "Continuous casting"
+      ],
+      "answer": "Cylinder blowing"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "During float glass manufacturing, forming typically happens at temperatures between:",
+      "options": [
+        "100–400°C",
+        "400–800°C",
+        "800–1600°C",
+        "1600–2000°C",
+        "2000–2400°C"
+      ],
+      "answer": "800–1600°C"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Heat-strengthened glass breaks into:",
+      "options": [
+        "Small granules",
+        "Long, sharp shards",
+        "Foamy fragments",
+        "Powder-like dust",
+        "Round pellets"
+      ],
+      "answer": "Long, sharp shards"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Tempered glass experiences which internal stress state?",
+      "options": [
+        "Tension on the surface, compression inside",
+        "Compression on the surface, tension inside",
+        "Uniform tension throughout",
+        "Uniform compression throughout",
+        "Alternating layers of tension and compression"
+      ],
+      "answer": "Compression on the surface, tension inside"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Cold bending of glass is characterized by:",
+      "options": [
+        "Heating glass above 600°C",
+        "Shaping glass while it remains at ambient temperature",
+        "Introducing cracks to redirect stress",
+        "Applying chemical etchants to create curvature",
+        "Using molten tin as a shaping layer"
+      ],
+      "answer": "Shaping glass while it remains at ambient temperature"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which edge treatment provides the highest strength for glass?",
+      "options": [
+        "Seamed edge",
+        "Pencil grind",
+        "Flat grind",
+        "Flat polish",
+        "Beveled satin"
+      ],
+      "answer": "Flat polish"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Low-E coatings work primarily by reducing:",
+      "options": [
+        "Solar heat gain",
+        "Emissivity and longwave radiation transfer",
+        "Visible light transmission",
+        "Sound transmission",
+        "Condensation risk"
+      ],
+      "answer": "Emissivity and longwave radiation transfer"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Self-cleaning glass uses which material to break down organic debris?",
+      "options": [
+        "Silicon carbide",
+        "Titanium dioxide",
+        "Calcium sulfate",
+        "Magnesium oxide",
+        "Iron oxide"
+      ],
+      "answer": "Titanium dioxide"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Switchable glass adjusts its transparency using:",
+      "options": [
+        "Solar reflectors",
+        "Chemical dyes",
+        "Electric current",
+        "Magnetic fields",
+        "Ultraviolet filters"
+      ],
+      "answer": "Electric current"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the main benefit of argon gas in IGUs?",
+      "options": [
+        "Increases pane adhesion",
+        "Reduces radiation heat transfer",
+        "Reduces convection and conduction",
+        "Improves acoustic absorption",
+        "Prevents UV fading"
+      ],
+      "answer": "Reduces convection and conduction"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The structural component dividing glazing sections horizontally is the:",
+      "options": ["Sill", "Jamb", "Transom", "Rail", "Grille"],
+      "answer": "Transom"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The structural component dividing glazing sections vertically is the:",
+      "options": ["Sill", "Mullion", "Stile", "Head", "Grille"],
+      "answer": "Mullion"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In a sash window, the vertical members are called:",
+      "options": ["Rails", "Stiles", "Jambs", "Reveals", "Headers"],
+      "answer": "Stiles"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A window installed in a single opening within a solid wall is known as a:",
+      "options": [
+        "Curtain wall",
+        "Window wall",
+        "Punch window",
+        "Spandrel panel",
+        "Unitized frame"
+      ],
+      "answer": "Punch window"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Glass strength is governed primarily by:",
+      "options": [
+        "Internal crystal structure",
+        "Surface flaws",
+        "Density variations",
+        "Color additives",
+        "Gas inclusions"
+      ],
+      "answer": "Surface flaws"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Weibull statistics are used to model:",
+      "options": [
+        "Thermal expansion",
+        "Optical distortion",
+        "Probability of brittle failure",
+        "UV absorption spectrum",
+        "Acoustic attenuation"
+      ],
+      "answer": "Probability of brittle failure"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The typical accepted breakage rate for glass design is:",
+      "options": [
+        "1 pane per 10,000",
+        "2 panes per 5,000",
+        "8 panes per 1,000",
+        "15 panes per 1,000",
+        "30 panes per 500"
+      ],
+      "answer": "8 panes per 1,000"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Heat-soak testing reduces spontaneous breakage risk from nickel-sulfide inclusions by approximately:",
+      "options": [
+        "2×",
+        "5×",
+        "10×",
+        "50×",
+        "100×"
+      ],
+      "answer": "100×"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Glass has very high stiffness with a modulus of elasticity approximately:",
+      "options": [
+        "20 GPa",
+        "40 GPa",
+        "69 GPa",
+        "120 GPa",
+        "200 GPa"
+      ],
+      "answer": "69 GPa"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which type of glass is used for chemical plants due to extreme corrosion resistance?",
+      "options": [
+        "Soda-lime glass",
+        "Borosilicate glass",
+        "99.5% silica glass",
+        "Lead glass",
+        "Poly-crystalline glass"
+      ],
+      "answer": "99.5% silica glass"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Lead glass is known for its:",
+      "options": [
+        "Low melting point",
+        "High refractive index",
+        "Superior thermal shock resistance",
+        "Ability to be cold-bent",
+        "High compressive strength"
+      ],
+      "answer": "High refractive index"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Borosilicate glass is commonly used for:",
+      "options": [
+        "Decorative lighting",
+        "Laboratory glassware",
+        "Bullet-resistant glazing",
+        "Fire-rated doors",
+        "High-speed rail windows"
+      ],
+      "answer": "Laboratory glassware"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which type of glass has nucleated crystals that increase strength?",
+      "options": [
+        "Soda-lime",
+        "Lead glass",
+        "Poly-crystalline",
+        "Borosilicate",
+        "Alumino-silicate"
+      ],
+      "answer": "Poly-crystalline"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Alumino-silicate glass is primarily used because it has:",
+      "options": [
+        "Very low viscosity",
+        "Exceptionally high softening temperature",
+        "Superior optical clarity",
+        "Excellent electrical conductivity",
+        "Self-cleaning properties"
+      ],
+      "answer": "Exceptionally high softening temperature"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which oxide coloring agent produces blue glass?",
+      "options": [
+        "Iron oxide",
+        "Cobalt oxide",
+        "Manganese dioxide",
+        "Chromium oxide",
+        "Copper oxide"
+      ],
+      "answer": "Cobalt oxide"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which oxide typically produces green or brown glass?",
+      "options": [
+        "Manganese dioxide",
+        "Iron oxide",
+        "Cobalt oxide",
+        "Nickel oxide",
+        "Vanadium oxide"
+      ],
+      "answer": "Iron oxide"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manganese dioxide is commonly used to produce what color in glass?",
+      "options": ["Red", "Blue", "Purple", "Yellow", "Black"],
+      "answer": "Purple"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Laminated glass retains fragments after breakage primarily due to:",
+      "options": [
+        "Surface compression",
+        "Interlayer adhesion",
+        "Vacuum bonding",
+        "Thermal expansion mismatch",
+        "Chemical etching patterns"
+      ],
+      "answer": "Interlayer adhesion"
+    }
+  ]
