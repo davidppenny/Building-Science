@@ -191,9 +191,6 @@
       ],
       "answer": "Can trigger spontaneous breakage in tempered glass"
     },
-
-    /* -------- NEW QUESTIONS BEGIN HERE -------- */
-
     {
       "type": "multiple_choice",
       "question": "Which historical glass-making method involved blowing molten glass into cylinders?",
