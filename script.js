@@ -338,7 +338,7 @@ function showFillBlank(q){
       show(els.answer-reveal);
       scheduleRetry(q);
     }
-    lockUI();
+    //lockUI();
     show(els.nextBtn);
     setProgress();
   };
