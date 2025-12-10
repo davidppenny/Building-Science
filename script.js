@@ -335,11 +335,11 @@ function showFillBlank(q){
       setFeedback(false, 'Incorrect ❌');
       recordWrongAnswer(q, userRaw);
       els.answerReveal.textContent = `Correct answer: ${q.answer}`;
-      show(els.answer-reveal);
+      show(els.answerReveal);
       scheduleRetry(q);
-      show(els.nextBtn);
+
     }
-    //lockUI();
+    lockUI();
     show(els.nextBtn);
     setProgress();
   };
