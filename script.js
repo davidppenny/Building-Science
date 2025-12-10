@@ -337,6 +337,7 @@ function showFillBlank(q){
       els.answerReveal.textContent = `Correct answer: ${q.answer}`;
       show(els.answer-reveal);
       scheduleRetry(q);
+      show(els.nextBtn);
     }
     //lockUI();
     show(els.nextBtn);
