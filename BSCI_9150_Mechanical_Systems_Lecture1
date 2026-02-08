@@ -1,1 +1,230 @@
-
+[
+  {
+    "type": "multiple_choice",
+    "question": "What are the two fundamental objectives of an air-conditioning system?",
+    "options": [
+      "Energy efficiency and acoustic control",
+      "Control of indoor air quality and maintenance of thermal comfort",
+      "Maximizing airflow and reducing humidity",
+      "Heating the space and minimizing ventilation",
+      "Filtering contaminants and reducing carbon footprint"
+    ],
+    "answer": "Control of indoor air quality and maintenance of thermal comfort"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How is Indoor Air Quality (IAQ) primarily achieved in an HVAC system?",
+    "options": [
+      "By increasing the temperature of the indoor air",
+      "Through a process of ventilation (supplying outside air/removing stale air) combined with filtration",
+      "By using terminal units to recirculate air within a single room",
+      "Exclusively through the use of high-efficiency particulate air (HEPA) filters",
+      "By maintaining a constant humidity ratio (∆W)"
+    ],
+    "answer": "Through a process of ventilation (supplying outside air/removing stale air) combined with filtration"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How is Thermal Comfort achieved through an HVAC system?",
+    "options": [
+      "The removal of CO2 through particulate filters",
+      "The distribution of air through piping and ductwork systems",
+      "Thermodynamic conditioning of air to maintain specific temperature and humidity levels",
+      "The use of boilers and chillers to generate sensible heat",
+      "The maintenance of a constant humidity ratio across all seasons"
+    ],
+    "answer": "Thermodynamic conditioning of air to maintain specific temperature and humidity levels"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which HVAC sector includes devices such as boilers and chillers?",
+    "options": [
+      "Terminal units",
+      "Distribution systems",
+      "Heating and cooling equipment",
+      "Thermodynamic conditioning units",
+      "Ventilation sectors"
+    ],
+    "answer": "Heating and cooling equipment"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary function of an HVAC distribution system?",
+    "options": [
+      "To generate the primary heating or cooling load",
+      "To filter air as it enters the building from the outside",
+      "To move heating, cooling, or ventilation air via ductwork or piping",
+      "To deliver conditioned air directly to occupants in a specific room",
+      "To vary the temperature of air based on the sensible load"
+    ],
+    "answer": "To move heating, cooling, or ventilation air via ductwork or piping"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What are terminal units in the context of HVAC systems?",
+    "options": [
+      "Centralized plants where thermal energy is generated",
+      "Equipment located in the room or space to deliver the conditioned air",
+      "Main vertical shafts used for distribution piping",
+      "Calculated values for sensible and latent heat loads",
+      "External units that reject heat to the atmosphere"
+    ],
+    "answer": "Equipment located in the room or space to deliver the conditioned air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How is 'Thermodynamic Conditioning of Air' formally defined?",
+    "options": [
+      "The process of filtering air to remove pollutants",
+      "The movement of air through variable air volume units",
+      "Simultaneously cooling and dehumidifying or heating air to maintain comfort",
+      "The calculation of sensible versus latent heat loads",
+      "The use of boilers and chillers to generate thermal energy"
+    ],
+    "answer": "Simultaneously cooling and dehumidifying or heating air to maintain comfort"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Using SI Units, what is the correct constant used to calculate the Sensible Heat (Qs) of airflow?",
+    "options": [
+      "1.08",
+      "4,840",
+      "3,010",
+      "1.22",
+      "0.24"
+    ],
+    "answer": "1.22"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the IP Units system, what is the formula for calculating Sensible Heat (Qs)?",
+    "options": [
+      "Qs = 1.22 x (L/s) x ∆T",
+      "Qs = 1.08 x CFM x ∆T",
+      "QL = 4,840 x CFM x ∆W",
+      "QL = 3,010 x (L/s) x ∆W",
+      "Qs = 0.24 x CFM x ∆T"
+    ],
+    "answer": "Qs = 1.08 x CFM x ∆T"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the Latent Heat equation (QL = 4,840 x CFM x ∆W), what does ∆W represent?",
+    "options": [
+      "The difference in temperature between outdoor and indoor air",
+      "The total volume of air in cubic feet per minute",
+      "The humidity ratio difference between outdoor and indoor air",
+      "The work required by the compressor",
+      "The density of the air at standard pressure"
+    ],
+    "answer": "The humidity ratio difference between outdoor and indoor air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Using SI Units, what is the constant used to calculate Latent Heat (QL)?",
+    "options": [
+      "1.08",
+      "1.22",
+      "4,840",
+      "3,010",
+      "0.68"
+    ],
+    "answer": "3,010"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which capacity control method involves the unit running to meet demand and turning off once the setpoint is reached?",
+    "options": [
+      "Variable Air Volume (VAV)",
+      "Dual System",
+      "Heat – Cool – Off",
+      "Reheat",
+      "Constant Air Volume (CAV)"
+    ],
+    "answer": "Heat – Cool – Off"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a defining characteristic of a Dual Duct system?",
+    "options": [
+      "It uses separate hot and cold air streams mixed to meet specific zone requirements",
+      "It varies airflow quantity rather than temperature",
+      "It is only used in residential window units",
+      "It cools air to a fixed temperature and then reheats it",
+      "It uses water-to-air source heat pumps exclusively"
+    ],
+    "answer": "It uses separate hot and cold air streams mixed to meet specific zone requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Reheat' method of capacity control is often used to:",
+    "options": [
+      "Increase airflow in VAV boxes",
+      "Manage humidity control while still meeting the sensible load",
+      "Reduce the electrical consumption of chillers",
+      "Eliminate the need for ductwork",
+      "Transition from SI units to IP units"
+    ],
+    "answer": "Manage humidity control while still meeting the sensible load"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which capacity control method varies the quantity of airflow rather than the temperature to control room conditions?",
+    "options": [
+      "Heat – Cool – Off",
+      "Dual Duct System",
+      "Reheat",
+      "Variable Air Volume (VAV)",
+      "Constant Air Volume (CAV)"
+    ],
+    "answer": "Variable Air Volume (VAV)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a Centralized HVAC system, where is the large equipment (chillers, boilers) typically located?",
+    "options": [
+      "Directly in the conditioned space",
+      "In a central location within the building",
+      "On the exterior wall of every zone",
+      "Within the terminal units of each room",
+      "Only on the roof of the building"
+    ],
+    "answer": "In a central location within the building"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a disadvantage of De-Centralized systems compared to Centralized systems?",
+    "options": [
+      "They require more complex ductwork throughout the building",
+      "They cannot provide direct refrigeration expansion (DX)",
+      "They do not have the benefit of diversifying equipment sizing",
+      "They are only suitable for large industrial complexes",
+      "They cannot provide both heating and cooling"
+    ],
+    "answer": "They do not have the benefit of diversifying equipment sizing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In De-Centralized systems, how is heating and cooling typically provided?",
+    "options": [
+      "Via centrally located chillers and hydronic piping",
+      "Through direct refrigeration expansion (DX) for cooling and gas or electric for heating",
+      "By varying airflow quantity through a central AHU",
+      "Using water-to-air source heat pumps exclusively",
+      "By mixing hot and cold air streams from a dual duct system"
+    ],
+    "answer": "Through direct refrigeration expansion (DX) for cooling and gas or electric for heating"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following are examples of Semi-Centralized systems?",
+    "options": [
+      "Window units and ductless split systems",
+      "Large-scale central chillers and boilers",
+      "Packaged air conditioners and water-to-air source heat pumps",
+      "Multi-zone air handling units and dual duct systems",
+      "Single-zone CAV systems"
+    ],
+    "answer": "Packaged air conditioners and water-to-air source heat pumps"
+  }
+]
