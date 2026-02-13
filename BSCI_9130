@@ -1,0 +1,302 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following best describes the relationship between OpenStudio and EnergyPlus?",
+    "options": [
+      "OpenStudio is a standalone simulation engine that replaces EnergyPlus.",
+      "EnergyPlus is the graphical user interface for the OpenStudio engine.",
+      "OpenStudio is a software development kit (SDK) and middleware that uses EnergyPlus as its simulation engine.",
+      "OpenStudio is only used for geometry, while EnergyPlus handles the schedules.",
+      "There is no relationship; they are competing products from different agencies."
+    ],
+    "answer": "OpenStudio is a software development kit (SDK) and middleware that uses EnergyPlus as its simulation engine."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary purpose of Typical Meteorological Year (TMY) data in building energy modeling?",
+    "options": [
+      "To represent the actual weather of the most recent calendar year.",
+      "To provide a single year of hourly data representing the long-term climate and weather extremes of a location.",
+      "To predict short-term weather forecasts for the upcoming season.",
+      "To record the maximum temperatures ever reached in a specific city.",
+      "To provide average monthly data without hourly resolution."
+    ],
+    "answer": "To provide a single year of hourly data representing the long-term climate and weather extremes of a location."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the OpenStudio data inheritance hierarchy for constructions, which level has the highest priority?",
+    "options": [
+      "Building level",
+      "Building Story level",
+      "Space level",
+      "Space Type level",
+      "Individual Surface level"
+    ],
+    "answer": "Individual Surface level"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How are Heating Degree Days (HDD) typically calculated?",
+    "options": [
+      "Summing the total number of hours the temperature is above 100°F.",
+      "Summing the difference between a base temperature (typically 65°F) and the average hourly outdoor air temperature over a year.",
+      "Averaging the daily high and low temperatures for the winter months.",
+      "Calculating the peak heating load required for a specific building envelope.",
+      "Multiplying the building's floor area by the average winter wind speed."
+    ],
+    "answer": "Summing the difference between a base temperature (typically 65°F) and the average hourly outdoor air temperature over a year."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which OpenStudio abstraction is used to specify programmatic activities (e.g., Office, Classroom) and their associated loads?",
+    "options": [
+      "Thermal Zone",
+      "Space Type",
+      "Construction Set",
+      "Schedule Set",
+      "Air Loop"
+    ],
+    "answer": "Space Type"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What happens to sunlight (shortwave radiation) when it encounters an opaque surface in OpenStudio?",
+    "options": [
+      "It passes through into the space as daylight.",
+      "It is converted into mechanical ventilation energy.",
+      "It is absorbed or reflected by the surface but does not pass directly through into the space.",
+      "It is ignored by the simulation engine unless a window is present.",
+      "It is reflected entirely with zero heat gain."
+    ],
+    "answer": "It is absorbed or reflected by the surface but does not pass directly through into the space."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In OpenStudio, what is a 'Thermal Zone' primarily used for?",
+    "options": [
+      "Defining the architectural style of the building.",
+      "As the primary object of simulation for heat balance and HVAC equipment assignment.",
+      "To determine the number of stories in a building.",
+      "To store the metadata for construction materials.",
+      "To calculate the total property tax of the building structure."
+    ],
+    "answer": "As the primary object of simulation for heat balance and HVAC equipment assignment."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which file format is used by OpenStudio to represent the final model prior to calling EnergyPlus?",
+    "options": [
+      "IDF (Input Data File)",
+      "OSM (OpenStudio Model File)",
+      "EPW (EnergyPlus Weather File)",
+      "SQL (SQLite Database)",
+      "XML (Extensible Markup Language)"
+    ],
+    "answer": "OSM (OpenStudio Model File)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'By-Pass Factor' of a cooling coil in an AHU represents:",
+    "options": [
+      "The amount of air that leaks from the supply duct into the return duct.",
+      "The percentage of air that passes through the coil without being cooled.",
+      "The efficiency rating of the coil's chilled water pump.",
+      "The ratio of latent heat to sensible heat removed.",
+      "The speed at which the refrigerant circulates through the coil."
+    ],
+    "answer": "The percentage of air that passes through the coil without being cooled."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary function of a 'Preheat Coil' in an Air Handling Unit?",
+    "options": [
+      "To provide the main heating source for the building in summer.",
+      "To temper outside air to prevent freezing of downstream components.",
+      "To remove moisture from the air through desiccant cooling.",
+      "To increase the efficiency of the lighting system.",
+      "To balance the air pressure between the supply and return fans."
+    ],
+    "answer": "To temper outside air to prevent freezing of downstream components."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which air-side energy recovery device uses a rotating circular disc to recover both sensible and latent heat?",
+    "options": [
+      "Heat Pipe",
+      "Run Around Loop",
+      "Fixed-Plate Energy Exchanger",
+      "Rotary Wheel Energy Exchanger",
+      "Adiabatic Bypass Pipe"
+    ],
+    "answer": "Rotary Wheel Energy Exchanger"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A VAV (Variable Air Volume) system saves energy primarily because:",
+    "options": [
+      "It uses water instead of air to move heat.",
+      "It keeps the fan speed constant at all times.",
+      "Fan power reduces as the airflow rate reduces, following the Fan Affinity Laws.",
+      "It eliminates the need for any outdoor air intake.",
+      "It cools the air to a much lower temperature than CAV systems."
+    ],
+    "answer": "Fan power reduces as the airflow rate reduces, following the Fan Affinity Laws."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In OpenStudio HVAC modeling, a 'Plant Loop' is typically divided into which two sides?",
+    "options": [
+      "Left side and Right side",
+      "Inlet side and Outlet side",
+      "Supply side and Demand side",
+      "Primary side and Secondary side",
+      "Indoor side and Outdoor side"
+    ],
+    "answer": "Supply side and Demand side"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is an OpenStudio 'Measure'?",
+    "options": [
+      "A tool for measuring the dimensions of a room in the floor plan editor.",
+      "A specific set of regulations for building safety.",
+      "A script (written in Ruby) that can programmatically modify an OpenStudio model or report on results.",
+      "The unit of energy used in EnergyPlus (Joules).",
+      "A physical sensor placed on the roof of a modeled building."
+    ],
+    "answer": "A script (written in Ruby) that can programmatically modify an OpenStudio model or report on results."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which sampling method in the Parametric Analysis Tool (PAT) uses equally probable intervals to generate a sparse set of samples?",
+    "options": [
+      "Design of Experiments (DOE)",
+      "Single Run",
+      "Latin Hypercube Sampling (LHS)",
+      "Morris Method",
+      "Particle Swarm Optimization"
+    ],
+    "answer": "Latin Hypercube Sampling (LHS)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The Morris Method is best suited for which of the following tasks?",
+    "options": [
+      "Finding the single most optimal global solution.",
+      "Identifying which independent variables have the most significant impact on an objective function (Sensitivity Analysis).",
+      "Running every possible combination of variables (Full Factorial).",
+      "Predicting the weather for the TMY file.",
+      "Drawing 3D geometry in SketchUp."
+    ],
+    "answer": "Identifying which independent variables have the most significant impact on an objective function (Sensitivity Analysis)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which optimization algorithm mimics natural selection to improve a population of solutions over generations?",
+    "options": [
+      "Nelder-Mead Simplex (Optim)",
+      "Linear Regression",
+      "Nondominated Sorting Genetic Algorithm 2 (NSGA2)",
+      "Latin Hypercube Sampling",
+      "Pre-Flight Check"
+    ],
+    "answer": "Nondominated Sorting Genetic Algorithm 2 (NSGA2)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a 'Pareto Front' in multi-objective optimization?",
+    "options": [
+      "The exterior wall of a building that faces South.",
+      "A collection of solutions where no objective can be improved without degrading another objective.",
+      "The first row of data in a TMY weather file.",
+      "The interface between OpenStudio and Radiance.",
+      "The point at which a simulation fails due to a 'soft' error."
+    ],
+    "answer": "A collection of solutions where no objective can be improved without degrading another objective."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which external simulation engine does OpenStudio use for high-fidelity daylighting analysis?",
+    "options": [
+      "EnergyPlus",
+      "Radiance",
+      "SketchUp",
+      "DView",
+      "Excel"
+    ],
+    "answer": "Radiance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does a 'Daylighting Control' object in OpenStudio do during a simulation?",
+    "options": [
+      "It automatically opens and closes the blinds.",
+      "It records the amount of solar radiation on the roof.",
+      "It dims or turns off electric lights in response to available natural daylight to save energy.",
+      "It changes the color of the furniture to better reflect light.",
+      "It measures the U-factor of the windows."
+    ],
+    "answer": "It dims or turns off electric lights in response to available natural daylight to save energy."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which distribution type in PAT is recommended for variables like window-to-wall ratio to ensure values stay within physical limits (0.0 to 1.0)?",
+    "options": [
+      "Normal Distribution",
+      "Log-Normal Distribution",
+      "Uniform Distribution",
+      "Triangular Distribution",
+      "Discrete Distribution"
+    ],
+    "answer": "Triangular Distribution"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of HVAC modeling, what does 'Auto-sizing' refer to?",
+    "options": [
+      "OpenStudio automatically drawing the floor plan for you.",
+      "EnergyPlus calculating required equipment capacities (e.g., flow rates, coil sizes) based on design day conditions.",
+      "The user manually typing in the tonnage of a chiller.",
+      "Resizing the application window to fit the computer screen.",
+      "Shrinking the building footprint to meet energy codes."
+    ],
+    "answer": "EnergyPlus calculating required equipment capacities (e.g., flow rates, coil sizes) based on design day conditions."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the role of an 'Illuminance Map' in OpenStudio?",
+    "options": [
+      "To provide a satellite view of the building site.",
+      "To define a grid of points within a space where daylight illuminance levels are calculated and reported.",
+      "To list all the light fixtures used in the project.",
+      "To map out the electrical wiring of the lighting circuits.",
+      "To show the path of the sun across the sky."
+    ],
+    "answer": "To define a grid of points within a space where daylight illuminance levels are calculated and reported."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Where are 'Measures' primarily found and downloaded from?",
+    "options": [
+      "The EnergyPlus website",
+      "The Building Component Library (BCL)",
+      "The OpenStudio installation folder exclusively",
+      "The ASHRAE Standard 90.1 handbook",
+      "A physical hardware store"
+    ],
+    "answer": "The Building Component Library (BCL)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which component is required to manage and interact with large-scale cloud analyses in OpenStudio?",
+    "options": [
+      "SketchUp Plug-in",
+      "OpenStudio Server",
+      "DView",
+      "ResultsViewer",
+      "Floor Plan Editor"
+    ],
+    "answer": "OpenStudio Server"
+  }
+]
