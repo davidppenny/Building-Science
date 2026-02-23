@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "According to the lecture notes, what is the single most important loading in relation to building enclosure performance problems?",
+    "options": [
+      "A) Thermal variation",
+      "B) Acoustic vibration",
+      "C) Moisture",
+      "D) Ultraviolet radiation",
+      "E) Wind pressure"
+    ],
+    "answer": "C) Moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT listed as a category of moisture loading in the notes?",
+    "options": [
+      "A) Exterior Moisture",
+      "B) Interior Moisture",
+      "C) Construction Moisture",
+      "D) Magnetic Moisture",
+      "E) Ground Water"
+    ],
+    "answer": "D) Magnetic Moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which source of moisture is typically considered an order of magnitude higher than diffusion or air leakage?",
+    "options": [
+      "A) Interior humidity",
+      "B) Rain water",
+      "C) Construction moisture",
+      "D) Soil gas",
+      "E) Occupant respiration"
+    ],
+    "answer": "B) Rain water"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is an example of 'Construction Moisture'?",
+    "options": [
+      "A) Rain falling on a finished roof.",
+      "B) Water used in concrete or trapped in lumber during construction.",
+      "C) Steam from a shower.",
+      "D) Groundwater wicking into a foundation.",
+      "E) Condensation on a cold window."
+    ],
+    "answer": "B) Water used in concrete or trapped in lumber during construction."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a recommended mitigation strategy for construction moisture regarding materials?",
+    "options": [
+      "A) Soaking materials in water before installation.",
+      "B) Protection of materials during shipping and storage.",
+      "C) Installing materials immediately upon delivery regardless of weather.",
+      "D) Using only non-porous materials.",
+      "E) Heating materials to 100°C before use."
+    ],
+    "answer": "B) Protection of materials during shipping and storage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What should be monitored prior to enclosing a wall assembly to mitigate construction moisture risks?",
+    "options": [
+      "A) The air pressure.",
+      "B) The wind speed.",
+      "C) The moisture content of the materials.",
+      "D) The solar angle.",
+      "E) The acoustic transmission."
+    ],
+    "answer": "C) The moisture content of the materials."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a method to remove moisture from a building enclosure assembly (Drying)?",
+    "options": [
+      "A) Absorption.",
+      "B) Adsorption.",
+      "C) Evaporation.",
+      "D) Condensation.",
+      "E) Precipitation."
+    ],
+    "answer": "C) Evaporation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does gravity contribute to the drying process?",
+    "options": [
+      "A) By causing evaporation.",
+      "B) By driving drainage of liquid water.",
+      "C) By increasing vapour pressure.",
+      "D) By reducing air leakage.",
+      "E) Gravity hinders drying."
+    ],
+    "answer": "B) By driving drainage of liquid water."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Hygroscopic' material behavior?",
+    "options": [
+      "A) The ability to repel water completely.",
+      "B) The ability to absorb and release moisture from the air (vapour) until equilibrium is reached.",
+      "C) The ability to generate heat when wet.",
+      "D) The ability to dissolve in water.",
+      "E) The ability to block all magnetic fields."
+    ],
+    "answer": "B) The ability to absorb and release moisture from the air (vapour) until equilibrium is reached."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What defines a 'Capillary Active' material?",
+    "options": [
+      "A) A material that can redistribute liquid water through its pore structure via suction.",
+      "B) A material that is hydrophobic.",
+      "C) A material that only allows vapour diffusion.",
+      "D) A material that cannot get wet.",
+      "E) A material that acts as a capillary break."
+    ],
+    "answer": "A) A material that can redistribute liquid water through its pore structure via suction."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following describes 'Free Water Saturation'?",
+    "options": [
+      "A) The moisture content where the material melts.",
+      "B) The maximum amount of water a material can hold under normal capillary suction conditions.",
+      "C) The moisture content when the material is completely dry.",
+      "D) The point where all pores are filled using a vacuum.",
+      "E) The weight of the water is zero."
+    ],
+    "answer": "B) The maximum amount of water a material can hold under normal capillary suction conditions."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does 'Maximum Water Saturation' typically compare to 'Free Water Saturation'?",
+    "options": [
+      "A) It is lower.",
+      "B) It is the same.",
+      "C) It is higher because it accounts for air trapped in pores being forced out (e.g., vacuum saturation).",
+      "D) It is irrelevant.",
+      "E) It depends on the color of the material."
+    ],
+    "answer": "C) It is higher because it accounts for air trapped in pores being forced out (e.g., vacuum saturation)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Critical Moisture Content'?",
+    "options": [
+      "A) The moisture level required to mix concrete.",
+      "B) The threshold moisture content above which damage or deterioration (e.g., rot, mold) begins to occur.",
+      "C) The exact moisture content of rain.",
+      "D) The moisture content of the air.",
+      "E) The point where water freezes."
+    ],
+    "answer": "B) The threshold moisture content above which damage or deterioration (e.g., rot, mold) begins to occur."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which software tool is mentioned for performing hygrothermal analysis?",
+    "options": [
+      "A) AutoCAD",
+      "B) Excel",
+      "C) WUFI",
+      "D) Photoshop",
+      "E) Revit"
+    ],
+    "answer": "C) WUFI"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "To use WUFI effectively, one must understand which of the following?",
+    "options": [
+      "A) Structural engineering only.",
+      "B) Electrical wiring diagrams.",
+      "C) Moisture storage and transport mechanisms in porous materials.",
+      "D) Interior decorating principles.",
+      "E) Landscape architecture."
+    ],
+    "answer": "C) Moisture storage and transport mechanisms in porous materials."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a mechanism for vapour transport involved in drying?",
+    "options": [
+      "A) Gravity.",
+      "B) Capillary suction.",
+      "C) Diffusion and Air Leakage.",
+      "D) Surface tension.",
+      "E) Magnetic attraction."
+    ],
+    "answer": "C) Diffusion and Air Leakage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sequencing of work is a strategy primarily used to control:",
+    "options": [
+      "A) Solar heat gain.",
+      "B) Exposure to wetting during construction.",
+      "C) Air leakage rates in the finished building.",
+      "D) Vapour diffusion in the finished building.",
+      "E) Sound transmission."
+    ],
+    "answer": "B) Exposure to wetting during construction."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following lists includes only 'Exterior' moisture sources?",
+    "options": [
+      "A) Shower steam, Cooking, Plants.",
+      "B) Rain, Groundwater, Snow.",
+      "C) Concrete curing, Wet lumber.",
+      "D) Occupants, Pets, Aquariums.",
+      "E) Plumbing leaks, HVAC condensation."
+    ],
+    "answer": "B) Rain, Groundwater, Snow."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary driver for 'Evaporation' from a surface?",
+    "options": [
+      "A) Gravity.",
+      "B) Heat energy (Solar radiation or warm air) and vapour pressure gradient.",
+      "C) Capillary suction.",
+      "D) Hydrostatic pressure.",
+      "E) Wind pressure alone."
+    ],
+    "answer": "B) Heat energy (Solar radiation or warm air) and vapour pressure gradient."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ventilation contributes to drying by:",
+    "options": [
+      "A) Increasing the humidity in the cavity.",
+      "B) Removing moisture-laden air via air exchange.",
+      "C) Stopping all airflow.",
+      "D) Compressing the insulation.",
+      "E) Freezing the water."
+    ],
+    "answer": "B) Removing moisture-laden air via air exchange."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of 'Storage', what does a safe storage capacity allow an assembly to do?",
+    "options": [
+      "A) Store infinite water without failing.",
+      "B) Absorb and hold a certain amount of moisture temporarily without causing damage.",
+      "C) Prevent any water from entering.",
+      "D) Convert water into electricity.",
+      "E) Increase the structural load significantly."
+    ],
+    "answer": "B) Absorb and hold a certain amount of moisture temporarily without causing damage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tarping and weather-sealing are examples of:",
+    "options": [
+      "A) Permanent design features.",
+      "B) Construction moisture mitigation strategies.",
+      "C) Interior finishing.",
+      "D) Structural reinforcement.",
+      "E) Aesthetic treatments."
+    ],
+    "answer": "B) Construction moisture mitigation strategies."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is 'Ground Water' considered an exterior moisture load?",
+    "options": [
+      "A) Because it comes from inside the house.",
+      "B) Because it is generated by construction.",
+      "C) Because it exerts hydrostatic pressure from the soil against the foundation.",
+      "D) Because it falls from the sky.",
+      "E) It is not an exterior load."
+    ],
+    "answer": "C) Because it exerts hydrostatic pressure from the soil against the foundation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which phrase best describes the goal of wetting and drying control?",
+    "options": [
+      "A) Wetting > Drying",
+      "B) Drying > Wetting",
+      "C) Wetting = Drying",
+      "D) Zero Wetting at all costs",
+      "E) Maximize Wetting"
+    ],
+    "answer": "B) Drying > Wetting"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following materials is typically Hygroscopic?",
+    "options": [
+      "A) Wood",
+      "B) Glass",
+      "C) Metal",
+      "D) Plastic vapour barrier",
+      "E) Vinyl siding"
+    ],
+    "answer": "A) Wood"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the result if moisture storage exceeds the Critical Moisture Content?",
+    "options": [
+      "A) The material becomes stronger.",
+      "B) The material dries out instantly.",
+      "C) Deterioration mechanisms (like rot or corrosion) are initiated.",
+      "D) The material becomes hydrophobic.",
+      "E) Nothing happens."
+    ],
+    "answer": "C) Deterioration mechanisms (like rot or corrosion) are initiated."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which transport mechanism moves liquid water against gravity in porous materials?",
+    "options": [
+      "A) Diffusion.",
+      "B) Air leakage.",
+      "C) Capillarity (Suction).",
+      "D) Convection.",
+      "E) Radiation."
+    ],
+    "answer": "C) Capillarity (Suction)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the 'Control of Wetting' lecture, what does 'Wetting' refer to?",
+    "options": [
+      "A) Only rain penetration.",
+      "B) The accumulation of moisture in a system from various sources.",
+      "C) Cleaning the building.",
+      "D) Painting the building.",
+      "E) The process of drying."
+    ],
+    "answer": "B) The accumulation of moisture in a system from various sources."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is considered an 'Interior' moisture load?",
+    "options": [
+      "A) Wind-driven rain.",
+      "B) Snow melt.",
+      "C) Humidity from showers and cooking.",
+      "D) Wet concrete.",
+      "E) Groundwater."
+    ],
+    "answer": "C) Humidity from showers and cooking."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which additional reading topic is listed in the notes for Lecture 7?",
+    "options": [
+      "A) Structural Steel Design.",
+      "B) History of Architecture.",
+      "C) Investigation and Diagnosing Moisture Problems.",
+      "D) Advanced Calculus.",
+      "E) Interior Design Basics."
+    ],
+    "answer": "C) Investigation and Diagnosing Moisture Problems."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What role does 'Air Leakage' play in drying?",
+    "options": [
+      "A) It has no role.",
+      "B) It can transport moisture vapour out of an assembly (if the air is dry enough).",
+      "C) It always wets the assembly.",
+      "D) It only transports liquid water.",
+      "E) It prevents evaporation."
+    ],
+    "answer": "B) It can transport moisture vapour out of an assembly (if the air is dry enough)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Sorption Isotherm' relates which two properties of a porous material?",
+    "options": [
+      "A) Temperature and Pressure.",
+      "B) Relative Humidity and Equilibrium Moisture Content.",
+      "C) Weight and Volume.",
+      "D) Time and Speed.",
+      "E) Cost and Durability."
+    ],
+    "answer": "B) Relative Humidity and Equilibrium Moisture Content."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Drainage removes moisture in which state?",
+    "options": [
+      "A) Solid (Ice).",
+      "B) Gas (Vapour).",
+      "C) Liquid.",
+      "D) Plasma.",
+      "E) Supercritical fluid."
+    ],
+    "answer": "C) Liquid."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Diffusion removes moisture in which state?",
+    "options": [
+      "A) Solid.",
+      "B) Liquid.",
+      "C) Vapour.",
+      "D) Plasma.",
+      "E) None of the above."
+    ],
+    "answer": "C) Vapour."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is understanding 'Moisture storage of a porous material' important for simulation?",
+    "options": [
+      "A) To calculate the weight of the building.",
+      "B) To predict how much water the material can hold before failing or leaking.",
+      "C) To choose the paint color.",
+      "D) To determine the fire rating.",
+      "E) To estimate the cost."
+    ],
+    "answer": "B) To predict how much water the material can hold before failing or leaking."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a mitigation for 'Construction Moisture' related to wet lumber?",
+    "options": [
+      "A) Enclosing the wall immediately.",
+      "B) Using a heater to dry the lumber after enclosure.",
+      "C) Measuring moisture content and allowing drying before closing the wall.",
+      "D) Painting the wet lumber.",
+      "E) Ignoring it."
+    ],
+    "answer": "C) Measuring moisture content and allowing drying before closing the wall."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the term 'Capillary Saturation' refer to?",
+    "options": [
+      "A) The same as Free Water Saturation.",
+      "B) The same as Maximum Water Saturation.",
+      "C) Dryness.",
+      "D) Frozen state.",
+      "E) Vapour saturation."
+    ],
+    "answer": "A) The same as Free Water Saturation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why might 'Maximum Water Saturation' be higher than 'Free Water Saturation'?",
+    "options": [
+      "A) Because water expands when frozen.",
+      "B) Because of entrapped air that is not displaced by simple capillary suction.",
+      "C) Because the material shrinks.",
+      "D) Because of evaporation.",
+      "E) It is never higher."
+    ],
+    "answer": "B) Because of entrapped air that is not displaced by simple capillary suction."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Evaporation can occur from:",
+    "options": [
+      "A) Only the exterior surface.",
+      "B) Only the interior surface.",
+      "C) Both interior and exterior surfaces.",
+      "D) Neither surface.",
+      "E) Only the roof."
+    ],
+    "answer": "C) Both interior and exterior surfaces."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary benefit of a 'Vented' rainscreen regarding drying?",
+    "options": [
+      "A) It allows water to drain only.",
+      "B) It allows for convective airflow (ventilation) to enhance drying of the cavity.",
+      "C) It seals the moisture inside.",
+      "D) It prevents diffusion.",
+      "E) It heats the wall."
+    ],
+    "answer": "B) It allows for convective airflow (ventilation) to enhance drying of the cavity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which loading is associated with 'Snow'?",
+    "options": [
+      "A) Interior moisture.",
+      "B) Exterior moisture.",
+      "C) Construction moisture only.",
+      "D) Ground water only.",
+      "E) Vapour diffusion."
+    ],
+    "answer": "B) Exterior moisture."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Moisture transport 'Inside a porous material' includes:",
+    "options": [
+      "A) Liquid transport (capillary) and Vapour transport (diffusion).",
+      "B) Only gravity drainage.",
+      "C) Only air leakage.",
+      "D) Solar radiation.",
+      "E) None of the above."
+    ],
+    "answer": "A) Liquid transport (capillary) and Vapour transport (diffusion)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does 'Protection' mitigate construction moisture?",
+    "options": [
+      "A) By drying wet materials.",
+      "B) By preventing materials from getting wet in the first place (e.g., covering stored lumber).",
+      "C) By increasing airflow.",
+      "D) By using heaters.",
+      "E) By painting materials."
+    ],
+    "answer": "B) By preventing materials from getting wet in the first place (e.g., covering stored lumber)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Moisture Balance' principle dictates that:",
+    "options": [
+      "A) Wetting must equal Drying.",
+      "B) Drying potential must exceed Wetting load plus Storage capacity margin.",
+      "C) Wetting potential must exceed Drying potential.",
+      "D) Storage is not important.",
+      "E) Moisture should be maximized."
+    ],
+    "answer": "B) Drying potential must exceed Wetting load plus Storage capacity margin."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a drying mechanism mentioned in the notes?",
+    "options": [
+      "A) Evaporation",
+      "B) Drainage",
+      "C) Ventilation",
+      "D) Sublimation (implied as minor or not listed)",
+      "E) Condensation"
+    ],
+    "answer": "E) Condensation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which material property is key to 'Moisture Storage'?",
+    "options": [
+      "A) Porosity / Sorption capacity.",
+      "B) Thermal conductivity.",
+      "C) Electrical resistance.",
+      "D) Color.",
+      "E) Hardness."
+    ],
+    "answer": "A) Porosity / Sorption capacity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Understanding 'How a porous material becomes wet' involves knowledge of:",
+    "options": [
+      "A) Structural loads.",
+      "B) Sorption and capillary suction.",
+      "C) Fire resistance.",
+      "D) Sound dampening.",
+      "E) Lighting design."
+    ],
+    "answer": "B) Sorption and capillary suction."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the relevance of 'Appendix C of BCBC' in the additional reading?",
+    "options": [
+      "A) It lists fire ratings.",
+      "B) It provides climatic data and moisture control guidelines.",
+      "C) It details plumbing codes.",
+      "D) It explains electrical wiring.",
+      "E) It lists paint colors."
+    ],
+    "answer": "B) It provides climatic data and moisture control guidelines."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following contributes to 'Interior Moisture'?",
+    "options": [
+      "A) Rain.",
+      "B) Snow.",
+      "C) Plants and aquariums.",
+      "D) Ground water.",
+      "E) Exterior humidity."
+    ],
+    "answer": "C) Plants and aquariums."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is 'Sequencing' important for moisture control?",
+    "options": [
+      "A) To finish the project faster.",
+      "B) To ensure the roof is on before moisture-sensitive interior work begins.",
+      "C) To save money on labor.",
+      "D) To comply with noise bylaws.",
+      "E) To improve aesthetics."
+    ],
+    "answer": "B) To ensure the roof is on before moisture-sensitive interior work begins."
+  }
+]
