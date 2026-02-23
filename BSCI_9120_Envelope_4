@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "How is 'Air Leakage' defined in the context of building enclosures?",
+    "options": [
+      "A) The controlled ventilation of fresh air through mechanical systems.",
+      "B) The diffusion of water vapour through porous materials.",
+      "C) The uncontrolled flow of air through the building envelope due to pressure differences.",
+      "D) The movement of heat through solid materials via conduction.",
+      "E) The intentional opening of windows for cooling."
+    ],
+    "answer": "C) The uncontrolled flow of air through the building envelope due to pressure differences."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT listed as a primary reason for controlling airflow?",
+    "options": [
+      "A) Improving thermal comfort.",
+      "B) Reducing structural dead loads.",
+      "C) Limiting condensation within assemblies.",
+      "D) Reducing heat loss.",
+      "E) Controlling infiltration of pollutants."
+    ],
+    "answer": "B) Reducing structural dead loads."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the lecture comparison, how much water is deposited by air leakage compared to vapour diffusion over a heating season?",
+    "options": [
+      "A) Air leakage deposits significantly less water (1/3 litre vs 30 litres).",
+      "B) They deposit roughly the same amount of water.",
+      "C) Air leakage deposits significantly more water (30 litres vs 1/3 litre).",
+      "D) Vapour diffusion deposits 100 times more water than air leakage.",
+      "E) Neither mechanism deposits measurable water."
+    ],
+    "answer": "C) Air leakage deposits significantly more water (30 litres vs 1/3 litre)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which three primary forces drive airflow through a building enclosure?",
+    "options": [
+      "A) Gravity, Magnetism, and Solar Radiation.",
+      "B) Wind, Stack Effect, and HVAC Systems.",
+      "C) Conduction, Convection, and Radiation.",
+      "D) Capillarity, Osmosis, and Diffusion.",
+      "E) Structural Load, Seismic Load, and Live Load."
+    ],
+    "answer": "B) Wind, Stack Effect, and HVAC Systems."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What causes the 'Stack Effect' in a building?",
+    "options": [
+      "A) High velocity winds hitting the roof.",
+      "B) The mechanical propulsion of elevator cars.",
+      "C) Differences in air density due to temperature differences between inside and outside.",
+      "D) The accumulation of furniture on upper floors.",
+      "E) The rotation of the earth."
+    ],
+    "answer": "C) Differences in air density due to temperature differences between inside and outside."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the Stack Effect pressure formula $ΔP = (ρ_{in} – ρ_{out}) \\cdot g \\cdot h$, what does '$h$' represent?",
+    "options": [
+      "A) The humidity level of the air.",
+      "B) The heat capacity of the air.",
+      "C) The height of the column of air.",
+      "D) The horizontal distance from the neutral plane.",
+      "E) The hydraulic diameter of the opening."
+    ],
+    "answer": "C) The height of the column of air."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "During cold weather (winter), how does the stack effect typically influence airflow in a multi-story building?",
+    "options": [
+      "A) Air infiltrates at the top and exfiltrates at the bottom.",
+      "B) Air exfiltrates at the top and infiltrates at the bottom.",
+      "C) Air infiltrates evenly across all floors.",
+      "D) Air exfiltrates evenly across all floors.",
+      "E) Air does not move vertically in winter."
+    ],
+    "answer": "B) Air exfiltrates at the top and infiltrates at the bottom."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the 'Neutral Pressure Plane' (NPP)?",
+    "options": [
+      "A) The level in a building where the interior and exterior air pressures are equal.",
+      "B) The floor where the HVAC system is located.",
+      "C) The roof level where wind pressure is zero.",
+      "D) The basement level where stack effect is strongest.",
+      "E) The plane where the structural loads are neutralized."
+    ],
+    "answer": "A) The level in a building where the interior and exterior air pressures are equal."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How can HVAC systems create a net negative pressure in a building?",
+    "options": [
+      "A) By supplying more air than is exhausted.",
+      "B) By heating the air to a high temperature.",
+      "C) By exhausting more air (e.g., via bathroom fans, dryers) than is supplied.",
+      "D) By using high-efficiency filters.",
+      "E) By turning off all fans."
+    ],
+    "answer": "C) By exhausting more air (e.g., via bathroom fans, dryers) than is supplied."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a disadvantage of using Sealed Polyethylene Sheeting as an Interior Air Barrier System?",
+    "options": [
+      "A) It is too expensive compared to other methods.",
+      "B) It is impermeable to magnetic fields.",
+      "C) It is susceptible to damage during construction and occupancy.",
+      "D) It cannot be used with insulation.",
+      "E) It provides too much structural rigidity."
+    ],
+    "answer": "C) It is susceptible to damage during construction and occupancy."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does 'ADA' stand for in the context of interior air barriers?",
+    "options": [
+      "A) Air-Diffusion Assembly",
+      "B) Air-Tight Drywall Approach",
+      "C) Advanced Drying Analysis",
+      "D) Automated Damper Actuator",
+      "E) American Drywall Association"
+    ],
+    "answer": "B) Air-Tight Drywall Approach"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which strategy is essential when using Interior OSB or Plywood as an air barrier?",
+    "options": [
+      "A) Leaving the joints open for expansion.",
+      "B) Using Red Tuck Tape for all seals.",
+      "C) Sealing the joints with proper tape and potentially using a service cavity.",
+      "D) Removing all insulation from the cavity.",
+      "E) Drilling ventilation holes in the panels."
+    ],
+    "answer": "C) Sealing the joints with proper tape and potentially using a service cavity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a key benefit of using Closed or Open Cell Polyurethane Spray Foam as an air barrier?",
+    "options": [
+      "A) It is transparent and allows visual inspection of studs.",
+      "B) It significantly improves airtightness in the field of the assembly by sealing gaps.",
+      "C) It allows for easy removal and remodeling.",
+      "D) It provides zero thermal resistance.",
+      "E) It eliminates the need for exterior cladding."
+    ],
+    "answer": "B) It significantly improves airtightness in the field of the assembly by sealing gaps."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is an advantage of an Exterior Air Barrier System?",
+    "options": [
+      "A) It relies on the occupants to maintain it.",
+      "B) It reduces the conditioned volume of the building significantly.",
+      "C) It can be managed independent of interior construction activities and has fewer penetrations.",
+      "D) It is cheaper than using polyethylene.",
+      "E) It is always accessible for repair after construction."
+    ],
+    "answer": "C) It can be managed independent of interior construction activities and has fewer penetrations."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sealed House-wrap (e.g., Tyvek) is typically which type of material?",
+    "options": [
+      "A) Vapour impermeable sheet metal.",
+      "B) Vapour permeable sheathing membrane.",
+      "C) Liquid applied rubber.",
+      "D) Rigid foam insulation.",
+      "E) Glass fiber mat."
+    ],
+    "answer": "B) Vapour permeable sheathing membrane."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which equation represents the Power Law used to describe airflow through leaks?",
+    "options": [
+      "A) $Q = m \\cdot c \\cdot \\Delta T$",
+      "B) $Q = C \\cdot \\Delta P^n$",
+      "C) $F = m \\cdot a$",
+      "D) $V = I \\cdot R$",
+      "E) $P = F / A$"
+    ],
+    "answer": "B) $Q = C \\cdot \\Delta P^n$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the airflow equation $Q = C \\cdot \\Delta P^n$, what does the exponent '$n$' represent?",
+    "options": [
+      "A) The number of windows in the building.",
+      "B) The flow regime, ranging from 0.5 (turbulent/orifice) to 1.0 (laminar).",
+      "C) The height of the building in meters.",
+      "D) The density of air.",
+      "E) The thermal conductivity of the wall."
+    ],
+    "answer": "B) The flow regime, ranging from 0.5 (turbulent/orifice) to 1.0 (laminar)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical value used for the flow exponent '$n$' in general airtightness testing?",
+    "options": [
+      "A) 0.1",
+      "B) 0.65",
+      "C) 1.5",
+      "D) 2.0",
+      "E) 10"
+    ],
+    "answer": "B) 0.65"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Equivalent Leakage Area' (ELA)?",
+    "options": [
+      "A) The total surface area of the building enclosure.",
+      "B) The area of the windows minus the doors.",
+      "C) The size of a single sharp-edged hole that would leak the same amount of air as the entire building.",
+      "D) The floor area of the mechanical room.",
+      "E) The area of the roof vents."
+    ],
+    "answer": "C) The size of a single sharp-edged hole that would leak the same amount of air as the entire building."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How is 'Normalized Air Leakage Rate' ($q$) calculated?",
+    "options": [
+      "A) Airflow divided by the enclosure area ($Q / A$).",
+      "B) Airflow multiplied by pressure ($Q \\cdot P$).",
+      "C) Enclosure area divided by airflow ($A / Q$).",
+      "D) Airflow minus the volume ($Q - V$).",
+      "E) Pressure difference divided by height ($P / h$).",
+      "answer": "A) Airflow divided by the enclosure area ($Q / A$)."
+    ]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which piece of equipment is primarily used for quantitative airtightness testing?",
+    "options": [
+      "A) A stethoscope.",
+      "B) A calibrated Blower Door fan.",
+      "C) A seismograph.",
+      "D) A hygrometer.",
+      "E) A laser level."
+    ],
+    "answer": "B) A calibrated Blower Door fan."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the lecture, what is the formula for Energy Lost by Air-Leakage?",
+    "options": [
+      "A) $Q_{air} = U \\cdot A \\cdot \\Delta T$",
+      "B) $Q_{air} = 0.3 \\cdot n \\cdot V \\cdot \\Delta T$",
+      "C) $Q_{air} = m \\cdot g \\cdot h$",
+      "D) $Q_{air} = I^2 \\cdot R$",
+      "E) $Q_{air} = \\frac{1}{2} \\cdot m \\cdot v^2$"
+    ],
+    "answer": "B) $Q_{air} = 0.3 \\cdot n \\cdot V \\cdot \\Delta T$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the energy loss formula $Q_{air} = 0.3 \\cdot n \\cdot V \\cdot \\Delta T$, what does the factor 0.3 represent?",
+    "options": [
+      "A) The specific gravity of water.",
+      "B) The heat capacity of air adjusted for units ($W/m^3K$).",
+      "C) The number of days in a month.",
+      "D) The solar heat gain coefficient.",
+      "E) The leakage ratio of a typical house."
+    ],
+    "answer": "B) The heat capacity of air adjusted for units ($W/m^3K$)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a potential consequence of 'Air Leakage Condensation' shown in the lecture slides?",
+    "options": [
+      "A) Increased structural strength.",
+      "B) Brick spalling and icicle formation.",
+      "C) Reduced noise transmission.",
+      "D) Improved indoor air quality.",
+      "E) Lower heating bills."
+    ],
+    "answer": "B) Brick spalling and icicle formation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is 'Red Tuck Tape' mentioned as a concern for Interior OSB air barriers?",
+    "options": [
+      "A) It is too expensive.",
+      "B) It is not a reliable long-term option for sealing joints.",
+      "C) It is too difficult to apply.",
+      "D) It is only available in blue.",
+      "E) It reacts chemically with wood."
+    ],
+    "answer": "B) It is not a reliable long-term option for sealing joints."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary risk associated with using concrete foundations as the sole air barrier?",
+    "options": [
+      "A) Concrete is too permeable to air.",
+      "B) Concrete cracking poses a risk to long-term performance.",
+      "C) Concrete cannot support the wind load.",
+      "D) Concrete dissolves in water.",
+      "E) Concrete attracts insects."
+    ],
+    "answer": "B) Concrete cracking poses a risk to long-term performance."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT listed as a common deficiency in air barrier systems?",
+    "options": [
+      "A) Wrinkled or fish-mouthed membrane laps.",
+      "B) Incomplete sealing at structural penetrations.",
+      "C) Excessive use of high-quality primer.",
+      "D) Poor window perimeter sealing.",
+      "E) Poor transitions between above-grade and below-grade."
+    ],
+    "answer": "C) Excessive use of high-quality primer."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compartmentalization in tall buildings is used to control which airflow driving force?",
+    "options": [
+      "A) Solar gain.",
+      "B) Stack effect.",
+      "C) Capillary action.",
+      "D) Diffusion.",
+      "E) Acoustic vibration."
+    ],
+    "answer": "B) Stack effect."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which standard is referenced for quantitative airtightness testing?",
+    "options": [
+      "A) ASTM E779",
+      "B) ASTM C100",
+      "C) ISO 9001",
+      "D) IEEE 802.11",
+      "E) NBC Part 9"
+    ],
+    "answer": "A) ASTM E779"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Qualitative airtightness testing often involves using:",
+    "options": [
+      "A) Weigh scales.",
+      "B) Smoke pencils or thermography.",
+      "C) Geiger counters.",
+      "D) Sound level meters.",
+      "E) pH strips."
+    ],
+    "answer": "B) Smoke pencils or thermography."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the NECB 2017 modelled airtightness target mentioned?",
+    "options": [
+      "A) 0.25 L/s·m² at 5 Pa.",
+      "B) 10 ACH at 50 Pa.",
+      "C) Zero leakage.",
+      "D) 5.0 L/s·m² at 75 Pa.",
+      "E) 1.0 cfm per square foot."
+    ],
+    "answer": "A) 0.25 L/s·m² at 5 Pa."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the effect of wind on a building's air pressure distribution?",
+    "options": [
+      "A) It creates uniform pressure on all sides.",
+      "B) It creates positive pressure on the windward side and negative pressure on the leeward side.",
+      "C) It creates negative pressure on the windward side and positive on the leeward side.",
+      "D) It has no effect on pressure.",
+      "E) It creates a vacuum inside the building."
+    ],
+    "answer": "B) It creates positive pressure on the windward side and negative pressure on the leeward side."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a 'Service Cavity' in the context of interior air barriers?",
+    "options": [
+      "A) A room for the janitor.",
+      "B) An additional stud cavity built inside the air barrier to run wires/pipes without penetrating the barrier.",
+      "C) The space between window panes.",
+      "D) A hole in the foundation.",
+      "E) The gap under a door."
+    ],
+    "answer": "B) An additional stud cavity built inside the air barrier to run wires/pipes without penetrating the barrier."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Self-adhering membranes used as exterior air barriers can be:",
+    "options": [
+      "A) Only vapour impermeable.",
+      "B) Only vapour permeable.",
+      "C) Either vapour permeable or vapour impermeable.",
+      "D) Neither; they are liquid applied.",
+      "E) Only used on roofs."
+    ],
+    "answer": "C) Either vapour permeable or vapour impermeable."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When using Sealed Exterior Sheathing (e.g., taped plywood) as an air barrier, what is a noted disadvantage?",
+    "options": [
+      "A) It is too flexible.",
+      "B) It is difficult to inspect and repair once covered.",
+      "C) It is highly water soluble.",
+      "D) It cannot support wind loads.",
+      "E) It requires special tools to cut."
+    ],
+    "answer": "B) It is difficult to inspect and repair once covered."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a method to visualize air leakage pathways?",
+    "options": [
+      "A) Infrared Thermography (Heat sensing).",
+      "B) X-ray diffraction.",
+      "C) Magnetic resonance imaging.",
+      "D) Carbon dating.",
+      "E) Load testing."
+    ],
+    "answer": "A) Infrared Thermography (Heat sensing)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of the Power Law equation, an exponent ($n$) of 0.5 indicates what type of flow?",
+    "options": [
+      "A) Completely laminar flow.",
+      "B) Turbulent flow (like a perfect orifice).",
+      "C) Diffusive flow.",
+      "D) No flow.",
+      "E) Supersonic flow."
+    ],
+    "answer": "B) Turbulent flow (like a perfect orifice)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which problem is typically harder to detect and repair in an interior air barrier system?",
+    "options": [
+      "A) A large hole in the drywall.",
+      "B) Damage to the polyethylene sheet behind finished drywall.",
+      "C) A broken window pane.",
+      "D) A missing door.",
+      "E) A leak in the roof."
+    ],
+    "answer": "B) Damage to the polyethylene sheet behind finished drywall."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the unit of measurement for Normalized Leakage Area (NLA)?",
+    "options": [
+      "A) Square meters ($m^2$).",
+      "B) Dimensionless ratio ($EqLA / Area$).",
+      "C) Liters per second ($L/s$).",
+      "D) Pascals ($Pa$).",
+      "E) Kilograms ($kg$)."
+    ],
+    "answer": "B) Dimensionless ratio ($EqLA / Area$)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is surface preparation important for Spray Foam air barriers?",
+    "options": [
+      "A) To ensure the foam is the right color.",
+      "B) To prevent shrinkage and associated future gaps/delamination.",
+      "C) To make the foam smell better.",
+      "D) To increase the R-value per inch.",
+      "E) To reduce the cost of the foam."
+    ],
+    "answer": "B) To prevent shrinkage and associated future gaps/delamination."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which exterior air barrier system is described as 'Liquid Applied Membrane'?",
+    "options": [
+      "A) Taping plywood joints.",
+      "B) Applying a fluid product that cures to form a continuous barrier.",
+      "C) Stapling a sheet of polyethylene.",
+      "D) Installing vinyl siding.",
+      "E) Using spray foam in cavities."
+    ],
+    "answer": "B) Applying a fluid product that cures to form a continuous barrier."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Under Stack Effect, if the interior is warmer than the exterior (Winter), what happens to the Neutral Pressure Plane (NPP)?",
+    "options": [
+      "A) It disappears.",
+      "B) It moves to the very top of the building.",
+      "C) It exists somewhere between the top and bottom, dividing infiltration (bottom) and exfiltration (top).",
+      "D) It moves to the very bottom of the building.",
+      "E) It becomes vertical."
+    ],
+    "answer": "C) It exists somewhere between the top and bottom, dividing infiltration (bottom) and exfiltration (top)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'poly-pan' used for?",
+    "options": [
+      "A) Cooking.",
+      "B) Sealing electrical boxes or pot lights in a polyethylene air barrier system.",
+      "C) Measuring air pressure.",
+      "D) Mixing spray foam.",
+      "E) Collecting condensate water."
+    ],
+    "answer": "B) Sealing electrical boxes or pot lights in a polyethylene air barrier system."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is 'details, details, details' emphasized in the lecture regarding air leakage?",
+    "options": [
+      "A) Because the professor likes repetition.",
+      "B) Because effective air barriers depend on successful sealing at interfaces, penetrations, and transitions.",
+      "C) Because the materials are expensive.",
+      "D) Because drawings are hard to read.",
+      "E) Because architects like details."
+    ],
+    "answer": "B) Because effective air barriers depend on successful sealing at interfaces, penetrations, and transitions."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the relationship between building volume ($V$) and energy loss due to air leakage?",
+    "options": [
+      "A) Energy loss is inversely proportional to volume.",
+      "B) Energy loss is directly proportional to volume ($Q$ depends on $V$).",
+      "C) Volume has no effect on energy loss.",
+      "D) Larger volume always means less leakage.",
+      "E) Volume only matters in summer."
+    ],
+    "answer": "B) Energy loss is directly proportional to volume ($Q$ depends on $V$)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is an example of an 'Interior Air Barrier System'?",
+    "options": [
+      "A) Tyvek CommercialWrap.",
+      "B) Torch-on membrane.",
+      "C) Airtight Drywall Approach (ADA).",
+      "D) Exterior Insulated Finish System (EIFS).",
+      "E) Pre-cast concrete panels."
+    ],
+    "answer": "C) Airtight Drywall Approach (ADA)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the testing pressure often used for Blower Door tests?",
+    "options": [
+      "A) 1 Pascal",
+      "B) 50 or 75 Pascals",
+      "C) 1000 Pascals",
+      "D) 1 Atmosphere",
+      "E) 0 Pascals"
+    ],
+    "answer": "B) 50 or 75 Pascals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why does air leakage matter for HVAC design near windows?",
+    "options": [
+      "A) It changes the color of the glass.",
+      "B) It affects the local heat transfer coefficient ($hc$) and can cause drafts/discomfort.",
+      "C) It reduces the weight of the window.",
+      "D) It increases the solar gain.",
+      "E) It prevents the window from opening."
+    ],
+    "answer": "B) It affects the local heat transfer coefficient ($hc$) and can cause drafts/discomfort."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which company is mentioned as a producer of Blower Door fans in Vancouver, BC?",
+    "options": [
+      "A) Microsoft",
+      "B) Retrotec",
+      "C) Boeing",
+      "D) Tesla",
+      "E) Dyson"
+    ],
+    "answer": "B) Retrotec"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the main challenge with 'Simple Interface Detailing' in Exterior ABS?",
+    "options": [
+      "A) There are no challenges, it is perfect.",
+      "B) It is too expensive.",
+      "C) It is actually easier to detail than interior systems because there are fewer interruptions (like floor joists).",
+      "D) It requires interior scaffolding.",
+      "E) It blocks all light."
+    ],
+    "answer": "C) It is actually easier to detail than interior systems because there are fewer interruptions (like floor joists)."
+  }
+]
