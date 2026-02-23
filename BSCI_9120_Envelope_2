@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT listed as one of the four primary functions of the building enclosure reviewed in Lecture 2?",
+    "options": [
+      "A) Support",
+      "B) Control",
+      "C) Demolish",
+      "D) Finish",
+      "E) Distribute"
+    ],
+    "answer": "C) Demolish"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Support' function of the enclosure is described as resisting and transferring which of the following?",
+    "options": [
+      "A) Only dead loads.",
+      "B) Only wind loads.",
+      "C) Each and every loading that generates stress and/or strain.",
+      "D) Solar radiation and light.",
+      "E) Aesthetic features only."
+    ],
+    "answer": "C) Each and every loading that generates stress and/or strain."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is listed as a 'Damage Function' related to wood materials in the enclosure?",
+    "options": [
+      "A) Wood shrinkage",
+      "B) Wood stiffening",
+      "C) Wood conductivity",
+      "D) Wood magnetization",
+      "E) Wood transparence"
+    ],
+    "answer": "A) Wood shrinkage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Efflorescence is categorized under which group of enclosure phenomena in the lecture notes?",
+    "options": [
+      "A) Support Functions",
+      "B) Control Functions",
+      "C) Damage Functions",
+      "D) Finish Functions",
+      "E) Distribute Functions"
+    ],
+    "answer": "C) Damage Functions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Corrosion of metals within enclosure assemblies can be caused by contact with which of the following?",
+    "options": [
+      "A) Inert gases",
+      "B) Dissimilar metals",
+      "C) Pure distilled water only",
+      "D) Polyethylene sheets",
+      "E) Glass fibers"
+    ],
+    "answer": "B) Dissimilar metals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which building material is explicitly listed as being susceptible to corrosion?",
+    "options": [
+      "A) PVC piping",
+      "B) Glass glazing",
+      "C) Steel studs",
+      "D) EPDM membranes",
+      "E) Ceramic tiles"
+    ],
+    "answer": "C) Steel studs"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What type of corrosion is caused by a difference in oxygen concentration, such as between water and air?",
+    "options": [
+      "A) Galvanic corrosion",
+      "B) Oxygen concentration cell corrosion",
+      "C) Stress corrosion cracking",
+      "D) Pitting corrosion",
+      "E) Filiform corrosion"
+    ],
+    "answer": "B) Oxygen concentration cell corrosion"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the Galvanic Series, what happens when two dissimilar metals are in contact in the presence of an electrolyte?",
+    "options": [
+      "A) Both metals corrode equally.",
+      "B) The more noble metal corrodes.",
+      "C) The less noble (more active) metal corrodes.",
+      "D) Neither metal corrodes.",
+      "E) The electrolyte solidifies."
+    ],
+    "answer": "C) The less noble (more active) metal corrodes."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the lecture notes, what is the likely outcome if Copper and Aluminum are placed in contact?",
+    "options": [
+      "A) The Copper will corrode.",
+      "B) The Aluminum will corrode.",
+      "C) Both will form a protective alloy.",
+      "D) No reaction will occur.",
+      "E) The Aluminum will become stronger."
+    ],
+    "answer": "B) The Aluminum will corrode."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the likely outcome if Aluminum and Steel are placed in contact?",
+    "options": [
+      "A) The Aluminum will corrode.",
+      "B) The Steel will corrode.",
+      "C) The Steel will become galvanized.",
+      "D) There is no galvanic reaction between these two.",
+      "E) They will fuse together."
+    ],
+    "answer": "B) The Steel will corrode."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which coating material is used to create 'Galvanized' steel?",
+    "options": [
+      "A) 100% Aluminum",
+      "B) 100% Zinc",
+      "C) A mix of Tin and Lead",
+      "D) Copper plating",
+      "E) Magnesium coating"
+    ],
+    "answer": "B) 100% Zinc"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the designation 'G-90' refer to in the context of galvanized steel?",
+    "options": [
+      "A) A coating thickness of 90 mm.",
+      "B) A total coating weight of 0.90 oz/ft².",
+      "C) A yield strength of 90 ksi.",
+      "D) A service life of 90 years.",
+      "E) A zinc purity of 90%."
+    ],
+    "answer": "B) A total coating weight of 0.90 oz/ft²."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the metric equivalent of a G-90 coating?",
+    "options": [
+      "A) Z 275 (g/m²)",
+      "B) Z 100 (g/m²)",
+      "C) Z 500 (g/m²)",
+      "D) Z 090 (g/m²)",
+      "E) Z 180 (g/m²)"
+    ],
+    "answer": "A) Z 275 (g/m²)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the composition of 'Galvalume' coating?",
+    "options": [
+      "A) 100% Aluminum",
+      "B) 55% Aluminum, 45% Zinc, and Silicone",
+      "C) 50% Tin, 50% Lead",
+      "D) 90% Zinc, 10% Iron",
+      "E) 100% Magnesium"
+    ],
+    "answer": "B) 55% Aluminum, 45% Zinc, and Silicone"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does the corrosion resistance of Galvalume compare to standard Galvanized steel?",
+    "options": [
+      "A) It has lower corrosion resistance.",
+      "B) It has higher corrosion resistance.",
+      "C) They have identical resistance.",
+      "D) Galvalume offers no corrosion resistance.",
+      "E) Galvalume promotes corrosion."
+    ],
+    "answer": "B) It has higher corrosion resistance."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which type of screw is identified as 'best' for corrosion resistance in the notes?",
+    "options": [
+      "A) Electroplated screws",
+      "B) Black phosphate screws",
+      "C) Stainless steel screws",
+      "D) Bright steel screws",
+      "E) Copper screws"
+    ],
+    "answer": "C) Stainless steel screws"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which wood preservative is noted as NOT inducing corrosion in fasteners?",
+    "options": [
+      "A) ACQ (Alkaline Copper Quaternary)",
+      "B) Borates",
+      "C) CCA (Chromated Copper Arsenate)",
+      "D) Creosote",
+      "E) CA (Copper Azole)"
+    ],
+    "answer": "B) Borates"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which type of fastener is recommended for use with ACQ (Alkaline Copper Quaternary) treated wood?",
+    "options": [
+      "A) Electro-galvanized",
+      "B) Aluminum",
+      "C) Stainless steel only",
+      "D) Bright steel",
+      "E) Brass"
+    ],
+    "answer": "C) Stainless steel only"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum naturally develops a thin film of what substance that protects it from contaminants?",
+    "options": [
+      "A) Aluminum sulfide",
+      "B) Aluminum oxide",
+      "C) Aluminum carbonate",
+      "D) Zinc phosphate",
+      "E) Iron oxide"
+    ],
+    "answer": "B) Aluminum oxide"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Aluminum should NOT be embedded directly in concrete or masonry because these materials contain:",
+    "options": [
+      "A) High moisture content only.",
+      "B) Strong alkalies.",
+      "C) Acidic compounds.",
+      "D) Magnetic fields.",
+      "E) Organic solvents."
+    ],
+    "answer": "B) Strong alkalies."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If aluminum must be embedded in concrete, what protection is recommended?",
+    "options": [
+      "A) A thin layer of oil.",
+      "B) A thick layer of bituminous paint.",
+      "C) Wrapping it in paper.",
+      "D) Heating the aluminum first.",
+      "E) No protection is needed."
+    ],
+    "answer": "B) A thick layer of bituminous paint."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which class of paints is described as the 'Best' for metallic-coated metals?",
+    "options": [
+      "A) Latex house paints",
+      "B) Oil-based primers",
+      "C) Fluoropolymers (PVDF)",
+      "D) Epoxies",
+      "E) Urethanes"
+    ],
+    "answer": "C) Fluoropolymers (PVDF)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Kynar 500® and Hylar 5000® are trade names for which type of coating?",
+    "options": [
+      "A) Siliconized Polyester",
+      "B) Polyvinylidene fluoride (PVDF)",
+      "C) Acrylic Enamel",
+      "D) Coal Tar Pitch",
+      "E) Zinc Chromate"
+    ],
+    "answer": "B) Polyvinylidene fluoride (PVDF)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical total dry film thickness of a fluoropolymer coating on metal roofing?",
+    "options": [
+      "A) 10 mils",
+      "B) 0.1 mils",
+      "C) Nominally 1 mil",
+      "D) 5 mm",
+      "E) 1/8 inch"
+    ],
+    "answer": "C) Nominally 1 mil"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How long are fluoropolymer coatings reported to resist chalking and fading?",
+    "options": [
+      "A) 1 to 2 years",
+      "B) 5 to 10 years",
+      "C) Up to 20 years or more",
+      "D) 50 to 100 years",
+      "E) Indefinitely"
+    ],
+    "answer": "C) Up to 20 years or more"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factory-applied paint system is widely used and reported to resist chalking for a 'moderate' period of 10 to 15 years?",
+    "options": [
+      "A) Fluoropolymers",
+      "B) Siliconized Acrylics and Polyesters",
+      "C) Bituminous coatings",
+      "D) Clear lacquer",
+      "E) Anodizing"
+    ],
+    "answer": "B) Siliconized Acrylics and Polyesters"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following materials is considered a 'Naturally weathering metal'?",
+    "options": [
+      "A) Mild steel",
+      "B) Zinc",
+      "C) Iron",
+      "D) Cadmium plated steel",
+      "E) Chrome"
+    ],
+    "answer": "B) Zinc"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of 'Control Functions', what is NOT listed as a loading to be controlled?",
+    "options": [
+      "A) Light",
+      "B) Sound",
+      "C) Gravity",
+      "D) Insects",
+      "E) Odor"
+    ],
+    "answer": "C) Gravity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which 'Damage Function' is specifically associated with masonry and concrete materials?",
+    "options": [
+      "A) Wood decay",
+      "B) Corrosion",
+      "C) Freeze-Thaw damage",
+      "D) UV degradation of polymers",
+      "E) Polymerization"
+    ],
+    "answer": "C) Freeze-Thaw damage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Gypsum deterioration is listed as a damage function resulting from:",
+    "options": [
+      "A) Exposure to sunlight.",
+      "B) Exposure to moisture/water.",
+      "C) High wind loads.",
+      "D) Sound vibration.",
+      "E) Electrical currents."
+    ],
+    "answer": "B) Exposure to moisture/water."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Efflorescence'?",
+    "options": [
+      "A) The rusting of steel anchors.",
+      "B) A fungal growth on wood.",
+      "C) A salt deposit on the surface of masonry/concrete.",
+      "D) The cracking of glass.",
+      "E) The peeling of paint."
+    ],
+    "answer": "C) A salt deposit on the surface of masonry/concrete."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Electroplating provides approximately what percentage of the zinc protection compared to hot-dipped galvanizing per side?",
+    "options": [
+      "A) 100%",
+      "B) 25%",
+      "C) 75%",
+      "D) 10%",
+      "E) 50%"
+    ],
+    "answer": "B) 25%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the designation AZM-150 for Galvalume, what does the '150' represent?",
+    "options": [
+      "A) 150 microns thickness.",
+      "B) 150 g/m² total coating weight.",
+      "C) 150 oz/ft² total coating weight.",
+      "D) 150 hours of salt spray resistance.",
+      "E) 150 MPa yield strength."
+    ],
+    "answer": "B) 150 g/m² total coating weight."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For 'Siliconized Acrylics and Polyesters', what is the typical coating thickness on the *back* side?",
+    "options": [
+      "A) 1 mil",
+      "B) 0.5 mils",
+      "C) 2 mils",
+      "D) 0.1 mils",
+      "E) 5 mils"
+    ],
+    "answer": "B) 0.5 mils"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following conditions promotes corrosion of metals?",
+    "options": [
+      "A) Low relative humidity.",
+      "B) Contact with wood preservatives.",
+      "C) Contact with similar metals.",
+      "D) High pH environments for steel.",
+      "E) Dry, conditioned indoor air."
+    ],
+    "answer": "B) Contact with wood preservatives."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The lecture notes state 'They ain’t neighbours, they ain’t friendly' regarding which materials?",
+    "options": [
+      "A) Wood and Concrete.",
+      "B) Glass and Steel.",
+      "C) Dissimilar metals (Galvanic series).",
+      "D) Insulation and Vapour Barrier.",
+      "E) Paint and Primer."
+    ],
+    "answer": "C) Dissimilar metals (Galvanic series)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which 'Support' function loading includes the distortion of the structural frame from above?",
+    "options": [
+      "A) Environmental loading",
+      "B) Differential movement/loading",
+      "C) Aesthetic loading",
+      "D) Acoustic loading",
+      "E) Chemical loading"
+    ],
+    "answer": "B) Differential movement/loading"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mold growth is a damage function primarily associated with which environmental condition?",
+    "options": [
+      "A) High temperatures only",
+      "B) Low temperatures only",
+      "C) Excessive moisture",
+      "D) High UV radiation",
+      "E) High wind speeds"
+    ],
+    "answer": "C) Excessive moisture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Thermal expansion and contraction is listed as a damage function. This refers to damage caused by:",
+    "options": [
+      "A) Moisture absorption.",
+      "B) Chemical reaction.",
+      "C) Volume changes due to temperature fluctuations.",
+      "D) Biological attack.",
+      "E) Structural overloading."
+    ],
+    "answer": "C) Volume changes due to temperature fluctuations."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary resin content for high-quality PVDF coatings used on metal roofing?",
+    "options": [
+      "A) 30%",
+      "B) 50%",
+      "C) 70%",
+      "D) 90%",
+      "E) 100%"
+    ],
+    "answer": "C) 70%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a brand name for Fluoropolymer coatings mentioned in the notes?",
+    "options": [
+      "A) Kynar 500",
+      "B) Hylar 5000",
+      "C) Teflon",
+      "D) None of the above (Teflon is a fluoropolymer but not listed as a paint brand in notes)",
+      "E) Rust-Oleum"
+    ],
+    "answer": "E) Rust-Oleum"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The acronym PVDF stands for:",
+    "options": [
+      "A) Polyvinylidene fluoride",
+      "B) Polyvinyl di-formate",
+      "C) Poly-viscous damping fluid",
+      "D) Paint varnish double finish",
+      "E) Plastic vinyl dura-finish"
+    ],
+    "answer": "A) Polyvinylidene fluoride"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When considering 'Finish Functions', which of the following is an example?",
+    "options": [
+      "A) Resisting wind loads.",
+      "B) Controlling heat flow.",
+      "C) Providing near and far field appearance (colour, texture).",
+      "D) Distributing electricity.",
+      "E) Preventing insect intrusion."
+    ],
+    "answer": "C) Providing near and far field appearance (colour, texture)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which 'Distribute' function example is listed in the notes?",
+    "options": [
+      "A) Distributing structural loads to the foundation.",
+      "B) Piped water (cold, warm, hot).",
+      "C) Distributing sunlight into the room.",
+      "D) Spreading paint evenly.",
+      "E) Scattering sound waves."
+    ],
+    "answer": "B) Piped water (cold, warm, hot)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In terms of corrosion solutions, what is meant by 'minimum levels of galvanic protection'?",
+    "options": [
+      "A) Using no coating at all.",
+      "B) Using a coating that acts as a sacrificial anode (like zinc).",
+      "C) Using a plastic washer.",
+      "D) Keeping the materials dry.",
+      "E) Painting the materials black."
+    ],
+    "answer": "B) Using a coating that acts as a sacrificial anode (like zinc)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a solution to prevent corrosion when using dissimilar materials?",
+    "options": [
+      "A) Ensure they are in direct contact.",
+      "B) Keep them wet.",
+      "C) Electrically isolate them (e.g., washers, coatings).",
+      "D) Use the same type of fastener for all materials.",
+      "E) Increase the oxygen concentration."
+    ],
+    "answer": "C) Electrically isolate them (e.g., washers, coatings)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which treated wood type is acceptable for use with hot-dip galvanized fasteners?",
+    "options": [
+      "A) ACQ (Alkaline Copper Quaternary)",
+      "B) CCA (Chromated Copper Arsenate)",
+      "C) Untreated cedar",
+      "D) Fire-retardant treated plywood (hygroscopic)",
+      "E) Wet lumber"
+    ],
+    "answer": "B) CCA (Chromated Copper Arsenate)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is 'Electroplated/Electrogalvanized' fastening discouraged for exterior enclosure applications?",
+    "options": [
+      "A) It is too expensive.",
+      "B) It is too thick and interferes with threads.",
+      "C) It provides insufficient coating thickness for long-term protection.",
+      "D) It reacts with wood.",
+      "E) It is not available in common sizes."
+    ],
+    "answer": "C) It provides insufficient coating thickness for long-term protection."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A coating of 'DT2000' is mentioned as a solution for:",
+    "options": [
+      "A) Aluminum siding.",
+      "B) Stainless steel windows.",
+      "C) Corrosion resistant screws.",
+      "D) Concrete foundations.",
+      "E) Glass protection."
+    ],
+    "answer": "C) Corrosion resistant screws."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which metal forms its own protective oxide layer that is generally impermeable to airborne contaminants?",
+    "options": [
+      "A) Mild steel",
+      "B) Aluminum",
+      "C) Iron",
+      "D) Sodium",
+      "E) Calcium"
+    ],
+    "answer": "B) Aluminum"
+  }
+]
