@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following best describes the mechanism of vapour diffusion?",
+    "options": [
+      "A) Movement of air through holes in the building envelope.",
+      "B) Movement of water vapour molecules through the microscopic open pore structure of porous materials.",
+      "C) Movement of liquid water due to gravity.",
+      "D) Movement of heat via electromagnetic waves.",
+      "E) Movement of water through capillary action in cracks."
+    ],
+    "answer": "B) Movement of water vapour molecules through the microscopic open pore structure of porous materials."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which physical law governs the flow of water vapour through materials?",
+    "options": [
+      "A) Newton's Second Law",
+      "B) Boyle's Law",
+      "C) Fick's Law",
+      "D) Fourier's Law",
+      "E) Darcy's Law"
+    ],
+    "answer": "C) Fick's Law"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In Fick's Law equation $Q = A \\cdot (\\mu / t) \\cdot \\Delta P$, what does the symbol $\\mu$ represent?",
+    "options": [
+      "A) Vapour Permeance",
+      "B) Vapour Permeability",
+      "C) Vapour Resistance",
+      "D) Material Thickness",
+      "E) Vapour Pressure Difference"
+    ],
+    "answer": "B) Vapour Permeability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical driving force direction for vapour diffusion in a heating climate (winter)?",
+    "options": [
+      "A) From the exterior (cold) to the interior (warm).",
+      "B) From the interior (warm/high pressure) to the exterior (cold/low pressure).",
+      "C) From low elevation to high elevation.",
+      "D) Vapour does not move in winter.",
+      "E) From the roof down to the foundation."
+    ],
+    "answer": "B) From the interior (warm/high pressure) to the exterior (cold/low pressure)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following comparisons between air leakage and vapour diffusion wetting is correct according to the notes?",
+    "options": [
+      "A) Vapour diffusion transports significantly more water than air leakage.",
+      "B) They transport roughly the same amount of water.",
+      "C) Air leakage transports more than an order of magnitude more water than vapour diffusion.",
+      "D) Vapour diffusion is the primary cause of wetting in all buildings.",
+      "E) Air leakage only transports heat, not moisture."
+    ],
+    "answer": "C) Air leakage transports more than an order of magnitude more water than vapour diffusion."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Vapour Permeance' ($V$)?",
+    "options": [
+      "A) Permeability multiplied by thickness.",
+      "B) Permeability divided by the thickness of a material.",
+      "C) The inverse of Vapour Pressure.",
+      "D) The capacity of a material to hold liquid water.",
+      "E) The resistance to airflow."
+    ],
+    "answer": "B) Permeability divided by the thickness of a material."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the standard metric unit for Vapour Permeance?",
+    "options": [
+      "A) $ng/Pa\\cdot s \\cdot m$",
+      "B) $ng/Pa\\cdot s \\cdot m^2$",
+      "C) $W/m^2K$",
+      "D) $Pa\\cdot s/m^2$",
+      "E) $Perm-inch$"
+    ],
+    "answer": "B) $ng/Pa\\cdot s \\cdot m^2$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "One 'Perm' (Imperial unit) is approximately equivalent to how many metric units ($ng/Pa\\cdot s \\cdot m^2$)?",
+    "options": [
+      "A) 1",
+      "B) 10",
+      "C) 57",
+      "D) 100",
+      "E) 5.7"
+    ],
+    "answer": "C) 57"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which ASTM standard is referenced for measuring vapour permeance?",
+    "options": [
+      "A) ASTM E96",
+      "B) ASTM C518",
+      "C) ASTM E779",
+      "D) ASTM E283",
+      "E) ASTM D100"
+    ],
+    "answer": "A) ASTM E96"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the Dry Cup test method for vapour permeance, what is the approximate average Relative Humidity (RH) across the sample?",
+    "options": [
+      "A) 0%",
+      "B) 25%",
+      "C) 50%",
+      "D) 75%",
+      "E) 100%"
+    ],
+    "answer": "B) 25%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the Wet Cup test method, the cup contains water (100% RH) and the lab is at 50% RH. What is the average RH across the sample?",
+    "options": [
+      "A) 25%",
+      "B) 50%",
+      "C) 75%",
+      "D) 90%",
+      "E) 100%"
+    ],
+    "answer": "C) 75%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the notes, when should the 'Inverted Wet Cup' value be used?",
+    "options": [
+      "A) For all interior drywall applications.",
+      "B) For roofing and waterproofing applications where liquid water contact is possible.",
+      "C) For measuring the permeance of glass.",
+      "D) For all vapour barrier materials.",
+      "E) Never, it is an outdated test."
+    ],
+    "answer": "B) For roofing and waterproofing applications where liquid water contact is possible."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A material is defined as a 'Class 1 Vapour Retarder' (Impermeable) if its permeance is:",
+    "options": [
+      "A) Greater than 570 ng/Pa·s·m².",
+      "B) Between 57 and 570 ng/Pa·s·m².",
+      "C) Less than or equal to 0.1 Perm (5.7 ng/Pa·s·m²).",
+      "D) Exactly 10 Perms.",
+      "E) Between 1.0 and 10 Perms."
+    ],
+    "answer": "C) Less than or equal to 0.1 Perm (5.7 ng/Pa·s·m²)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical permeance of 6 mil Polyethylene sheet?",
+    "options": [
+      "A) 300 ng/Pa·s·m²",
+      "B) 60 ng/Pa·s·m²",
+      "C) 3.4 ng/Pa·s·m²",
+      "D) 57 ng/Pa·s·m²",
+      "E) 1000 ng/Pa·s·m²"
+    ],
+    "answer": "C) 3.4 ng/Pa·s·m²"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following best describes 'Class 3' vapour retarders (Semi-permeable)?",
+    "options": [
+      "A) Permeance ≤ 0.1 Perm.",
+      "B) 0.1 < Perm ≤ 1.0.",
+      "C) 1.0 < Perm ≤ 10 (57 < V ≤ 570 ng/Pa·s·m²).",
+      "D) Permeance > 10 Perms.",
+      "E) Permeance = 0."
+    ],
+    "answer": "C) 1.0 < Perm ≤ 10 (57 < V ≤ 570 ng/Pa·s·m²)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does the permeance of wood-based products (like OSB and Plywood) change with Relative Humidity?",
+    "options": [
+      "A) It remains constant regardless of RH.",
+      "B) It decreases as RH increases.",
+      "C) It increases significantly as RH increases.",
+      "D) It becomes zero at high RH.",
+      "E) It fluctuates randomly."
+    ],
+    "answer": "C) It increases significantly as RH increases."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the approximate permeance of 1/2” gypsum wallboard with 1 coat primer and 2 coats latex paint?",
+    "options": [
+      "A) 3.4 ng/Pa·s·m²",
+      "B) 60 ng/Pa·s·m²",
+      "C) 300 ng/Pa·s·m²",
+      "D) 1000 ng/Pa·s·m²",
+      "E) 0.1 ng/Pa·s·m²"
+    ],
+    "answer": "C) 300 ng/Pa·s·m²"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Does standard latex paint on drywall typically qualify as a Type II vapour retarder?",
+    "options": [
+      "A) Yes, always.",
+      "B) No, it does not provide sufficient resistance (approx 300 ng/Pa·s·m²).",
+      "C) Only if applied in 5 coats.",
+      "D) Yes, if the drywall is water resistant.",
+      "E) Yes, because it is plastic based."
+    ],
+    "answer": "B) No, it does not provide sufficient resistance (approx 300 ng/Pa·s·m²)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which brick type has a significantly higher vapour permeance?",
+    "options": [
+      "A) Clay Brick",
+      "B) Calcium Silicate Brick",
+      "C) Glazed Brick",
+      "D) Concrete Brick",
+      "E) Engineering Brick"
+    ],
+    "answer": "B) Calcium Silicate Brick"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is airflow behind a brick veneer important for vapour control?",
+    "options": [
+      "A) To dry the wood studs directly.",
+      "B) To bypass the vapour diffusion resistance of the brick and improve outward drying.",
+      "C) To increase the R-value of the air space.",
+      "D) To prevent the brick from freezing.",
+      "E) To allow insects to escape."
+    ],
+    "answer": "B) To bypass the vapour diffusion resistance of the brick and improve outward drying."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What happens if you place an impermeable membrane (like poly) on the *outside* of an interior insulated assembly in a cold climate?",
+    "options": [
+      "A) It improves energy efficiency.",
+      "B) It stops all rain penetration.",
+      "C) It traps moisture (double vapour barrier) leading to condensation and damage.",
+      "D) It allows the wall to breathe better.",
+      "E) It has no effect."
+    ],
+    "answer": "C) It traps moisture (double vapour barrier) leading to condensation and damage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a 'Smart' Vapour Retarder?",
+    "options": [
+      "A) A barrier that uses electronics to sense moisture.",
+      "B) A material that changes its permeance based on RH (low permeance in dry conditions, high permeance in wet conditions).",
+      "C) A barrier that self-heals holes.",
+      "D) A standard polyethylene sheet.",
+      "E) A barrier that generates heat."
+    ],
+    "answer": "B) A material that changes its permeance based on RH (low permeance in dry conditions, high permeance in wet conditions)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In an interior insulated assembly, which test value should be used for materials *outboard* of the insulation?",
+    "options": [
+      "A) Dry Cup value.",
+      "B) Wet Cup value.",
+      "C) Inverted Wet Cup value.",
+      "D) The average of Dry and Wet.",
+      "E) The lowest possible value."
+    ],
+    "answer": "B) Wet Cup value."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vapour Resistance ($R_v$) is calculated as:",
+    "options": [
+      "A) The inverse of Vapour Permeance ($1/V$).",
+      "B) The inverse of Vapour Permeability ($1/\mu$).",
+      "C) Permeance multiplied by Area.",
+      "D) Pressure difference divided by Flow.",
+      "E) Thickness times Permeance."
+    ],
+    "answer": "A) The inverse of Vapour Permeance ($1/V$)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How do you calculate the total vapour resistance of an assembly?",
+    "options": [
+      "A) Average the resistances of all layers.",
+      "B) Multiply the resistances of all layers.",
+      "C) Add the resistances of all layers in series.",
+      "D) Take the resistance of the most impermeable layer only.",
+      "E) Subtract the interior resistance from the exterior resistance."
+    ],
+    "answer": "C) Add the resistances of all layers in series."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following materials is considered non-porous?",
+    "options": [
+      "A) Wood",
+      "B) Concrete",
+      "C) Glass",
+      "D) Gypsum",
+      "E) Brick"
+    ],
+    "answer": "C) Glass"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the 'Vapour Diffusion Analogy' shown in the slides, what represents the vapour barrier?",
+    "options": [
+      "A) A sponge.",
+      "B) A clear glass or plastic wall of the container.",
+      "C) The water level.",
+      "D) The angle of the container.",
+      "E) The table surface."
+    ],
+    "answer": "B) A clear glass or plastic wall of the container."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a 'Basic Wood Frame Rainscreen Wall Design', where is the polyethylene sheet typically placed?",
+    "options": [
+      "A) On the exterior of the sheathing.",
+      "B) Between the insulation and the sheathing.",
+      "C) Immediately behind the interior gypsum board.",
+      "D) Behind the cladding.",
+      "E) It is not used."
+    ],
+    "answer": "C) Immediately behind the interior gypsum board."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary function of the Sheathing Membrane (WRB) in a wood frame wall?",
+    "options": [
+      "A) To stop all vapour diffusion.",
+      "B) To act as a vapour permeable water shedding surface backup.",
+      "C) To provide structural support.",
+      "D) To insulate the studs.",
+      "E) To hold the siding on."
+    ],
+    "answer": "B) To act as a vapour permeable water shedding surface backup."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If a sheathing membrane acts as the primary air barrier, what additional requirement must it meet?",
+    "options": [
+      "A) It must be transparent.",
+      "B) It must be structurally adequate to support wind loads.",
+      "C) It must be vapour impermeable.",
+      "D) It must be made of metal.",
+      "E) It must be adhesive."
+    ],
+    "answer": "B) It must be structurally adequate to support wind loads."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a major limitation of using a polyethylene vapour barrier in a cooling climate (summer)?",
+    "options": [
+      "A) It melts.",
+      "B) It blocks inward vapour drive, potentially causing condensation on its exterior face (inside the wall).",
+      "C) It allows too much heat in.",
+      "D) It becomes brittle.",
+      "E) It attracts mold."
+    ],
+    "answer": "B) It blocks inward vapour drive, potentially causing condensation on its exterior face (inside the wall)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the permeance of 'Bituminous Paper' (e.g., #15 Felt)?",
+    "options": [
+      "A) It is always impermeable.",
+      "B) It varies significantly; dry is lower (approx 30-300 ng) and wet is higher (approx 400-1800 ng).",
+      "C) It is identical to polyethylene.",
+      "D) It is 0 Perms.",
+      "E) It is highly permeable like housewrap."
+    ],
+    "answer": "B) It varies significantly; dry is lower (approx 30-300 ng) and wet is higher (approx 400-1800 ng)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is an example of a Class 2 'Semi-impermeable' material?",
+    "options": [
+      "A) 6 mil Polyethylene.",
+      "B) Extruded Polystyrene (XPS) at certain thicknesses.",
+      "C) Housewrap.",
+      "D) Gypsum board.",
+      "E) Fiberglass insulation."
+    ],
+    "answer": "B) Extruded Polystyrene (XPS) at certain thicknesses."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why might a designer choose *not* to use polyethylene in a wall assembly?",
+    "options": [
+      "A) To save money on cheap materials.",
+      "B) To allow for greater drying potential to the interior.",
+      "C) Because poly is toxic.",
+      "D) Because poly is not code compliant.",
+      "E) To increase air leakage."
+    ],
+    "answer": "B) To allow for greater drying potential to the interior."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of vapour control, what does 'Permeable' typically mean?",
+    "options": [
+      "A) Permeance > 10 Perms (570 ng/Pa·s·m²).",
+      "B) Permeance < 1 Perm.",
+      "C) Permeance = 0.",
+      "D) It allows water to leak through.",
+      "E) It is transparent."
+    ],
+    "answer": "A) Permeance > 10 Perms (570 ng/Pa·s·m²)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the vapour permeance of aluminum foil (thickness > 0.025 mm)?",
+    "options": [
+      "A) 57 ng/Pa·s·m²",
+      "B) 0 ng/Pa·s·m² (effectively zero)",
+      "C) 100 ng/Pa·s·m²",
+      "D) 300 ng/Pa·s·m²",
+      "E) Depends on humidity."
+    ],
+    "answer": "B) 0 ng/Pa·s·m² (effectively zero)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a principal design requirement listed in Lecture 5?",
+    "options": [
+      "A) Control Heat Flow",
+      "B) Control Air Flow",
+      "C) Control Gravity",
+      "D) Control Water Vapour Flow",
+      "E) Control Rainwater Penetration"
+    ],
+    "answer": "C) Control Gravity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a 'Ventilated Cathedral Roof', what is the recommended Air Barrier strategy?",
+    "options": [
+      "A) Rely on the shingles.",
+      "B) Sealed polyethylene or airtight drywall.",
+      "C) Vented soffits.",
+      "D) The insulation itself.",
+      "E) No air barrier is needed."
+    ],
+    "answer": "B) Sealed polyethylene or airtight drywall."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In an unventilated flat roof assembly, where is the rigid insulation typically placed?",
+    "options": [
+      "A) Between the joists.",
+      "B) Below the roof deck.",
+      "C) Above the roof deck and waterproofing membrane (Protected Membrane Roof).",
+      "D) It is not used.",
+      "E) Inside the building."
+    ],
+    "answer": "C) Above the roof deck and waterproofing membrane (Protected Membrane Roof)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a 'Vapour Barrier' defined as in the notes?",
+    "options": [
+      "A) Any material that stops air.",
+      "B) A vapour retarder which significantly reduces diffusion (Class 1).",
+      "C) A material that slows diffusion slightly (Class 3).",
+      "D) A coating on windows.",
+      "E) The siding of the building."
+    ],
+    "answer": "B) A vapour retarder which significantly reduces diffusion (Class 1)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which direction is the vapour drive in a 'Swing Season'?",
+    "options": [
+      "A) Always Out.",
+      "B) Always In.",
+      "C) It fluctuates In and Out.",
+      "D) There is no vapour drive.",
+      "E) Vertical only."
+    ],
+    "answer": "C) It fluctuates In and Out."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What happens to the moisture content of wood when it is placed in direct contact with liquid water (Capillary suction)?",
+    "options": [
+      "A) It decreases.",
+      "B) It stays the same as at 98% RH.",
+      "C) It absorbs two to four times more water than by adsorption alone.",
+      "D) It dissolves.",
+      "E) It becomes hydrophobic."
+    ],
+    "answer": "C) It absorbs two to four times more water than by adsorption alone."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary risk of using Class 1 vapour barriers on both sides of a wall assembly?",
+    "options": [
+      "A) The wall will be too heavy.",
+      "B) Moisture can be trapped inside with no way to dry out.",
+      "C) It will be too expensive.",
+      "D) It provides too much sound insulation.",
+      "E) It creates a vacuum."
+    ],
+    "answer": "B) Moisture can be trapped inside with no way to dry out."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which material is 'Capillary Active'?",
+    "options": [
+      "A) Steel",
+      "B) Glass",
+      "C) Wood",
+      "D) Plastic",
+      "E) Aluminum"
+    ],
+    "answer": "C) Wood"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Correct placement of vapour retarders helps prevent:",
+    "options": [
+      "A) Structural collapse from wind.",
+      "B) Condensation within assemblies.",
+      "C) Heat gain in summer.",
+      "D) Noise pollution.",
+      "E) Fire spread."
+    ],
+    "answer": "B) Condensation within assemblies."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the estimated permeance of Clay Brick at 50% RH?",
+    "options": [
+      "A) 60 ng/Pa·s·m²",
+      "B) 4.8 ng/Pa·s·m",
+      "C) 450 ng/Pa·s·m²",
+      "D) 3000 ng/Pa·s·m²",
+      "E) 0.1 ng/Pa·s·m²"
+    ],
+    "answer": "A) 60 ng/Pa·s·m²"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The notes suggest verifying material permeance data from sources like:",
+    "options": [
+      "A) Wikipedia",
+      "B) Manufacturers, ASHRAE, or Building Codes.",
+      "C) Random internet forums.",
+      "D) Guessing.",
+      "E) The local hardware store clerk."
+    ],
+    "answer": "B) Manufacturers, ASHRAE, or Building Codes."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the relationship between 'Permeability' and 'Permeance'?",
+    "options": [
+      "A) Permeance = Permeability × Thickness",
+      "B) Permeance = Permeability / Thickness",
+      "C) They are the same.",
+      "D) Permeability = Permeance²",
+      "E) There is no relationship."
+    ],
+    "answer": "B) Permeance = Permeability / Thickness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the 'Control Considerations' table, what is the control intent for Air Flow?",
+    "options": [
+      "A) Slow / Retarder",
+      "B) Stop / Barrier (100%)",
+      "C) Encourage Flow",
+      "D) Filter",
+      "E) Ignore"
+    ],
+    "answer": "B) Stop / Barrier (100%)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the 'Control Considerations' table, what is the control intent for Vapour Diffusion?",
+    "options": [
+      "A) Stop / Barrier (100%)",
+      "B) Slow / Retarder (<< 100%)",
+      "C) Encourage Flow",
+      "D) Zero Resistance",
+      "E) Active Pumping"
+    ],
+    "answer": "B) Slow / Retarder (<< 100%)"
+  }
+]
