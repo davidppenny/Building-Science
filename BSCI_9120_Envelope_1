@@ -1,0 +1,566 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "According to the class notes, which of the following best defines the 'Building Enclosure'?",
+    "options": [
+      "A) The structural skeleton that supports the building's dead loads.",
+      "B) The physical separation between the interior and exterior environments of a building.",
+      "C) The mechanical systems responsible for indoor climate control.",
+      "D) The aesthetic façade applied to the exterior only.",
+      "E) The legal boundary defining the property lines of a site."
+    ],
+    "answer": "B) The physical separation between the interior and exterior environments of a building."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following components is explicitly included in the definition of the building enclosure?",
+    "options": [
+      "A) Interior partition walls and furniture.",
+      "B) Above-grade walls, roofs, below-grade foundations, and floors.",
+      "C) HVAC ductwork and plumbing stacks.",
+      "D) Landscaping and civil facilities surrounding the building.",
+      "E) Electrical wiring and lighting fixtures."
+    ],
+    "answer": "B) Above-grade walls, roofs, below-grade foundations, and floors."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Building Science is described as a unique mix of several disciplines. Which of the following is NOT listed as one of these disciplines?",
+    "options": [
+      "A) Physics",
+      "B) Meteorology",
+      "C) Physiology",
+      "D) Political Science",
+      "E) Chemistry"
+    ],
+    "answer": "D) Political Science"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary focus of 'Building Enclosure Science' as opposed to general Building Science?",
+    "options": [
+      "A) Structural stability of high-rise foundations.",
+      "B) The efficiency of mechanical heating plants.",
+      "C) Heat, Air, and Moisture Transport across the building enclosure.",
+      "D) The chemical composition of interior finishing materials.",
+      "E) Urban planning and zoning regulations."
+    ],
+    "answer": "C) Heat, Air, and Moisture Transport across the building enclosure."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the 'Building Science Fundamentals Cheat Sheet', in which direction does heat flow occur?",
+    "options": [
+      "A) From cold to warm.",
+      "B) From low pressure to high pressure.",
+      "C) From warm to cold.",
+      "D) From low density to high density.",
+      "E) Heat flow is random and multidirectional."
+    ],
+    "answer": "C) From warm to cold."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the 'Building Science Fundamentals Cheat Sheet', what drives moisture flow?",
+    "options": [
+      "A) From low vapour pressure to high vapour pressure.",
+      "B) From high vapour pressure to low vapour pressure.",
+      "C) From cold temperatures to warm temperatures.",
+      "D) From low relative humidity to high relative humidity.",
+      "E) Against the force of gravity."
+    ],
+    "answer": "B) From high vapour pressure to low vapour pressure."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the 'Building Science Fundamentals Cheat Sheet', how does airflow move?",
+    "options": [
+      "A) From a lower pressure to a higher pressure.",
+      "B) From a higher pressure to a lower pressure.",
+      "C) Strictly upwards due to buoyancy.",
+      "D) Strictly downwards due to gravity.",
+      "E) Air does not move through building enclosures."
+    ],
+    "answer": "B) From a higher pressure to a lower pressure."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT one of the 'Building Envelope Design Factors' listed from the NRC Prairie Research Station?",
+    "options": [
+      "A) Control heat flow",
+      "B) Control radiation",
+      "C) Control solar eclipses",
+      "D) Control fire",
+      "E) Control sound transmission"
+    ],
+    "answer": "C) Control solar eclipses"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The building enclosure must perform two primary categories of functions. What are they?",
+    "options": [
+      "A) Aesthetics and Economy",
+      "B) Heating and Cooling",
+      "C) Support and Control",
+      "D) Design and Construction",
+      "E) Wetting and Drying"
+    ],
+    "answer": "C) Support and Control"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Under the 'Support' function of the building enclosure, which of the following is a relevant loading?",
+    "options": [
+      "A) Insects and animals",
+      "B) Wind and earthquake",
+      "C) Relative humidity",
+      "D) Solar radiation",
+      "E) Air leakage"
+    ],
+    "answer": "B) Wind and earthquake"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which component is identified as having a primary relationship with 'Water' control in the building enclosure diagram?",
+    "options": [
+      "A) Thermal Insulation",
+      "B) Vapor Retarder",
+      "C) Water Shedding Surface (WSS)",
+      "D) Air Barrier System",
+      "E) Interior Drywall"
+    ],
+    "answer": "C) Water Shedding Surface (WSS)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of building enclosure control layers, 'Vapor' is defined to include which of the following?",
+    "options": [
+      "A) Only rain and snow.",
+      "B) Only ground water.",
+      "C) Water vapor in the air as well as condensate moisture.",
+      "D) Only bulk water leakage.",
+      "E) Only water from plumbing leaks."
+    ],
+    "answer": "C) Water vapor in the air as well as condensate moisture."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following represents a 'Service Industrial' building type according to the class notes?",
+    "options": [
+      "A) A detached single-unit house.",
+      "B) A high-rise office tower.",
+      "C) A high bay structure with a small mezzanine for offices and storage.",
+      "D) A hospital or clinic.",
+      "E) A large shopping mall."
+    ],
+    "answer": "C) A high bay structure with a small mezzanine for offices and storage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is considered an 'Institutional' building?",
+    "options": [
+      "A) A warehouse for cold storage.",
+      "B) A retail plaza.",
+      "C) A hospital or school.",
+      "D) A detached residential unit.",
+      "E) A light manufacturing factory."
+    ],
+    "answer": "C) A hospital or school."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the recommended ASHRAE relative humidity (RH) range for human comfort in both winter and summer?",
+    "options": [
+      "A) 10% to 30%",
+      "B) 30% to 60%",
+      "C) 50% to 80%",
+      "D) 0% to 100%",
+      "E) 60% to 90%"
+    ],
+    "answer": "B) 30% to 60%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the ASHRAE recommended indoor temperature range for the winter season?",
+    "options": [
+      "A) 18 to 20°C",
+      "B) 20 to 24°C",
+      "C) 23 to 26°C",
+      "D) 25 to 28°C",
+      "E) 15 to 18°C"
+    ],
+    "answer": "B) 20 to 24°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the ASHRAE recommended indoor temperature range for the summer season?",
+    "options": [
+      "A) 18 to 22°C",
+      "B) 20 to 24°C",
+      "C) 23 to 26°C",
+      "D) 26 to 30°C",
+      "E) 15 to 20°C"
+    ],
+    "answer": "C) 23 to 26°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a potential consequence of 'getting it wrong' regarding building enclosure design?",
+    "options": [
+      "A) Deterioration and moisture damage.",
+      "B) Decreased property taxes.",
+      "C) Increased structural dead load.",
+      "D) Improved thermal comfort.",
+      "E) Reduced energy consumption."
+    ],
+    "answer": "A) Deterioration and moisture damage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The notes mention that units facing which directions often experience excessive solar heat gain in summer?",
+    "options": [
+      "A) North and East",
+      "B) South and West",
+      "C) North and West",
+      "D) South and East",
+      "E) East and West"
+    ],
+    "answer": "B) South and West"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT listed as a task performed by Building Enclosure Professionals?",
+    "options": [
+      "A) Moisture and thermal analysis.",
+      "B) Field review during construction.",
+      "C) Structural steel design calculations.",
+      "D) Investigation of building enclosure problems.",
+      "E) Preparation of drawings for repair."
+    ],
+    "answer": "C) Structural steel design calculations."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which element relates to the 'Built Facilities' component of the Built Environment?",
+    "options": [
+      "A) Developed Site, Excavation, Foundations.",
+      "B) Enclosure - Roof, Walls, Windows, Doors.",
+      "C) HVAC, Illumination, DHW.",
+      "D) Planning, Amenities, Access.",
+      "E) Occupants, Users, Owners."
+    ],
+    "answer": "B) Enclosure - Roof, Walls, Windows, Doors."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Civil Facilities in the built environment context typically include which of the following?",
+    "options": [
+      "A) Windows and Doors.",
+      "B) Occupants and Owners.",
+      "C) Developed Site, Excavation, and Landscaping.",
+      "D) Interior HVAC systems.",
+      "E) Furniture and Equipment."
+    ],
+    "answer": "C) Developed Site, Excavation, and Landscaping."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which source of loading is categorized as 'Human-induced events' from the interior environment?",
+    "options": [
+      "A) Wind and rain.",
+      "B) Radon and methane.",
+      "C) Fire and people.",
+      "D) Solar radiation.",
+      "E) Fungal growth."
+    ],
+    "answer": "C) Fire and people."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ground water, snow, and hail are examples of loadings related to which environmental factor?",
+    "options": [
+      "A) Heat related",
+      "B) Air related",
+      "C) Moisture related",
+      "D) Gravity related",
+      "E) Sound related"
+    ],
+    "answer": "C) Moisture related"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is categorized as a 'Gravity related' loading from the exterior environment?",
+    "options": [
+      "A) Wind pressure.",
+      "B) Water vapour diffusion.",
+      "C) Water, snow, and hail.",
+      "D) Solar radiation.",
+      "E) Ambient temperature."
+    ],
+    "answer": "C) Water, snow, and hail."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Radon and methane are listed as loadings from which source?",
+    "options": [
+      "A) Exterior Weather",
+      "B) Interior Human-induced events",
+      "C) Ground related sources",
+      "D) Gravity related sources",
+      "E) Heat related sources"
+    ],
+    "answer": "C) Ground related sources"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Interior environments are usually defined by temperature, relative humidity, air quality, and what other factor?",
+    "options": [
+      "A) Wind speed.",
+      "B) Airflow rate.",
+      "C) Solar index.",
+      "D) Precipitation rate.",
+      "E) Ground water level."
+    ],
+    "answer": "B) Airflow rate."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following has a 'strong time-dependent influence' on the interior environment and hygrothermal loading?",
+    "options": [
+      "A) The color of the exterior paint.",
+      "B) Service systems (HVAC, lights) and contents/occupancy.",
+      "C) The depth of the foundation.",
+      "D) The local zoning bylaws.",
+      "E) The property line setbacks."
+    ],
+    "answer": "B) Service systems (HVAC, lights) and contents/occupancy."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does the abbreviation 'IAQ' stand for in the context of building science?",
+    "options": [
+      "A) Internal Air Quantity",
+      "B) Indoor Air Quality",
+      "C) International Association of Quality",
+      "D) Integrated Air Quotient",
+      "E) Interior Architectural Quality"
+    ],
+    "answer": "B) Indoor Air Quality"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which design factor requires the enclosure to 'Be aesthetically pleasing'?",
+    "options": [
+      "A) Economic",
+      "B) Control of Heat Flow",
+      "C) Durability",
+      "D) Aesthetics (as listed in the design factors)",
+      "E) Structural Support"
+    ],
+    "answer": "D) Aesthetics (as listed in the design factors)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The Building Enclosure protects the indoor environment and facilitates what?",
+    "options": [
+      "A) High energy consumption.",
+      "B) Indoor climate control.",
+      "C) Structural collapse.",
+      "D) Outdoor water drainage.",
+      "E) Public access to the interior."
+    ],
+    "answer": "B) Indoor climate control."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is an example of an 'abnormal climatic effect' loading?",
+    "options": [
+      "A) Daily solar radiation.",
+      "B) Seasonal rain.",
+      "C) Hurricane or tornado winds.",
+      "D) Standard atmospheric pressure.",
+      "E) Normal gravity loads."
+    ],
+    "answer": "C) Hurricane or tornado winds."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The primary relationship for 'Heat' control involves which building component?",
+    "options": [
+      "A) Water-Resistive Barrier (WRB)",
+      "B) Thermal Insulation",
+      "C) Water Shedding Surface",
+      "D) Building Form",
+      "E) Vapor Barrier"
+    ],
+    "answer": "B) Thermal Insulation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the notes, which element is involved in the control of 'Sound'?",
+    "options": [
+      "A) Only the exterior cladding.",
+      "B) Only the windows.",
+      "C) Thermal Insulation, Air Barrier, and others (Secondary relationships).",
+      "D) Only the structural frame.",
+      "E) Sound control is not a function of the enclosure."
+    ],
+    "answer": "C) Thermal Insulation, Air Barrier, and others (Secondary relationships)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which physical phenomenon is NOT listed as a contributor to environmental modification in the heat transfer diagram?",
+    "options": [
+      "A) Radiation",
+      "B) Conduction",
+      "C) Convection",
+      "D) Evaporation",
+      "E) Magnetism"
+    ],
+    "answer": "E) Magnetism"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Window condensation is an example of a failure in controlling which factor?",
+    "options": [
+      "A) Sound transmission.",
+      "B) Fire spread.",
+      "C) Heat and Vapour (Surface temperature and moisture).",
+      "D) Structural loads.",
+      "E) Ground water penetration."
+    ],
+    "answer": "C) Heat and Vapour (Surface temperature and moisture)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Corrosion of metal studs in a wall assembly is primarily a result of:",
+    "options": [
+      "A) Excessive sound vibration.",
+      "B) Moisture damage/ingress.",
+      "C) High interior temperatures.",
+      "D) Lack of natural light.",
+      "E) Excessive airflow."
+    ],
+    "answer": "B) Moisture damage/ingress."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Biological growth (mold) on interior drywall is an indication of:",
+    "options": [
+      "A) Excellent air quality.",
+      "B) Excessive moisture accumulation.",
+      "C) Too much sunlight.",
+      "D) High structural strength.",
+      "E) Proper ventilation."
+    ],
+    "answer": "B) Excessive moisture accumulation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the 'Cheat Sheet', what physical property determines the direction of airflow?",
+    "options": [
+      "A) Temperature difference ($ΔT$).",
+      "B) Vapor pressure difference ($ΔPv$).",
+      "C) Air pressure difference ($ΔP$ air).",
+      "D) Relative humidity difference.",
+      "E) Material density."
+    ],
+    "answer": "C) Air pressure difference ($ΔP$ air)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When considering 'Support' functions, which of the following is considered a 'Physical loading'?",
+    "options": [
+      "A) Relative humidity.",
+      "B) Dead & live load.",
+      "C) Air quality.",
+      "D) Noise levels.",
+      "E) Visual aesthetics."
+    ],
+    "answer": "B) Dead & live load."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following best describes the 'Control' function of the enclosure?",
+    "options": [
+      "A) Supporting the building's weight.",
+      "B) Preventing or regulating the flow of mass and energy (people, animals, environmental loads).",
+      "C) Providing a view to the exterior.",
+      "D) Ensuring the building is economical to build.",
+      "E) Making the building look pleasing."
+    ],
+    "answer": "B) Preventing or regulating the flow of mass and energy (people, animals, environmental loads)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which term generally refers to 'Commercial' buildings in the context of building types?",
+    "options": [
+      "A) Single unit detached homes.",
+      "B) High bay freezers.",
+      "C) Shops, plazas, malls, and office towers.",
+      "D) Prisons and justice facilities.",
+      "E) Heavy industrial factories."
+    ],
+    "answer": "C) Shops, plazas, malls, and office towers."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT part of the definition of 'Building Science'?",
+    "options": [
+      "A) Physics",
+      "B) Materials Science",
+      "C) Culinary Arts",
+      "D) Construction Technology",
+      "E) Meteorology"
+    ],
+    "answer": "C) Culinary Arts"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why might occupants in south-facing units install stand-alone air conditioning?",
+    "options": [
+      "A) To increase humidity in winter.",
+      "B) To mitigate excessive solar heat gain in summer.",
+      "C) To reduce noise from the street.",
+      "D) To improve structural stability.",
+      "E) To increase air leakage."
+    ],
+    "answer": "B) To mitigate excessive solar heat gain in summer."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which organization's research station in the 1960s provided the list of Building Envelope Design Factors?",
+    "options": [
+      "A) NASA",
+      "B) NRC (National Research Council) Prairie Research Station",
+      "C) ASHRAE",
+      "D) BCIT",
+      "E) CHBA"
+    ],
+    "answer": "B) NRC (National Research Council) Prairie Research Station"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which control layer has a 'primary relationship' with Fire control according to the diagram?",
+    "options": [
+      "A) Vapor Retarder",
+      "B) Thermal Insulation",
+      "C) Air Barrier",
+      "D) No single layer, it is a secondary relationship with multiple layers.",
+      "E) Water Shedding Surface"
+    ],
+    "answer": "D) No single layer, it is a secondary relationship with multiple layers."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is defined as 'Precipitation (rain, snow, hail, etc.) and ground water' in the context of the enclosure?",
+    "options": [
+      "A) Vapor",
+      "B) Water",
+      "C) Air",
+      "D) Humidity",
+      "E) Condensate"
+    ],
+    "answer": "B) Water"
+  }
+]
