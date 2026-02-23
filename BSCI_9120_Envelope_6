@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is identified as the 'largest and most significant' moisture load on a building enclosure?",
+    "options": [
+      "A) Vapour Diffusion",
+      "B) Air Leakage",
+      "C) Construction Moisture",
+      "D) Wind-driven Rain",
+      "E) Ground Water Capillarity"
+    ],
+    "answer": "D) Wind-driven Rain"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary function of the 'Water Shedding Surface' (WSS) or cladding?",
+    "options": [
+      "A) To provide structural rigidity to the frame.",
+      "B) To act as the sole barrier against air leakage.",
+      "C) To deflect and drain the vast majority of exterior moisture impacting the assembly.",
+      "D) To provide thermal insulation.",
+      "E) To control vapour diffusion from the interior."
+    ],
+    "answer": "C) To deflect and drain the vast majority of exterior moisture impacting the assembly."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the lecture, which four strategies comprise the 'Holistic approach' to rainwater penetration control?",
+    "options": [
+      "A) Blocking, Sealing, Painting, and Glazing.",
+      "B) Deflection, Drainage/Storage/Exclusion, Drying, and Durability.",
+      "C) Heating, Cooling, Ventilating, and Insulating.",
+      "D) Conduction, Convection, Radiation, and Advection.",
+      "E) Design, Bid, Build, and Maintain."
+    ],
+    "answer": "B) Deflection, Drainage/Storage/Exclusion, Drying, and Durability."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is considered a method of 'Deflection' in rain control?",
+    "options": [
+      "A) Installing a vapour barrier.",
+      "B) Using absorptive brick.",
+      "C) Building shape, overhangs, and cornices.",
+      "D) Installing a drain pipe.",
+      "E) Increasing interior temperature."
+    ],
+    "answer": "C) Building shape, overhangs, and cornices."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the recommended minimum 'Splash Height' for cladding above grade to prevent wetting from ground splashback?",
+    "options": [
+      "A) 50 mm",
+      "B) 100 mm",
+      "C) 200 mm",
+      "D) 500 mm",
+      "E) 1000 mm"
+    ],
+    "answer": "C) 200 mm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of 'Enclosure Systems' classification, which two broad categories are defined for rain control?",
+    "options": [
+      "A) Cheap and Expensive.",
+      "B) Wood and Concrete.",
+      "C) Imperfect Barrier and Perfect Barrier.",
+      "D) Heavy and Light.",
+      "E) Commercial and Residential."
+    ],
+    "answer": "C) Imperfect Barrier and Perfect Barrier."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is an example of a 'Perfect Barrier' (Face Sealed) system?",
+    "options": [
+      "A) Traditional Mass Masonry Wall.",
+      "B) Drained EIFS (Exterior Insulation and Finish System).",
+      "C) Face Sealed Window System (e.g., storefront glazing).",
+      "D) Vinyl Siding with a drainage plane.",
+      "E) Ventilated Brick Veneer."
+    ],
+    "answer": "C) Face Sealed Window System (e.g., storefront glazing)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary risk associated with 'Face Sealed' systems?",
+    "options": [
+      "A) They are too heavy.",
+      "B) They rely on perfect sealing at the outer surface; any failure leads to water ingress without a means of drainage.",
+      "C) They are too expensive to manufacture.",
+      "D) They allow too much airflow.",
+      "E) They cannot be painted."
+    ],
+    "answer": "B) They rely on perfect sealing at the outer surface; any failure leads to water ingress without a means of drainage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does a 'Mass Wall' (Storage system) primarily manage rainwater?",
+    "options": [
+      "A) By deflecting 100% of the rain.",
+      "B) By using a perfect waterproof coating.",
+      "C) By absorbing moisture during the rain event and drying it out later (Shed and Absorb).",
+      "D) By channeling water into the building interior.",
+      "E) By using a pressure equalization chamber."
+    ],
+    "answer": "C) By absorbing moisture during the rain event and drying it out later (Shed and Absorb)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What defines a 'Rainscreen' or 'Drained/Screened' wall system?",
+    "options": [
+      "A) It has a screen to keep insects out.",
+      "B) It incorporates two lines of defense: a cladding, an air space/drainage plane, and a water-resistive barrier (WRB).",
+      "C) It is a single layer of waterproof material.",
+      "D) It uses a large fan to blow rain away.",
+      "E) It is built entirely of glass."
+    ],
+    "answer": "B) It incorporates two lines of defense: a cladding, an air space/drainage plane, and a water-resistive barrier (WRB)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a 'Ventilated' wall system, where are the openings typically located?",
+    "options": [
+      "A) At the bottom only.",
+      "B) At the top only.",
+      "C) At both the top and bottom of the cavity to promote airflow.",
+      "D) There are no openings.",
+      "E) Randomly distributed across the face."
+    ],
+    "answer": "C) At both the top and bottom of the cavity to promote airflow."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary mechanism of a 'Pressure Moderated' rainscreen?",
+    "options": [
+      "A) Using high pressure air to dry the wall.",
+      "B) Compartmentalizing the cavity to encourage pressure equalization across the cladding, reducing the driving force for water entry.",
+      "C) Sealing the cavity completely to create a vacuum.",
+      "D) Using a pump to remove water.",
+      "E) Increasing the structural load on the cladding."
+    ],
+    "answer": "B) Compartmentalizing the cavity to encourage pressure equalization across the cladding, reducing the driving force for water entry."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT one of the 'Two Lines of Defense' in a rainscreen wall?",
+    "options": [
+      "A) The Cladding (First Line).",
+      "B) The Interior Paint (Primary Water Barrier).",
+      "C) The Cavity/Air Space.",
+      "D) The Water Resistive Barrier (WRB).",
+      "E) The Flashings."
+    ],
+    "answer": "B) The Interior Paint (Primary Water Barrier)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In 'The Perfect Wall' concept by Joe Lstiburek, where are the control layers (Rain, Air, Vapour, Thermal) located relative to the structure?",
+    "options": [
+      "A) Inside the structure.",
+      "B) Outside the structure.",
+      "C) Within the structure (mixed).",
+      "D) There are no control layers.",
+      "E) On the roof only."
+    ],
+    "answer": "B) Outside the structure."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Overhang Ratio' defined as?",
+    "options": [
+      "A) The height of the building divided by the width.",
+      "B) The width of a projection divided by the height of the element it protects.",
+      "C) The weight of the roof divided by the wall strength.",
+      "D) The angle of the roof slope.",
+      "E) The rainfall amount divided by the wind speed."
+    ],
+    "answer": "B) The width of a projection divided by the height of the element it protects."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which force is NOT listed as a driving force for wetting in the lecture notes?",
+    "options": [
+      "A) Kinetic Energy",
+      "B) Gravity",
+      "C) Surface Tension / Capillarity",
+      "D) Air Pressure Difference",
+      "E) Magnetic Attraction"
+    ],
+    "answer": "E) Magnetic Attraction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which climate in British Columbia typically requires the most robust rain penetration control features (e.g., Rainscreen)?",
+    "options": [
+      "A) Coastal climates (e.g., Vancouver) with high wind-driven rain.",
+      "B) Dry interior climates (e.g., Kelowna).",
+      "C) Northern arctic climates.",
+      "D) All climates require identical systems.",
+      "E) Tropical climates."
+    ],
+    "answer": "A) Coastal climates (e.g., Vancouver) with high wind-driven rain."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the role of a 'Drip' edge at a window head or sill?",
+    "options": [
+      "A) To look decorative.",
+      "B) To encourage water to cling to the surface.",
+      "C) To break the surface tension and force water to drop off away from the building face (Deflection).",
+      "D) To collect water for gardening.",
+      "E) To increase air leakage."
+    ],
+    "answer": "C) To break the surface tension and force water to drop off away from the building face (Deflection)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a 'Concealed Barrier' system (e.g., stucco directly on building paper), how is it classified in the Enclosure System tree?",
+    "options": [
+      "A) Imperfect Barrier - Drained.",
+      "B) Imperfect Barrier - Mass.",
+      "C) Perfect Barrier Type.",
+      "D) Rainscreen Type.",
+      "E) Ventilated Type."
+    ],
+    "answer": "C) Perfect Barrier Type."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is true regarding 'Moisture Balance'?",
+    "options": [
+      "A) Wetting must always be zero.",
+      "B) Drying must be greater than Wetting.",
+      "C) Storage capacity is irrelevant.",
+      "D) Wetting must be greater than Drying.",
+      "E) Materials should never get wet."
+    ],
+    "answer": "B) Drying must be greater than Wetting."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Moisture Index' is used to characterize:",
+    "options": [
+      "A) The cost of water.",
+      "B) The climate for the purposes of rain penetration control.",
+      "C) The indoor relative humidity.",
+      "D) The strength of the concrete.",
+      "E) The specific gravity of wood."
+    ],
+    "answer": "B) The climate for the purposes of rain penetration control."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why are heritage buildings often successful at managing rain despite lacking modern membranes?",
+    "options": [
+      "A) They never experience rain.",
+      "B) They use extensive deflection features (cornices, overhangs) and mass wall strategies.",
+      "C) They are painted with waterproof paint.",
+      "D) They are made of plastic.",
+      "E) They are always heated to 30°C."
+    ],
+    "answer": "B) They use extensive deflection features (cornices, overhangs) and mass wall strategies."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the difference between a 'Vented' and a 'Ventilated' wall?",
+    "options": [
+      "A) There is no difference.",
+      "B) Vented allows diffusion; Ventilated allows convection/airflow.",
+      "C) Vented uses fans; Ventilated uses pumps.",
+      "D) Vented is for roofs; Ventilated is for walls.",
+      "E) Vented has no holes; Ventilated has many holes."
+    ],
+    "answer": "B) Vented allows diffusion; Ventilated allows convection/airflow."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a 'Protected Membrane Roof' (Inverted Roof), where is the insulation located?",
+    "options": [
+      "A) Below the structural deck.",
+      "B) Between the deck and the membrane.",
+      "C) Above the waterproof membrane.",
+      "D) There is no insulation.",
+      "E) Inside the room below."
+    ],
+    "answer": "C) Above the waterproof membrane."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a benefit of a 'Rainscreen' system?",
+    "options": [
+      "A) Provides redundancy (two lines of defense).",
+      "B) Allows for drainage of incidental water.",
+      "C) Allows for drying via airflow (if ventilated).",
+      "D) It is the cheapest possible wall to build.",
+      "E) Reduces the hydrostatic pressure on the WRB."
+    ],
+    "answer": "D) It is the cheapest possible wall to build."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the definition of 'Driving Rain'?",
+    "options": [
+      "A) Rain that falls vertically.",
+      "B) Rain water collected in a tank.",
+      "C) Water blown against a building by the wind.",
+      "D) Water from a hose.",
+      "E) Ground water rising up."
+    ],
+    "answer": "C) Water blown against a building by the wind."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A 'Drained' system is also known as a:",
+    "options": [
+      "A) Mass wall.",
+      "B) Face sealed wall.",
+      "C) Screened wall.",
+      "D) Perfect barrier.",
+      "E) Structural wall."
+    ],
+    "answer": "C) Screened wall."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which component constitutes the 'Second line of defense' in a rainscreen?",
+    "options": [
+      "A) The siding.",
+      "B) The exterior paint.",
+      "C) The WRB (Water Resistive Barrier) and the drainage cavity.",
+      "D) The drywall.",
+      "E) The interior vapour barrier."
+    ],
+    "answer": "C) The WRB (Water Resistive Barrier) and the drainage cavity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factor influences the amount of wind-driven rain hitting a building?",
+    "options": [
+      "A) Local terrain (roughness).",
+      "B) Building height.",
+      "C) Building shape.",
+      "D) Wind speed and direction.",
+      "E) All of the above."
+    ],
+    "answer": "E) All of the above."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Capillary Break' in the context of rain control?",
+    "options": [
+      "A) A broken pipe.",
+      "B) A gap or material that stops water from wicking through narrow pores.",
+      "C) A type of insulation.",
+      "D) A crack in the concrete.",
+      "E) A chemical additive."
+    ],
+    "answer": "B) A gap or material that stops water from wicking through narrow pores."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the 'Basic Wood Frame Rainscreen' shown, what creates the air space?",
+    "options": [
+      "A) Magic.",
+      "B) The warping of the wood.",
+      "C) Treated plywood strapping (furring strips).",
+      "D) The thickness of the siding.",
+      "E) It is naturally occurring."
+    ],
+    "answer": "C) Treated plywood strapping (furring strips)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why might a modern home without overhangs be more susceptible to wetting than a heritage home?",
+    "options": [
+      "A) Modern materials are weaker.",
+      "B) Lack of deflection features exposes the cladding to more rain deposition.",
+      "C) Heritage homes are painted better.",
+      "D) Gravity works differently on modern homes.",
+      "E) Modern homes are taller."
+    ],
+    "answer": "B) Lack of deflection features exposes the cladding to more rain deposition."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a failure mode for Face Sealed systems?",
+    "options": [
+      "A) The drainage holes get clogged.",
+      "B) The sealant joints fail due to weathering or movement, allowing water into a system with no drainage.",
+      "C) The air gap is too large.",
+      "D) The fan stops working.",
+      "E) The mass wall absorbs too much water."
+    ],
+    "answer": "B) The sealant joints fail due to weathering or movement, allowing water into a system with no drainage."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does 'WRB' stand for?",
+    "options": [
+      "A) Water Resistant Board",
+      "B) Weather Resistant Building",
+      "C) Water Resistive Barrier",
+      "D) Wet Rain Block",
+      "E) White Roof Barrier"
+    ],
+    "answer": "C) Water Resistive Barrier"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In terms of moisture transport, rain penetration is driven by:",
+    "options": [
+      "A) Concentration gradient only.",
+      "B) Temperature gradient only.",
+      "C) Momentum (Kinetic energy), Gravity, Air Pressure, and Capillarity.",
+      "D) Electrical current.",
+      "E) Chemical reaction."
+    ],
+    "answer": "C) Momentum (Kinetic energy), Gravity, Air Pressure, and Capillarity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A 'Compartmentalized' cavity is essential for which type of system?",
+    "options": [
+      "A) Face Sealed.",
+      "B) Vented.",
+      "C) Pressure Moderated Screen.",
+      "D) Mass Wall.",
+      "E) Concealed Barrier."
+    ],
+    "answer": "C) Pressure Moderated Screen."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does 'Drying' occur in a wall assembly?",
+    "options": [
+      "A) By drainage, evaporation, and convection (airflow).",
+      "B) By adding more water.",
+      "C) By painting the surface.",
+      "D) By freezing the water.",
+      "E) By compressing the insulation."
+    ],
+    "answer": "A) By drainage, evaporation, and convection (airflow)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which material layer typically acts as the 'Drainage Plane'?",
+    "options": [
+      "A) The drywall.",
+      "B) The exterior surface of the WRB/Sheathing.",
+      "C) The interior surface of the cladding.",
+      "D) The insulation.",
+      "E) The studs."
+    ],
+    "answer": "B) The exterior surface of the WRB/Sheathing."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If a building is in a 'High' exposure category, what is the conclusion for design?",
+    "options": [
+      "A) Use the cheapest windows available.",
+      "B) Wall and window selection must exhibit robust (long-term) water penetration control features (e.g., Rainscreen).",
+      "C) Face sealed systems are acceptable.",
+      "D) Overhangs are not necessary.",
+      "E) Any design will work."
+    ],
+    "answer": "B) Wall and window selection must exhibit robust (long-term) water penetration control features (e.g., Rainscreen)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the effect of 'Incidental Water' in a rainscreen assembly?",
+    "options": [
+      "A) It causes immediate rot.",
+      "B) It is drained harmlessly back to the exterior via the drainage cavity and flashings.",
+      "C) It gets trapped forever.",
+      "D) It creates a vacuum.",
+      "E) It dissolves the cladding."
+    ],
+    "answer": "B) It is drained harmlessly back to the exterior via the drainage cavity and flashings."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concrete eyebrows on high-rise buildings function primarily as:",
+    "options": [
+      "A) Solar shades only.",
+      "B) Deflection devices for rain.",
+      "C) Structural supports.",
+      "D) Wind tunnels.",
+      "E) Aesthetic only."
+    ],
+    "answer": "B) Deflection devices for rain."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following describes the 'Exclusion' strategy?",
+    "options": [
+      "A) Letting water in and pumping it out.",
+      "B) Keeping water out entirely using a perfect barrier.",
+      "C) Absorbing water.",
+      "D) Using a screen to slow water down.",
+      "E) None of the above."
+    ],
+    "answer": "B) Keeping water out entirely using a perfect barrier."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical result of high hydrostatic pressure (ground water) if not controlled?",
+    "options": [
+      "A) The building floats.",
+      "B) Water is forced through cracks in the foundation.",
+      "C) The roof leaks.",
+      "D) The windows break.",
+      "E) The air barrier fails."
+    ],
+    "answer": "B) Water is forced through cracks in the foundation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which element allows water to exit the drainage cavity at the bottom of a wall?",
+    "options": [
+      "A) The top plate.",
+      "B) The flashing and weep holes/openings.",
+      "C) The vapor barrier.",
+      "D) The stud.",
+      "E) The insulation."
+    ],
+    "answer": "B) The flashing and weep holes/openings."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Perfect Wall' places the thermal insulation:",
+    "options": [
+      "A) Inside the structure.",
+      "B) Outside the control layers (Air/Vapour/Water).",
+      "C) Between the studs.",
+      "D) There is no insulation.",
+      "E) Under the floor."
+    ],
+    "answer": "B) Outside the control layers (Air/Vapour/Water)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is 'Durability' a key component of rain control?",
+    "options": [
+      "A) Because buildings should last a long time.",
+      "B) Because materials must withstand the environment (UV, moisture, freeze-thaw) to maintain their function.",
+      "C) Because codes require it.",
+      "D) Because it saves money.",
+      "E) All of the above."
+    ],
+    "answer": "E) All of the above."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A 'Concealed Barrier' system is susceptible to failure because:",
+    "options": [
+      "A) It has no drainage gap; water that penetrates the cladding is trapped against the WRB.",
+      "B) It is too expensive.",
+      "C) It is too heavy.",
+      "D) It has too many vents.",
+      "E) It uses metal siding."
+    ],
+    "answer": "A) It has no drainage gap; water that penetrates the cladding is trapped against the WRB."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Solar radiation helps rain control primarily by:",
+    "options": [
+      "A) Melting snow.",
+      "B) Promoting drying of wet materials.",
+      "C) Killing mold.",
+      "D) Generating electricity.",
+      "E) Increasing pressure."
+    ],
+    "answer": "B) Promoting drying of wet materials."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The absorptivity of cladding affects:",
+    "options": [
+      "A) How much water runs off vs. gets stored in the material.",
+      "B) The cost of the material.",
+      "C) The structural strength.",
+      "D) The fire rating.",
+      "E) The air leakage rate."
+    ],
+    "answer": "A) How much water runs off vs. gets stored in the material."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which strategy relies on the 'Mass' of the wall to manage water?",
+    "options": [
+      "A) Rainscreen.",
+      "B) Curtain wall.",
+      "C) Traditional solid masonry.",
+      "D) Vinyl siding.",
+      "E) Metal panel."
+    ],
+    "answer": "C) Traditional solid masonry."
+  }
+]
