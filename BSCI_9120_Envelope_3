@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "According to the lecture notes, approximately what percentage of all energy in Canada is used in buildings?",
+    "options": [
+      "A) 10%",
+      "B) 30%",
+      "C) 50%",
+      "D) 75%",
+      "E) 90%"
+    ],
+    "answer": "B) 30%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In residential buildings, what percentage of energy is typically used for space-heating?",
+    "options": [
+      "A) 5-10%",
+      "B) 10-25%",
+      "C) 30-60%",
+      "D) 70-80%",
+      "E) 90-100%"
+    ],
+    "answer": "C) 30-60%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT listed as a primary reason for controlling heat flow?",
+    "options": [
+      "A) Thermal Comfort",
+      "B) Condensation control",
+      "C) Energy efficiency",
+      "D) Structural dead load support",
+      "E) Meeting building codes"
+    ],
+    "answer": "D) Structural dead load support"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which mechanism of heat transfer occurs at the molecular level without bulk movement of matter?",
+    "options": [
+      "A) Radiation",
+      "B) Convection",
+      "C) Conduction",
+      "D) Evaporation",
+      "E) Air Leakage"
+    ],
+    "answer": "C) Conduction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fourier’s Law describes the rate of heat flow for which heat transfer mechanism?",
+    "options": [
+      "A) Convection",
+      "B) Radiation",
+      "C) Conduction",
+      "D) Advection",
+      "E) Phase Change"
+    ],
+    "answer": "C) Conduction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the formula for Fourier's Law ($Q = (k / t) \\cdot A \\cdot \\Delta T$), what does 'k' represent?",
+    "options": [
+      "A) Thermal Resistance",
+      "B) Material Conductivity",
+      "C) Material Conductance",
+      "D) Surface Area",
+      "E) Time"
+    ],
+    "answer": "B) Material Conductivity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What are the typical units for Thermal Conductivity ($k$)?",
+    "options": [
+      "A) $W/m^2K$",
+      "B) $W/mK$",
+      "C) $m^2K/W$",
+      "D) $J/s$",
+      "E) $Pa\\cdot s/m^2$"
+    ],
+    "answer": "B) $W/mK$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following materials has the highest thermal conductivity?",
+    "options": [
+      "A) Concrete",
+      "B) Steel",
+      "C) Aluminum",
+      "D) Copper",
+      "E) Wood"
+    ],
+    "answer": "D) Copper"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the approximate thermal conductivity of Copper?",
+    "options": [
+      "A) 1-2 W/m-K",
+      "B) 17 W/m-K",
+      "C) 60 W/m-K",
+      "D) 160 W/m-K",
+      "E) 400 W/m-K"
+    ],
+    "answer": "E) 400 W/m-K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the approximate thermal conductivity of standard insulation materials?",
+    "options": [
+      "A) 0.025 to 0.080 W/m-K",
+      "B) 0.10 to 0.15 W/m-K",
+      "C) 1.0 to 2.0 W/m-K",
+      "D) 5.0 to 10.0 W/m-K",
+      "E) 60 W/m-K"
+    ],
+    "answer": "A) 0.025 to 0.080 W/m-K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Material Conductance ($C$) is defined as:",
+    "options": [
+      "A) Conductivity multiplied by thickness.",
+      "B) Conductivity divided by thickness.",
+      "C) The inverse of conductivity.",
+      "D) The square of resistance.",
+      "E) Density times specific heat."
+    ],
+    "answer": "B) Conductivity divided by thickness."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Thermal Resistance ($R$) is calculated as:",
+    "options": [
+      "A) $1 / Conductance (U)$",
+      "B) $1 / Conductivity (k)$",
+      "C) $Conductance \\cdot Area$",
+      "D) $Temperature \\cdot Thickness$",
+      "E) $Density / Volume$"
+    ],
+    "answer": "A) $1 / Conductance (U)$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the metric unit for Thermal Resistance (RSI)?",
+    "options": [
+      "A) $Btu/(hr \\cdot ft^2 \\cdot F)$",
+      "B) $W/m^2K$",
+      "C) $m^2K/W$",
+      "D) $W/mK$",
+      "E) $Joules$"
+    ],
+    "answer": "C) $m^2K/W$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which mechanism of heat transfer involves the movement of a fluid such as air?",
+    "options": [
+      "A) Conduction",
+      "B) Radiation",
+      "C) Convection",
+      "D) Diffusion",
+      "E) Sublimation"
+    ],
+    "answer": "C) Convection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The equation $Q = h_c \\cdot A \\cdot (T_s – T_f)$ is used to calculate heat transfer by:",
+    "options": [
+      "A) Radiation",
+      "B) Conduction",
+      "C) Convection",
+      "D) Evaporation",
+      "E) Nuclear decay"
+    ],
+    "answer": "C) Convection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is an example of 'Convective Looping'?",
+    "options": [
+      "A) Solar heat gaining through a window.",
+      "B) Heat moving through a solid copper bar.",
+      "C) Air circulating within loose-fill insulation in a wall cavity.",
+      "D) Heat loss to the night sky.",
+      "E) Heat conducting through a steel stud."
+    ],
+    "answer": "C) Air circulating within loose-fill insulation in a wall cavity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heat transfer by Radiation occurs in the form of:",
+    "options": [
+      "A) Sound waves",
+      "B) Electron flow",
+      "C) Electromagnetic waves",
+      "D) Molecular collisions",
+      "E) Fluid displacement"
+    ],
+    "answer": "C) Electromagnetic waves"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat transfer mechanism is the only one that can occur across a vacuum?",
+    "options": [
+      "A) Conduction",
+      "B) Convection",
+      "C) Radiation",
+      "D) Advection",
+      "E) Diffusion"
+    ],
+    "answer": "C) Radiation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heat loss from a surface to the night sky is primarily an example of:",
+    "options": [
+      "A) Conduction",
+      "B) Convection",
+      "C) Radiation",
+      "D) Air leakage",
+      "E) Thermal bridging"
+    ],
+    "answer": "C) Radiation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Regarding heat transfer across an air space, Conduction is:",
+    "options": [
+      "A) Dependent on orientation.",
+      "B) Independent of thickness.",
+      "C) Inversely proportional to thickness.",
+      "D) Dependent on surface reflectivity.",
+      "E) The only active mechanism."
+    ],
+    "answer": "C) Inversely proportional to thickness."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heat transfer by Convection across an air space is highly dependent on:",
+    "options": [
+      "A) Orientation and thickness of the air space.",
+      "B) Color of the air.",
+      "C) Reflectivity of the surfaces.",
+      "D) Only the temperature difference, not thickness.",
+      "E) The vacuum pressure."
+    ],
+    "answer": "A) Orientation and thickness of the air space."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heat transfer by Radiation across an air space is dependent on:",
+    "options": [
+      "A) The thickness of the air space.",
+      "B) The orientation of the air space (vertical vs horizontal).",
+      "C) The reflectivity/emissivity of the enclosing surfaces.",
+      "D) The air pressure.",
+      "E) The wind speed."
+    ],
+    "answer": "C) The reflectivity/emissivity of the enclosing surfaces."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For air space thicknesses over about 1 inch, the overall thermal resistance becomes practically:",
+    "options": [
+      "A) Infinite.",
+      "B) Zero.",
+      "C) Independent of thickness.",
+      "D) Dependent on humidity.",
+      "E) Exponentially higher."
+    ],
+    "answer": "C) Independent of thickness."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical Imperial R-value per inch for Extruded Polystyrene (XPS)?",
+    "options": [
+      "A) R-1",
+      "B) R-3",
+      "C) R-5",
+      "D) R-7",
+      "E) R-10"
+    ],
+    "answer": "C) R-5"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If an insulation material has an RSI value of 0.88, what is its approximate Imperial R-value?",
+    "options": [
+      "A) R-0.88",
+      "B) R-3.0",
+      "C) R-5.0",
+      "D) R-10.0",
+      "E) R-20.0"
+    ],
+    "answer": "C) R-5.0"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following insulation materials is typically considered to have high vapor permeability?",
+    "options": [
+      "A) Extruded Polystyrene (XPS)",
+      "B) Closed Cell Sprayfoam",
+      "C) Fiberglass (Batt or Blown)",
+      "D) Polyisocyanurate",
+      "E) Polyethylene sheet"
+    ],
+    "answer": "C) Fiberglass (Batt or Blown)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following insulations is listed as having 'High' sensitivity to moisture?",
+    "options": [
+      "A) Cellulose Fiber",
+      "B) Extruded Polystyrene (XPS)",
+      "C) Closed Cell Sprayfoam",
+      "D) Mineral Wool",
+      "E) Polyisocyanurate"
+    ],
+    "answer": "A) Cellulose Fiber"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Thermal Bridging'?",
+    "options": [
+      "A) Using a bridge to transport insulation.",
+      "B) Heat flow occurring at a higher rate through conductive materials penetrating the insulation.",
+      "C) The process of heating a bridge to prevent icing.",
+      "D) A method of calculating R-value for uniform walls.",
+      "E) The movement of air through a crack."
+    ],
+    "answer": "B) Heat flow occurring at a higher rate through conductive materials penetrating the insulation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a common example of a thermal bridge?",
+    "options": [
+      "A) Fiberglass batt in a cavity.",
+      "B) Steel studs in an interior insulated assembly.",
+      "C) Triple glazed windows.",
+      "D) Carpet on a floor.",
+      "E) Vinyl siding."
+    ],
+    "answer": "B) Steel studs in an interior insulated assembly."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does moisture generally affect the effective R-value of insulation?",
+    "options": [
+      "A) It increases the R-value significantly.",
+      "B) It has no effect on R-value.",
+      "C) It degrades (reduces) the effective R-value.",
+      "D) It converts the insulation into a heat source.",
+      "E) It improves the structural strength."
+    ],
+    "answer": "C) It degrades (reduces) the effective R-value."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary heat transfer mechanism responsible for heat loss through a solid steel beam penetrating a wall?",
+    "options": [
+      "A) Radiation",
+      "B) Convection",
+      "C) Conduction",
+      "D) Evaporation",
+      "E) Air leakage"
+    ],
+    "answer": "C) Conduction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following materials has a conductivity most similar to wood?",
+    "options": [
+      "A) Copper",
+      "B) Aluminum",
+      "C) Most Plastics/Vinyl",
+      "D) Concrete",
+      "E) Steel"
+    ],
+    "answer": "C) Most Plastics/Vinyl"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the approximate thermal conductivity of concrete?",
+    "options": [
+      "A) 0.03 W/m-K",
+      "B) 0.15 W/m-K",
+      "C) 1 to 2 W/m-K",
+      "D) 60 W/m-K",
+      "E) 400 W/m-K"
+    ],
+    "answer": "C) 1 to 2 W/m-K"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "To maximize thermal efficiency, the design should aim to:",
+    "options": [
+      "A) Maximize the use of high conductive materials through the insulation.",
+      "B) Minimize the use of high conductive materials through the insulation.",
+      "C) Use only concrete for insulation.",
+      "D) Remove all insulation layers.",
+      "E) Increase the number of thermal bridges."
+    ],
+    "answer": "B) Minimize the use of high conductive materials through the insulation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which simulation software is mentioned for 2D heat transfer analysis?",
+    "options": [
+      "A) AutoCAD",
+      "B) THERM",
+      "C) Photoshop",
+      "D) Excel",
+      "E) SketchUp"
+    ],
+    "answer": "B) THERM"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Convection within the hollow sections of window frames can be minimized by:",
+    "options": [
+      "A) Leaving the frames empty.",
+      "B) Filling the frame with low expansion foam or preformed insulation.",
+      "C) Making the frames out of steel.",
+      "D) Painting the frames black.",
+      "E) Drilling holes in the frames."
+    ],
+    "answer": "B) Filling the frame with low expansion foam or preformed insulation."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which environmental load includes 'Vapour Pressure'?",
+    "options": [
+      "A) Only Interior loads",
+      "B) Only Exterior loads",
+      "C) Both Interior and Exterior loads",
+      "D) Neither",
+      "E) Only Ground Water"
+    ],
+    "answer": "C) Both Interior and Exterior loads"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A surface with high reflectivity will generally have:",
+    "options": [
+      "A) High emissivity.",
+      "B) Low emissivity.",
+      "C) High conductivity.",
+      "D) High convection.",
+      "E) Zero resistance."
+    ],
+    "answer": "B) Low emissivity."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following insulation types is NOT a rigid boardstock?",
+    "options": [
+      "A) Extruded Polystyrene (XPS)",
+      "B) Expanded Polystyrene (EPS)",
+      "C) Polyisocyanurate",
+      "D) Blown Cellulose",
+      "E) Mineral Wool Board"
+    ],
+    "answer": "D) Blown Cellulose"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What happens to the thermal resistance of an air space if a reflective surface is added?",
+    "options": [
+      "A) It decreases.",
+      "B) It stays the same.",
+      "C) It increases.",
+      "D) It becomes negative.",
+      "E) It fluctuates randomly."
+    ],
+    "answer": "C) It increases."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The relationship $1/U$ represents:",
+    "options": [
+      "A) Conductivity ($k$)",
+      "B) Conductance ($C$)",
+      "C) Thermal Resistance ($R$)",
+      "D) Heat Flow ($Q$)",
+      "E) Temperature Difference ($\Delta T$)"
+    ],
+    "answer": "C) Thermal Resistance ($R$)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following has the lowest thermal conductivity?",
+    "options": [
+      "A) Steel",
+      "B) Wood",
+      "C) Concrete",
+      "D) Insulation materials",
+      "E) Glass"
+    ],
+    "answer": "D) Insulation materials"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of building science, '1D' heat transfer calculation refers to:",
+    "options": [
+      "A) Parallel path calculations.",
+      "B) Using THERM software.",
+      "C) Using HEAT 3D software.",
+      "D) Measuring air leakage.",
+      "E) Guessing the value."
+    ],
+    "answer": "A) Parallel path calculations."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is considered a 'Control Function' of the enclosure?",
+    "options": [
+      "A) Supporting gravity loads.",
+      "B) Controlling Insects and Animals.",
+      "C) Generating heat.",
+      "D) Aesthetic finishing.",
+      "E) Distributing water."
+    ],
+    "answer": "B) Controlling Insects and Animals."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Radiant Barriers are most effective at controlling which type of heat flow?",
+    "options": [
+      "A) Conduction",
+      "B) Convection",
+      "C) Radiation",
+      "D) Advection",
+      "E) Evaporation"
+    ],
+    "answer": "C) Radiation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical R-value per inch for Foam Glass?",
+    "options": [
+      "A) R-1.0 to R-2.0",
+      "B) R-2.9 to R-4.0",
+      "C) R-5.0 to R-6.0",
+      "D) R-7.0 to R-8.0",
+      "E) R-10.0"
+    ],
+    "answer": "B) R-2.9 to R-4.0"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which type of spray foam typically has a higher R-value per inch?",
+    "options": [
+      "A) Open Cell Sprayfoam",
+      "B) Closed Cell Sprayfoam",
+      "C) They are identical.",
+      "D) Sprayfoam has no R-value.",
+      "E) Semi-open Cell Sprayfoam."
+    ],
+    "answer": "B) Closed Cell Sprayfoam"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Convective looping within loose-fill insulation occurs when:",
+    "options": [
+      "A) The insulation is too dense.",
+      "B) There is a temperature difference (hot inside, cold outside) and the insulation is low density.",
+      "C) The insulation is wet.",
+      "D) There is no air in the cavity.",
+      "E) The wall is painted dark colors."
+    ],
+    "answer": "B) There is a temperature difference (hot inside, cold outside) and the insulation is low density."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If you calculate Conductivity ($k$) from Conductance ($C$) and thickness ($t$), the formula is:",
+    "options": [
+      "A) $k = C / t$",
+      "B) $k = C \\cdot t$",
+      "C) $k = 1 / C$",
+      "D) $k = t / C$",
+      "E) $k = C + t$"
+    ],
+    "answer": "B) $k = C \\cdot t$"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a form of environmental load mentioned in the lecture?",
+    "options": [
+      "A) Wind Driven Rain",
+      "B) Ground Water",
+      "C) Solar Radiation",
+      "D) Traffic Noise",
+      "E) Tectonic Plate Movement"
+    ],
+    "answer": "E) Tectonic Plate Movement"
+  }
+]
