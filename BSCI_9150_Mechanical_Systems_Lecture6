@@ -1,0 +1,722 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following defines 'Primary Air' in a conditioned space?",
+    "options": [
+      "The mixture of supply air and room air at 50 fpm",
+      "The total volume of air in the occupied zone",
+      "The conditioned air delivered directly by the supply outlet",
+      "Air that is extracted from the room via return grilles",
+      "Stagnant air located near the floor during heating"
+    ],
+    "answer": "The conditioned air delivered directly by the supply outlet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Total Air' as defined in air diffusion characteristics?",
+    "options": [
+      "The sum of outdoor air and return air in the AHU",
+      "The mixture of primary and entrained room air within a 50 fpm velocity envelope",
+      "The air volume that has completely bypassed the cooling coil",
+      "The high-velocity core of the jet in Zone 1",
+      "The air that occupies the space 1 foot from the walls"
+    ],
+    "answer": "The mixture of primary and entrained room air within a 50 fpm velocity envelope"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The induction of room air into the primary air stream is technically known as:",
+    "options": [
+      "Convection",
+      "Stratification",
+      "Entrainment",
+      "Radiation",
+      "Infiltration"
+    ],
+    "answer": "Entrainment"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which zone of an air jet is characterized by a constant velocity and temperature for approximately four diameters from the outlet?",
+    "options": [
+      "Zone 1",
+      "Zone 2",
+      "Zone 3",
+      "Zone 4",
+      "The Stagnant Zone"
+    ],
+    "answer": "Zone 1"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What occurs in 'Zone 2' (the transition zone) of an air jet?",
+    "options": [
+      "Velocity remains strictly constant",
+      "Maximum velocity remains constant but total air volume increases",
+      "Velocity begins to decay and air temperature starts to change",
+      "Air velocity drops below 50 fpm instantly",
+      "The air stream attaches to the ceiling via the Coanda effect"
+    ],
+    "answer": "Velocity begins to decay and air temperature starts to change"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In 'Zone 3', also known as the fully developed turbulence zone, the jet velocity is primarily a function of:",
+    "options": [
+      "The distance from the outlet and the area of the outlet",
+      "The color of the diffuser",
+      "The height of the ceiling only",
+      "The humidity ratio of the return air",
+      "The size of the return air fan"
+    ],
+    "answer": "The distance from the outlet and the area of the outlet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the defining characteristic of 'Zone 4' in a jet?",
+    "options": [
+      "It is the region of maximum noise generation",
+      "It is the terminal zone where maximum velocity decreases to less than 50 fpm",
+      "It is the zone where primary air is 100% pure",
+      "It is located entirely inside the supply ductwork",
+      "It is the region where air velocity exceeds 500 fpm"
+    ],
+    "answer": "It is the terminal zone where maximum velocity decreases to less than 50 fpm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The phenomenon where a jet of air attaches to a nearby surface (like a ceiling) and flows along it is called:",
+    "options": [
+      "The Bernoulli Principle",
+      "The Stack Effect",
+      "The Coanda Effect",
+      "Thermal Pluming",
+      "The Venturi Effect"
+    ],
+    "answer": "The Coanda Effect"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is true regarding 'Isothermal' jets?",
+    "options": [
+      "They are only used for heating applications",
+      "The temperature of the jet is the same as the room air temperature",
+      "They always fall to the floor due to density",
+      "They are characterized by high humidity",
+      "They do not experience any entrainment"
+    ],
+    "answer": "The temperature of the jet is the same as the room air temperature"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does a cold air jet behave differently than a warm air jet when discharged horizontally?",
+    "options": [
+      "Cold air rises while warm air falls",
+      "Cold air falls due to higher density, while warm air rises due to lower density",
+      "Cold air has no entrainment, while warm air has high entrainment",
+      "Warm air adheres to the floor while cold air adheres to the ceiling",
+      "Both jets behave identically regardless of temperature"
+    ],
+    "answer": "Cold air falls due to higher density, while warm air rises due to lower density"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "According to the five basic air flow patterns, which outlets belong to 'Group 1'?",
+    "options": [
+      "High side wall outlets",
+      "Ceiling diffusers with radial discharge",
+      "Grilles or registers in the floor or ceiling with vertical downward jets",
+      "Floor outlets with horizontal discharge",
+      "Slot diffusers in the perimeter"
+    ],
+    "answer": "Grilles or registers in the floor or ceiling with vertical downward jets"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Group 2 outlets, which include high side wall outlets, produce which type of airflow pattern?",
+    "options": [
+      "Vertical downward discharge",
+      "Horizontal discharge near the ceiling",
+      "Vertical upward discharge from the floor",
+      "Radial discharge in all directions",
+      "Spiral discharge from the floor"
+    ],
+    "answer": "Horizontal discharge near the ceiling"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What distinguishes Group 3 outlets from Group 4 outlets?",
+    "options": [
+      "Group 3 are ceiling-mounted, Group 4 are floor-mounted",
+      "Group 3 produce vertical non-spreading jets, while Group 4 produce vertical spreading jets",
+      "Group 3 use hot water, while Group 4 use electricity",
+      "Group 3 are used only for cooling, while Group 4 are for heating",
+      "There is no difference between these groups"
+    ],
+    "answer": "Group 3 produce vertical non-spreading jets, while Group 4 produce vertical spreading jets"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which type of diffuser is classified as Group 5?",
+    "options": [
+      "Floor registers with horizontal discharge",
+      "High side wall grilles",
+      "Ceiling diffusers that discharge air in all directions (radial)",
+      "Linear slot diffusers in the wall",
+      "Perimeter baseboard heaters"
+    ],
+    "answer": "Ceiling diffusers that discharge air in all directions (radial)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In air distribution design, the 'Occupied Zone' is typically defined vertically as:",
+    "options": [
+      "Floor to 10 feet high",
+      "2 feet to 8 feet above the floor",
+      "3 inches to 6 feet above the floor",
+      "6 inches to 5 feet above the floor",
+      "0 inches to 7 feet above the floor"
+    ],
+    "answer": "3 inches to 6 feet above the floor"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the standard horizontal boundary for the 'Occupied Zone' relative to walls?",
+    "options": [
+      "Directly touching the wall surface",
+      "More than 1 foot from the walls",
+      "At least 3 feet from any windows",
+      "6 inches from the walls",
+      "2 feet from the walls"
+    ],
+    "answer": "More than 1 foot from the walls"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Effective Draft Temperature' ($\theta$) formula is used to evaluate:",
+    "options": [
+      "The efficiency of the boiler",
+      "The air pressure in the supply plenum",
+      "Local thermal comfort based on temperature and air velocity",
+      "The amount of fresh air required for ventilation",
+      "The noise level of the diffuser"
+    ],
+    "answer": "Local thermal comfort based on temperature and air velocity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the Effective Draft Temperature formula, what is the 'local' air velocity ($V_x$) limit to satisfy comfort?",
+    "options": [
+      "Less than 30 fpm",
+      "Less than 70 fpm",
+      "Exactly 100 fpm",
+      "At least 50 fpm",
+      "Less than 150 fpm"
+    ],
+    "answer": "Less than 70 fpm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the 'Effective Draft Temperature' ($\theta$) comfort range required to meet ADPI criteria?",
+    "options": [
+      "-1 to +1 degrees F",
+      "-5 to +5 degrees F",
+      "-3 to +2 degrees F",
+      "0 to +4 degrees F",
+      "-2 to +3 degrees F"
+    ],
+    "answer": "-3 to +2 degrees F"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The Air Distribution Performance Index (ADPI) represents:",
+    "options": [
+      "The total cooling capacity of the system",
+      "The percentage of points in the occupied zone that meet comfort criteria",
+      "The ratio of primary air to induced air",
+      "The total pressure drop across the diffusers",
+      "The average temperature of the room air"
+    ],
+    "answer": "The percentage of points in the occupied zone that meet comfort criteria"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the T/L ratio used for diffuser selection, what does 'L' represent?",
+    "options": [
+      "Latent heat of the space",
+      "Linear feet of the ductwork",
+      "Characteristic Length (distance to wall or mid-point between outlets)",
+      "Laminar flow coefficient",
+      "Level of the building"
+    ],
+    "answer": "Characteristic Length (distance to wall or mid-point between outlets)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which T/L ratio typically yields the highest ADPI for most ceiling diffusers?",
+    "options": [
+      "0.2 to 0.4",
+      "0.5 to 0.7",
+      "1.0 to 1.5",
+      "2.0 to 3.0",
+      "Greater than 5.0"
+    ],
+    "answer": "1.0 to 1.5"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Throw' ($T_{50}$) in the context of air diffuser performance?",
+    "options": [
+      "The distance a jet travels before its velocity drops to 50 fpm",
+      "The total height of the room",
+      "The distance between the supply and return vents",
+      "The speed of the air at the diffuser face",
+      "The vertical distance the air falls in cooling mode"
+    ],
+    "answer": "The distance a jet travels before its velocity drops to 50 fpm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the first step in the basic procedure for designing an air distribution system?",
+    "options": [
+      "Selecting the diffuser model",
+      "Calculating the required CFM for the space based on heat load",
+      "Determining the Noise Criteria (NC) for the room",
+      "Calculating the T/L ratio",
+      "Ordering the ductwork materials"
+    ],
+    "answer": "Calculating the required CFM for the space based on heat load"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When cooling with high side wall outlets, what happens if the 'Throw' is too short?",
+    "options": [
+      "The air will stay at the ceiling and never reach the occupied zone",
+      "The air will short-circuit directly into the return vent",
+      "The air will drop prematurely into the occupied zone, potentially causing drafts",
+      "The room temperature will rise immediately",
+      "The fan will consume more energy"
+    ],
+    "answer": "The air will drop prematurely into the occupied zone, potentially causing drafts"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which type of outlet is specifically designed to spread air vertically and horizontally from a floor or sill location?",
+    "options": [
+      "Group 1 floor grille",
+      "Group 3 sill register",
+      "Group 4 floor register",
+      "Group 5 radial diffuser",
+      "Group 2 high wall grille"
+    ],
+    "answer": "Group 4 floor register"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Noise Criteria (NC) is a single-number rating used to evaluate:",
+    "options": [
+      "The air velocity at the duct inlet",
+      "The background sound level generated by the air distribution system",
+      "The vibration of the building structure",
+      "The frequency of maintenance required for the fans",
+      "The effectiveness of the thermal insulation"
+    ],
+    "answer": "The background sound level generated by the air distribution system"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a typical private office, a recommended NC design target is usually:",
+    "options": [
+      "NC 15-20",
+      "NC 30-35",
+      "NC 45-50",
+      "NC 55-60",
+      "NC 70+"
+    ],
+    "answer": "NC 30-35"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is 'Drop' in the behavior of a cold air jet?",
+    "options": [
+      "The vertical distance the bottom of the jet moves below the outlet",
+      "The decrease in pressure inside the supply duct",
+      "The reduction in air volume due to cooling",
+      "The distance between the diffuser and the floor",
+      "The horizontal distance the air travels before stopping"
+    ],
+    "answer": "The vertical distance the bottom of the jet moves below the outlet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the jet behavior diagram, 'Spread' refers to:",
+    "options": [
+      "The horizontal divergence of the air stream",
+      "The speed of the air at the edges of the jet",
+      "The length of the occupied zone",
+      "The vertical distance the air falls",
+      "The number of diffusers in a single row"
+    ],
+    "answer": "The horizontal divergence of the air stream"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following describes 'Secondary Air'?",
+    "options": [
+      "Air that is provided by a backup fan",
+      "Air that is already present in the room and is induced by the primary jet",
+      "Conditioned air from the AHU",
+      "Air that has passed through a reheat coil",
+      "Exhaust air from the building"
+    ],
+    "answer": "Air that is already present in the room and is induced by the primary jet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary motive force for air motion within a conditioned space?",
+    "options": [
+      "Gravity",
+      "The momentum of the primary air jet",
+      "The buoyancy of the room air",
+      "The suction of the return air grille",
+      "The movement of people within the space"
+    ],
+    "answer": "The momentum of the primary air jet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is the Coanda effect beneficial for cooling applications using ceiling diffusers?",
+    "options": [
+      "It keeps the cold air at the ceiling longer, allowing for better mixing and preventing cold drafts on occupants",
+      "It increases the velocity of the air at the occupant's head level",
+      "It allows the system to use smaller fans",
+      "It eliminates the need for air filtration",
+      "It makes the air more humid"
+    ],
+    "answer": "It keeps the cold air at the ceiling longer, allowing for better mixing and preventing cold drafts on occupants"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a potential disadvantage of overhead heating with low-velocity jets?",
+    "options": [
+      "High air velocities in the occupied zone",
+      "Excessive induction of room air",
+      "Stratification of warm air at the ceiling and stagnant cold air at the floor",
+      "Too much noise from the diffuser",
+      "Rapid cooling of the space"
+    ],
+    "answer": "Stratification of warm air at the ceiling and stagnant cold air at the floor"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Aspect Ratio' of a rectangular outlet is defined as:",
+    "options": [
+      "The ratio of the area to the perimeter",
+      "The ratio of the width to the height of the outlet",
+      "The ratio of primary air to induced air",
+      "The ratio of throw to characteristic length",
+      "The ratio of the supply duct to the return duct"
+    ],
+    "answer": "The ratio of the width to the height of the outlet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A higher aspect ratio for a rectangular jet generally results in:",
+    "options": [
+      "A longer throw distance",
+      "A shorter throw distance due to increased surface area and entrainment",
+      "Lower air velocity at the face",
+      "Reduced noise criteria (NC)",
+      "Less horizontal spread"
+    ],
+    "answer": "A shorter throw distance due to increased surface area and entrainment"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the ADPI calculation, if 80% of the measured points in a space satisfy the comfort criteria, the ADPI is:",
+    "options": [
+      "0.80",
+      "20",
+      "80",
+      "Unknown without the T/L ratio",
+      "Not applicable for commercial spaces"
+    ],
+    "answer": "80"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which outlet group is typically recommended for heating applications from a floor location to counteract cold window drafts?",
+    "options": [
+      "Group 1 (Vertical downward)",
+      "Group 5 (Ceiling radial)",
+      "Group 4 (Vertical spreading from floor)",
+      "Group 2 (High wall horizontal)",
+      "None of the above"
+    ],
+    "answer": "Group 4 (Vertical spreading from floor)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When using perforated ceiling diffusers, the air is typically discharged:",
+    "options": [
+      "In a single high-velocity vertical jet",
+      "In multiple small horizontal jets that utilize the Coanda effect",
+      "Directly upward toward the roof",
+      "Only when the heating system is off",
+      "At a velocity exceeding 1000 fpm"
+    ],
+    "answer": "In multiple small horizontal jets that utilize the Coanda effect"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The formula $\theta = (T_x - T_c) - 0.07(V_x - 30)$ shows that for every 10 fpm increase in velocity ($V_x$), the effective draft temperature drops by:",
+    "options": [
+      "0.07 degrees F",
+      "0.7 degrees F",
+      "1.0 degrees F",
+      "7.0 degrees F",
+      "30 degrees F"
+    ],
+    "answer": "0.7 degrees F"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If the characteristic length ($L$) of a space is 15 feet and a diffuser catalog indicates a throw ($T_{50}$) of 20 feet, the T/L ratio is:",
+    "options": [
+      "0.75",
+      "1.00",
+      "1.33",
+      "2.00",
+      "3.00"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a 'Register' in air distribution systems?",
+    "options": [
+      "A device used to measure the total air volume",
+      "A grille equipped with a built-in damper to control airflow",
+      "The log used to record maintenance activities",
+      "The connection point between the AHU and the chiller",
+      "A high-velocity slot diffuser"
+    ],
+    "answer": "A grille equipped with a built-in damper to control airflow"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factor has the LEAST impact on the ADPI of a space?",
+    "options": [
+      "Air flow rate (CFM)",
+      "Diffuser type and location",
+      "The color of the walls",
+      "Space cooling load",
+      "Characteristic length (L)"
+    ],
+    "answer": "The color of the walls"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For Group 5 ceiling radial diffusers, an ADPI of 80 or higher is usually achievable at T/L ratios of:",
+    "options": [
+      "0.1 to 0.3",
+      "0.5 to 0.9",
+      "1.0 to 3.0",
+      "Above 5.0",
+      "Only at exactly 1.0"
+    ],
+    "answer": "1.0 to 3.0"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is true for 'Non-isothermal' jets in heating mode?",
+    "options": [
+      "The buoyancy of the warm air causes the jet to rise more than an isothermal jet",
+      "The jet will drop rapidly to the floor",
+      "The air velocity increases as it moves away from the outlet",
+      "The jet temperature remains higher than the supply air temperature",
+      "The jet is ignored by ADPI calculations"
+    ],
+    "answer": "The buoyancy of the warm air causes the jet to rise more than an isothermal jet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What happens to the 'Induced Air' volume as you move further from the supply outlet?",
+    "options": [
+      "It decreases because the jet loses momentum",
+      "It increases because the primary jet entrains more room air along its path",
+      "It stays the same throughout all four zones",
+      "It becomes negative in Zone 4",
+      "It is only present in the mixing plenum"
+    ],
+    "answer": "It increases because the primary jet entrains more room air along its path"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Drop' of a cold air jet is primarily caused by:",
+    "options": [
+      "Natural convection and the difference in density between cold supply air and warm room air",
+      "The suction of the return air fan",
+      "The high velocity of the supply air",
+      "The length of the ductwork",
+      "The presence of occupants in the space"
+    ],
+    "answer": "Natural convection and the difference in density between cold supply air and warm room air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When selecting a diffuser, 'Characteristic Length' ($L$) for a single high side wall outlet is:",
+    "options": [
+      "The distance to the wall directly opposite the outlet",
+      "The height of the outlet from the floor",
+      "Half the distance between the floor and the ceiling",
+      "The total area of the floor",
+      "The width of the outlet face"
+    ],
+    "answer": "The distance to the wall directly opposite the outlet"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of the basic design procedure, once the diffuser model is selected, the next step is to:",
+    "options": [
+      "Measure the room humidity",
+      "Check the performance catalog for Throw, NC, and Pressure Drop",
+      "Recalculate the building heating load",
+      "Install the return air grilles",
+      "Adjust the chiller setpoint"
+    ],
+    "answer": "Check the performance catalog for Throw, NC, and Pressure Drop"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which airflow pattern is characterized by air moving outward in a circle from a central ceiling point?",
+    "options": [
+      "Vertical downward (Group 1)",
+      "Horizontal ceiling (Group 2)",
+      "Radial ceiling (Group 5)",
+      "Horizontal floor (Group 4)",
+      "Vertical upward (Group 3)"
+    ],
+    "answer": "Radial ceiling (Group 5)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the consequence of selecting a diffuser with an NC rating higher than the room's design target?",
+    "options": [
+      "The system will be too quiet for privacy",
+      "The occupants will likely experience annoying background noise from the airflow",
+      "The room temperature will be impossible to control",
+      "The ADPI will increase significantly",
+      "The fan will use less power"
+    ],
+    "answer": "The occupants will likely experience annoying background noise from the airflow"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following describes the terminal velocity ($V_t$) typically used to define 'Throw' in commercial catalogs?",
+    "options": [
+      "10 fpm",
+      "50, 100, or 150 fpm",
+      "500 fpm",
+      "Exactly the speed of sound",
+      "Zero fpm"
+    ],
+    "answer": "50, 100, or 150 fpm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In overhead heating, the 'Stagnant Zone' usually forms:",
+    "options": [
+      "At the ceiling near the diffuser",
+      "In the middle of the occupied zone",
+      "Near the floor because the warm air stays buoyant at the ceiling",
+      "Inside the return air duct",
+      "In the corners of the room near the ceiling"
+    ],
+    "answer": "Near the floor because the warm air stays buoyant at the ceiling"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does increasing the number of diffusers in a space (while keeping the total CFM the same) affect the Throw per diffuser?",
+    "options": [
+      "It increases the Throw",
+      "It decreases the Throw because each diffuser handles less CFM",
+      "It has no effect on Throw",
+      "It increases the NC rating",
+      "It reduces the entrainment ratio"
+    ],
+    "answer": "It decreases the Throw because each diffuser handles less CFM"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a primary goal of effective space air diffusion?",
+    "options": [
+      "To maximize the temperature difference between the floor and ceiling",
+      "To provide uniform temperature distribution and avoid stagnant or drafty areas",
+      "To increase the noise level for privacy",
+      "To prevent any room air from mixing with primary air",
+      "To eliminate the need for return air fans"
+    ],
+    "answer": "To provide uniform temperature distribution and avoid stagnant or drafty areas"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the typical velocity in 'Zone 4' of a jet?",
+    "options": [
+      "Over 1000 fpm",
+      "Between 500 and 800 fpm",
+      "Below 50 fpm",
+      "Exactly 150 fpm",
+      "Variable but always higher than Zone 1"
+    ],
+    "answer": "Below 50 fpm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A 'Slot Diffuser' is typically used for:",
+    "options": [
+      "High-capacity industrial cooling",
+      "Linear applications along perimeters or windows to provide a 'curtain' of air",
+      "Vertical downward discharge in the center of a room only",
+      "Extracting exhaust air from kitchens",
+      "Recovering energy from the exhaust air stream"
+    ],
+    "answer": "Linear applications along perimeters or windows to provide a 'curtain' of air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the T/L ratio calculation for diffusers placed in a row, the characteristic length ($L$) is:",
+    "options": [
+      "The total length of the room",
+      "Half the distance between the centerlines of adjacent diffusers",
+      "The distance from the floor to the ceiling",
+      "The diameter of the supply duct",
+      "The length of the diffuser itself"
+    ],
+    "answer": "Half the distance between the centerlines of adjacent diffusers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the role of 'spread' in selecting a diffuser for a wide room?",
+    "options": [
+      "It determines how much area the jet covers horizontally to prevent 'dead' spots between diffusers",
+      "It calculates the total weight of the diffuser",
+      "It is used to measure the humidity level",
+      "It defines the thickness of the insulation",
+      "It is used to calculate the electricity cost"
+    ],
+    "answer": "It determines how much area the jet covers horizontally to prevent 'dead' spots between diffusers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which outlet group is best suited for cooling a long, narrow room from one of the shorter walls?",
+    "options": [
+      "Group 1 (Vertical downward)",
+      "Group 2 (Horizontal high side wall)",
+      "Group 4 (Vertical spreading floor)",
+      "Group 5 (Ceiling radial)",
+      "None of the above"
+    ],
+    "answer": "Group 2 (Horizontal high side wall)"
+  }
+]
